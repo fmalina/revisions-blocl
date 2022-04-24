@@ -1,6 +1,7 @@
 About
 =====
-A community marketplace matching home owners with flatmates and tenants looking for a better place to live.
+A community marketplace matching home owners with flatmates and tenants looking
+for a better place to live.
 
 
 * a clear website,
@@ -12,7 +13,8 @@ A community marketplace matching home owners with flatmates and tenants looking 
 * a website that listens to your feedback.
 
 
-Blocl Rooms is a place to find a flatmate, flatshare or rent a flat in the UK. Website is hosted in London.
+Blocl Rooms is a place to find a flatmate, flatshare or rent a flat in the UK.
+Website is hosted in London.
 
 
 **Site safety and security is key to us. That’s why we:**
@@ -30,5 +32,6 @@ Blocl Rooms is a place to find a flatmate, flatshare or rent a flat in the UK. 
 We want our members to succeed faster and recommend us.
 
 
-If you have any ideas, comments or feedback just drop us a line using the box below.
+If you have any ideas, comments or feedback just drop us a line using the box
+below.
 

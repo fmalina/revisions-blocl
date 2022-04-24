@@ -1,13 +1,18 @@
 Activism
 ========
-**Radicals' digest**, exquisitely named so by the author of [The Debt Generation](/books/debtgeneration_B01K2EJTSC) is a collection of book excerpts and quotes relevant to educate us and the next generation of local community activists.
+**Radicals' digest**, exquisitely named so by the author of [The Debt
+Generation](/books/debtgeneration_B01K2EJTSC) is a collection of book excerpts
+and quotes relevant to educate us and the next generation of local community
+activists.
 
 
-Authors pour the finest aspects of their knowledge and insights into their books. Out of that selection, here we offer a further refined selection of book quotes and excerpts as attributed to their authors.
+Authors pour the finest aspects of their knowledge and insights into their
+books. Out of that selection, here we offer a further refined selection of book
+quotes and excerpts as attributed to their authors.
 
 
-Quotes below from some 120 books concerning the social reality of the world
-we live in, with eight recently published books to consider topping the list.
+Quotes below from some 120 books concerning the social reality of the world  we
+live in, with eight recently published books to consider topping the list.
 
 
 * [Historical Capitalism](/books/historicalcapitalism_1844677664) with Capitalist Civilization
@@ -20,5 +25,6 @@ we live in, with eight recently published books to consider topping the list.
 * [Economics and the Ecosystem](/books/economicsecosystem_B07ZM9G22Y)
 
 
-Note all of these are copyrighted materials owned by their respective authors, published here to allow our users to discover them.
+Note all of these are copyrighted materials owned by their respective authors,
+published here to allow our users to discover them.
 

@@ -1,6 +1,9 @@
 Looking for a room, but who do you want to live with?
 =====================================================
-When looking for a room it’s good to be clear on who you would like to live with, it would be preferable with someone you like rather than making a rapid decision and moving in to somewhere with people you don’t get along with. Some things to consider when looking are:
+When looking for a room it’s good to be clear on who you would like to live
+with, it would be preferable with someone you like rather than making a rapid
+decision and moving in to somewhere with people you don’t get along with. Some
+things to consider when looking are:
 
 
 * **Gender**: Would you prefer to live with males, females or no preference?
