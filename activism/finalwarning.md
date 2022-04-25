@@ -1,5 +1,8 @@
 Our Final Warning: Six Degrees of Climate Emergency
 ===================================================
+
+By **Mark Lynas**
+
 ![](/bookimg/finalwarning.jpg)
 
 1 Degree

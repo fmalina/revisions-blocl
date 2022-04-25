@@ -1,5 +1,8 @@
 Empire of Chaos: The Roving Eye Collection
 ==========================================
+
+By **Pepe Escobar**
+
 I have been arguing that Washington's number one objective now is to prevent an
 economic integration of Eurasia that would leave the US as a non-hegemon, or
 worse still, an outsider.

@@ -1,5 +1,8 @@
 Why A Green Future Needs Nuclear Power
 ======================================
+
+By **Mark Lynas**
+
 Despite all the high emotion that nuclear power seems to cause, few people
 remember the rather prosaic fact that all a nuclear reactor does is generate
 heat. This heat boils water into steam, which expands to drive turbines, just as

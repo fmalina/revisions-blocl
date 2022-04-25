@@ -1,5 +1,8 @@
 Treasure Islands: Tax Havens and the Men who Stole the World ( 2011)
 ====================================================================
+
+By **Nicholas Shaxson**
+
 ![](/bookimg/treasureislands.jpg)
 
 Tax havens are the most important single reason why poor people and poor

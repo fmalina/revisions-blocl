@@ -1,5 +1,8 @@
 Get It Together: The NHS
 ========================
+
+By **Zoe Williams**
+
 ![](/bookimg/getittogether.jpg)
 
 We took something universal, and damaging, and unjust - illness – and forged

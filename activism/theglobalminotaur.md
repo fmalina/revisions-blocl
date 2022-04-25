@@ -1,5 +1,8 @@
 The Global Minotaur
 ===================
+
+By **Yanis Varoufakis**
+
 According to the British Academy’s explanation (which, it must be said, is
 widely shared), the Crash of 2008 happened because by then – and unbeknownst to
 the armies of hyper-smart men and women whose job was to have known better – the

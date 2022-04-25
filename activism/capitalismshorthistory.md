@@ -1,5 +1,8 @@
 Capitalism: A Short History
 ===========================
+
+By **Jürgen Kocka**
+
 ![](/bookimg/capitalism.jpg)
 
 **In work poverty hits record high**

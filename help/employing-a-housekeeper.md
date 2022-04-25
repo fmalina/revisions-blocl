@@ -1,5 +1,6 @@
 Employing a housekeeper
 =======================
+
 If you’re renting several rooms in a property, then it may be a good idea to
 consider hiring a housekeeper. With multiple tenants in a house things could
 start getting a little untidy. Maybe the kitchen surface isn’t getting cleaned

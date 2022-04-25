@@ -1,5 +1,8 @@
 Britain and the EU: In or Out?
 ==============================
+
+By **FT reporters**
+
 ![](/bookimg/britainandeu.jpg)
 
 By undertaking to put EU membership to a referendum by the end of 2017, David

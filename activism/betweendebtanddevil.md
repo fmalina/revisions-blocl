@@ -1,5 +1,8 @@
 Between Debt and the Devil: Money, Credit, and Fixing Global Finance
 ====================================================================
+
+By **Adair Turner**
+
 On Saturday September 20, 2008, I became chairman of the UK Financial Services
 Authority. We faced the biggest financial crisis in 80 years. Seven days before
 I started, I had had no idea we were on the verge of disaster. Nor did almost

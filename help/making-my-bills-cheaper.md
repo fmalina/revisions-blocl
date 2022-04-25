@@ -1,5 +1,6 @@
 Making my bills cheaper
 =======================
+
 When renting rooms you’ll normally find your monthly bills will go up, due to
 more water, electric, gas etc being used daily. The best way to help combat this
 is to advise your tenants not to leave showers running and not having the

@@ -1,5 +1,8 @@
 A History of 20th Century Britain (2007)
 ========================================
+
+By **Andrew Marr**
+
 Consumerism has shouldered aside other ways of understanding the world – real
 political visions, organised religion,   a pulsing sense of national identity.
 So an obvious question is whether the triumph of consumerism, that big story

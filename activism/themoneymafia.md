@@ -1,5 +1,8 @@
 The Money Mafia: A World in Crisis
 ==================================
+
+By **Paul T. Hellyer**
+
 ![](/bookimg/themoneymafia.jpg)
 
 Every “Free Trade” treaty is a step down the path to serfdom.

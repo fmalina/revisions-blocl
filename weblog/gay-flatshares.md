@@ -1,5 +1,6 @@
 Gay flatshare
 =============
+
 **Search for gay or lesbian flatshare.** Flatshare adverts on FlatmateRooms can
 optionally display a preference for gay flatmate.
 

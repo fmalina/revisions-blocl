@@ -1,5 +1,8 @@
 Why Our Status Quo Failed and Is Beyond Reform
 ==============================================
+
+By **Charles Hugh Smith**
+
 In this book, I will explain why the status quo—the current pyramid of wealth
 and power dominated by the few at the  top—has failed and why the system is
 beyond reform.

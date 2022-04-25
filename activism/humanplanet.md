@@ -1,5 +1,8 @@
 The Human Planet: How We Created the Anthropocene
 =================================================
+
+By **Simon Lewis and Mark A. Maslin**
+
 Since the dawn of the Industrial Revolution we have released 2.2 trillion metric
 tonnes of carbon dioxide into the atmosphere, increasing levels by 44 per cent.
 This is acidifying the world’s oceans and raising the Earth’s temperature.

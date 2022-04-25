@@ -1,5 +1,8 @@
 NHS for Sale: Myths, Lies & Deception
 =====================================
+
+By **Jacky Davis, John Lister, David Wrigley**
+
 In 1926 when I was a small lad my sister Marion contracted TB and died in a
 workhouse infirmary because my dad, who had worked as a miner since the age of
 twelve, was too poor to provide medical care for his daughter on a working-class

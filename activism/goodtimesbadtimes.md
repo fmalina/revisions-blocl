@@ -1,5 +1,8 @@
 Good times, Bad Times
 =====================
+
+By **John Hills**
+
 ![](/bookimg/goodtimesbadtimes.jpg)
 
 A visitor to Britain learning about our society and the public policy problems

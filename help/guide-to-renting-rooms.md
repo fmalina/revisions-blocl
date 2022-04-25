@@ -1,5 +1,6 @@
 Guide to renting rooms
 ======================
+
 So you have made the decision or are thinking about room rental. I will start
 off by giving you an overview of why thousands of people are turning to this
 every day, then give you a step by step guide of what you need to know.

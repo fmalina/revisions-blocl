@@ -1,5 +1,8 @@
 Social Class in the 21st Century
 ================================
+
+By **Mike Savage**
+
 ![](/bookimg/socialclassin21stcentury.jpg)
 
 In 2014 the World Economic Forum highlighted income disparity as one of the

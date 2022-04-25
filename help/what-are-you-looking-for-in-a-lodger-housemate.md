@@ -1,5 +1,6 @@
 What are you looking for in a housemate
 =======================================
+
 When looking for a housemate or lodger, it is good to be clear on who you would
 like to live with or live in your property. It’s better to be stuck with someone
 you like rather than making a rapid decision and maybe getting someone that

@@ -1,5 +1,8 @@
 Saving Capitalism: For The Many, Not The Few
 ============================================
+
+By **Robert Reich**
+
 Stagnant or declining wages for most, coupled with declining job security and
 widening inequality. Corporations, giant banks, and billionaires in control of a
 growing share of the economy [\*](#ASIN:B01CGXUOMM;LOC:84) . In this book I

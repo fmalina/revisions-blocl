@@ -1,5 +1,8 @@
 The Default Line: The Inside Story of People, Banks and Entire Nations on the Edge
 ==================================================================================
+
+By **Faisal Islam**
+
 ![](/bookimg/thedefaultline.jpg)
 
 Economics is not meteorology. In Britain, and across Europe, the economy is not

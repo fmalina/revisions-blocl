@@ -1,5 +1,6 @@
 Writing your room wanted advert
 ===============================
+
 When registering we recommend you place a room wanted advert as landlords don’t
 just sit there waiting for e-mails or calls, they use our tenant database
 searching for tenants looking for rooms in their area.

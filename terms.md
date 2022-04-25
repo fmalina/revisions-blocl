@@ -1,5 +1,6 @@
 Terms of service
 ================
+
      These terms of service include our [privacy policy](/privacy) and we will
 refer to them both as "these Terms".     When you use this site, you agree to be
 bound by these Terms. If you do not agree to be bound by these Terms, do not use

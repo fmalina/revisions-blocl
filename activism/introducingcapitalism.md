@@ -1,5 +1,8 @@
 Introducing Capitalism: A Graphic Guide
 =======================================
+
+By **Dan Cryan, Sharron Shatil & Piero**
+
 ![](/bookimg/introducingcapitalism.jpg)
 
 Capitalism is the name of a family of economic systems based on the private

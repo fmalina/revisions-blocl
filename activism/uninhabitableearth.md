@@ -1,5 +1,8 @@
 The Uninhabitable Earth: A Story of the Future
 ==============================================
+
+By **David Wallace-Wells**
+
 It is worse, much worse, than you think.
 
 I am like every other who has spent their life fatally complacent, and willfully

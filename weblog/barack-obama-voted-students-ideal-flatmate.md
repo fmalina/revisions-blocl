@@ -1,5 +1,6 @@
 Barack Obama Voted Students Ideal Flatmate
 ==========================================
+
 ![Barack Obama drinking a beer](/media/images/barack-obama-drinking-a-beer.jpg)
 
 

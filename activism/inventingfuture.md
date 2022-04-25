@@ -1,5 +1,8 @@
 Inventing the Future: Postcapitalism and a World Without Work
 =============================================================
+
+By **Nick Srnicek**
+
 ![](/bookimg/inventingfuture.jpg)
 
 For much of the twentieth century, the future held sway over our dreams. The

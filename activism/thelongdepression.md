@@ -1,5 +1,8 @@
 The Long Depression: The Slump of 2008 to 2031
 ==============================================
+
+By **Matthew Lynn**
+
 ![](/bookimg/thelongdepression.jpg)
 
 The single currency has turned into one of the greatest economic policy mistakes

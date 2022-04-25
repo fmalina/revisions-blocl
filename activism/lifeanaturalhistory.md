@@ -1,5 +1,8 @@
 Life: A natural History of the First Four Billion Years of Life on Earth
 ========================================================================
+
+By **Richard Fortey**
+
 Historically social movements have arisen primarily in response to injustice,
 inequalities and corruption. Those woes still remain in legion, joined by a new
 condition that has no precedent: the planet has a life-threatening disease,

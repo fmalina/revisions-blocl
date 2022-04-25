@@ -1,5 +1,6 @@
 How much rent should I charge?
 ==============================
+
 Choosing what price you rent your rooms for should be an easy process. One of
 the best ways to do this is to check out your competition room renter’s prices
 on this site. See how much they are renting their rooms for in your area that

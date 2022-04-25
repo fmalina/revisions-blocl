@@ -1,5 +1,8 @@
 The Great Work
 ==============
+
+By **Thomas Berry**
+
 We live in cities, in a world of concrete and steel, of wheels and wires, a
 world of unending work. We seldom see the stars at night or the planets or the
 moon. Even in the day we do not experience the sun in any immediate or

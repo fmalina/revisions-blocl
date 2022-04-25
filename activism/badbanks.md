@@ -1,5 +1,8 @@
 Bad Banks: Greed, Incompetence and the Next Global Crisis
 =========================================================
+
+By **Alex Brummer**
+
 ![](/bookimg/badbanks.jpg)
 
 Almost every sector of society was affected by some aspect of the misfiring

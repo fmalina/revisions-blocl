@@ -1,5 +1,6 @@
 Tenancy agreements
 ==================
+
 Tenancy agreements are a big part of room and property rental, and are the first
 thing you should have in place before deposit is paid. Tenancy agreements create
 an agreement between the landlord, and the tenant or lodger.

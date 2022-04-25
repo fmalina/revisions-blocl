@@ -1,5 +1,8 @@
 Mr Osborne's Economic Experiment: Austerity 1945-51 & 2010
 ==========================================================
+
+By **William Keegan**
+
 ![](/bookimg/mrosborneseconomicexperiment.jpg)
 
 There have been two periods in the UK since the Second World War to which the

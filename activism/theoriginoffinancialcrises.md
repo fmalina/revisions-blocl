@@ -1,5 +1,8 @@
 The Origin of Financial Crises: Central banks, credit bubbles and the efficient market fallacy
 ==============================================================================================
+
+By **George Cooper**
+
 ![](/bookimg/theoriginoffinancialcrises.jpg)
 
 *‘The ideas of economists and political philosophers, both when they are right

@@ -1,5 +1,6 @@
 Do you need internet access
 ===========================
+
 Finding accommodation with broadband access is essential for most lodgers these
 days. When browsing through adverts you may still notice some properties may not
 provide it.    If that's the case with your property or the one your interested

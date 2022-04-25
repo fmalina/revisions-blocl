@@ -1,5 +1,6 @@
 Top 10 tips to finding the ideal tenant
 =======================================
+
 Below we have put together a list of things you should consider and keep in mind
 when finding the right tenant.
 

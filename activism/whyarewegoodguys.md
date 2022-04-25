@@ -1,5 +1,8 @@
 Why Are We The Good Guys
 ========================
+
+By **David Cromwell**
+
 In the version of democracy that we are used to, every five years or so we enter
 a polling booth and choose a politician from a mostly narrow choice of political
 parties presented to us at a general election. We then let the victor get on

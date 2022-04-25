@@ -1,5 +1,8 @@
 THE ARMCHAIR ACTIVIST'S HANDBOOK
 ================================
+
+By **Ruth Stokes**
+
 ![](/bookimg/thearmchairactivistshandbook.jpg)
 
 ‘The individual is not powerless, not subordinate; in fact they are a potent

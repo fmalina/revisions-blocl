@@ -1,5 +1,8 @@
 You Can’t Be Neutral On A Moving Train
 ======================================
+
+By **Howard Zin**
+
 ![](/bookimg/youcantbeneutralonamovingtrain.jpg)
 
 People are practical. They want change but feel powerless, alone, do not want to

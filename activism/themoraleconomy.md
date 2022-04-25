@@ -1,5 +1,8 @@
 The Moral Economy: Why Good Incentives Are No Substitute for Good Citizens
 ==========================================================================
+
+By **Samuel Bowles**
+
 Among economists, jurists, and the policy makers it is widely held today that
 citizens, employees, business partners, or potential criminals—are entirely
 self-interested and amoral.

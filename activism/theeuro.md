@@ -1,5 +1,8 @@
 The Euro: And its Threat to the Future of Europe
 ================================================
+
+By **Joseph Stiglitz**
+
 ![](/bookimg/theeuro.jpg)
 
 As this book goes to press, large parts of Europe face a lost decade, with GDP

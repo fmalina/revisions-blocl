@@ -1,5 +1,8 @@
 Gaian Democracies: Redefining Globalisation and People-Power (Schumacher Briefings)
 ===================================================================================
+
+By **Roy Madron, John Jopling, and Samir Rihani**
+
 In the midst of the prosperity and affluence of Western ‘democracies’ there is a
 pervasive sadness and sense of impotence about the future of our societies, of
 humanity and of the natural world.

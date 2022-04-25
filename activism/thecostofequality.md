@@ -1,5 +1,8 @@
 The Cost Of Equality
 ====================
+
+By **Stewart Lansley**
+
 Over the last three decades, Britain, the United States and a rising number of
 other nations have divided into a two-track economy. It is the first track, the
 one which makes money out if money, that has provided a super-fast route to

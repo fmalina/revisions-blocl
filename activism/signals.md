@@ -1,5 +1,8 @@
 Signals: the breakdown of the social contract and the rise of geopolitics
 =========================================================================
+
+By **Dr Philippa Malmgren**
+
 Whoever you are, wherever you are and whatever you do, you are being bombarded
 by many powerful signals.
 

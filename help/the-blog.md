@@ -1,5 +1,6 @@
 Flatmate Rooms Blog 
 ====================
+
 We post (rather sparsely) our analysis, industry news, flatshare advice and
 funny videos.
 

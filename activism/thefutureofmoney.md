@@ -1,5 +1,8 @@
 The Future Of Money
 ===================
+
+By **Bernard Lietaer**
+
 ![](/bookimg/thefutureofmoney.jpg)
 
 Money matters. The way money is created and administered in a given society

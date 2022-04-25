@@ -1,5 +1,8 @@
 This Changes Everything
 =======================
+
+By **Naomi Klein**
+
 Faced with a crisis that threatens our survival as a species, our entire culture
 is continuing to do the very thing that caused the crisis, only with an extra
 dose of elbow grease behind it.

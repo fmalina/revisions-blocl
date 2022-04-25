@@ -1,5 +1,8 @@
 A Brief History Of Neoliberalsim (2005)
 =======================================
+
+By **David Harvey**
+
 ![](/bookimg/briefhistoryofneoliberalsim.jpg)
 
 Neoliberalism is in the first instance a theory of political economic practices

@@ -1,5 +1,8 @@
 The Industries of the Future
 ============================
+
+By **Alec Ross**
+
 ![](/bookimg/theindustriesoffuture.jpg)
 
 This book is about the next economy. It is written for everyone who wants to

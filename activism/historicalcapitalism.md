@@ -1,5 +1,8 @@
 Historical Capitalism: With Capitalist Civilization
 ===================================================
+
+By **Immanuel Wallerstein**
+
 What distinguishes the historical social system we are calling historical
 capitalism is that in this historical system capital came to be used (invested)
 in a very special way. It came to be used with the primary objective or intent

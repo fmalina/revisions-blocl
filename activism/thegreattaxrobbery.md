@@ -1,5 +1,8 @@
 The Great Tax Robbery: How Britain Became a Tax Haven for Fat Cats and Big Business
 ===================================================================================
+
+By **Richard Brooks**
+
 When a tax system favours an elite over the majority it is fatally undermined.
 
 

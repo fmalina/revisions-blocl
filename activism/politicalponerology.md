@@ -1,5 +1,8 @@
 Political Ponerology: A Science on the Nature of Evil Adjusted for Political Purposes
 =====================================================================================
+
+By **Andrzej Lobaczewski**
+
 ![](/bookimg/politicalponerology.jpg)
 
 It is man’s fate to actively cooperate in giving shape to the fate of society by

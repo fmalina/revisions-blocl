@@ -1,5 +1,8 @@
 Islam – A Short History
 =======================
+
+By **Karan Armstrong**
+
 It must also be recalled that beliefs and doctrines are not as important in
 Islam as they are in Christianity. Like Judaism, Islam is a religion that
 requires people to live in a certain way, rather than to accept certain creedal

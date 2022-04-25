@@ -1,5 +1,8 @@
 S.O.S. Alternatives to Capitalism (World Changing)
 ==================================================
+
+By **Richard Swift**
+
 ![](/bookimg/sosalternativestocapitalismworld.jpg)
 
 We need serious and widespread discussion of Swift’s central thesis that a

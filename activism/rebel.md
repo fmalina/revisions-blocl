@@ -1,5 +1,8 @@
 Rebel: How to Overthrow the Emerging Oligarchy
 ==============================================
+
+By **Douglas Carswell**
+
 ‘Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round
 pegs in the square holes. The ones who see things differently. They’re not fond
 of rules. And they have no respect for the status quo. You can quote them,

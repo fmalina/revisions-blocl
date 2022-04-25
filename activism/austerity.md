@@ -1,5 +1,8 @@
 Austerity: The History of a Dangerous Idea
 ==========================================
+
+By **Mark Blyth**
+
 The reasons given for why we all have to be austere (we have spent too much,
 etc.) and the logics expounded for the supposed positive effects of austerity as
 a policy—that cuts lead to growth—are, as we shall see, by and large dangerous

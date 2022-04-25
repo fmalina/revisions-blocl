@@ -1,5 +1,8 @@
 Economyths
 ==========
+
+By **David Orrell**
+
 ![](/bookimg/economyths.jpg)
 
 As with preceding crashes, the causes of the credit crunch have been much

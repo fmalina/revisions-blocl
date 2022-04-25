@@ -1,5 +1,6 @@
 3 tips to prevent scams and keeping you safe online
 ===================================================
+
 **Rental scams** are increasingly common. We put a lot of effort in keeping this
 site safe. This includes [address verification on payment](/premium-membership),
 hand checking adverts as they go live. We have a monitored internal email system

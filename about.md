@@ -1,5 +1,6 @@
 About
 =====
+
 A community marketplace matching home owners with flatmates and tenants looking
 for a better place to live.
 

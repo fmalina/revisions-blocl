@@ -1,5 +1,8 @@
 The Euro Crisis For Dummies
 ===========================
+
+By **Julian Knight**
+
 The crisis in the Eurozone is one of the biggest news, political, and economics
 stories of this generation.
 

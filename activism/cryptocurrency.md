@@ -1,5 +1,8 @@
 Cryptocurrency: How Bitcoin and Digital Money are Challenging the Global Economic Order
 =======================================================================================
+
+By **Paul Vigna, Michael J. Casey**
+
 New business models are extensions of a process that began far earlier with the
 advent of the Internet. While no self-respecting bitcoiner would ever describe
 Google or Facebook as decentralized institutions, GoogleAds allowed small

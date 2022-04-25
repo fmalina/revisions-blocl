@@ -1,5 +1,8 @@
 Heretic: Why Islam Needs a Reformation Now
 ==========================================
+
+By **Ayaan Hirsi Ali**
+
 ![](/bookimg/heretic.jpg)
 
 It simply will not do for Muslims to claim that their religion has been

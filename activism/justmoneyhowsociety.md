@@ -1,5 +1,8 @@
 Just Money – How Society Can Break The Despotic Power Of Finance
 ================================================================
+
+By **Ann Pettifor**
+
 The global finance sector today exercises extraordinary power over society and
 in particular governments, industry and labour. The sector dominates economic
 policy making, undermines democratic decision-making, has financialised all

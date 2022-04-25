@@ -1,5 +1,8 @@
 The Second Curve: Thoughts on Reinventing Society
 =================================================
+
+By **Charles Handy**
+
 ![](/bookimg/thesecondcurve.jpg)
 
 If something has been done that way for centuries it needs a looming disaster to

@@ -1,5 +1,6 @@
 Lets with Pets
 ==============
+
 Lets With Pets statistics show that **Landlords who exclude pet owners from
 their properties are missing out** on a large chunk of the rental market as
 **43% of the population currently own a pet**. By adopting a pet-friendly

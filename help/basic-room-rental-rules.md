@@ -1,5 +1,6 @@
 Basic room rental rules
 =======================
+
 In this section we just wanted to cover a few room rental basics, most of this
 you’ll know anyway but thought it was worth mentioning. The point to it all is
 to have fun and enjoy your tenancy but remember to treat the property and

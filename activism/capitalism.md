@@ -1,5 +1,8 @@
 Capitalism: Money, Morals and Markets
 =====================================
+
+By **John Plender**
+
 ![](/bookimg/capitalism.jpg)
 
 Capitalism, by which I mean a market-based system where private ownership of

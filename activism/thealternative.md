@@ -1,5 +1,8 @@
 The Alternative: Towards a New Progressive Politics
 ===================================================
+
+By **Lisa Nandy, Caroline Lucas & Chris Bowers**
+
 The 2015 general election was a very dark moment for those who believe in a more
 compassionate and participative approach to government in the UK.
 

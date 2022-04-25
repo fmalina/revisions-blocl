@@ -1,5 +1,6 @@
 The Rent A Room Scheme
 ======================
+
 Renting a room has always had benefits but now people who rent rooms out can get
 an added bonus of being tax exempt up to a certain amount.
 

@@ -1,5 +1,6 @@
 The 16 most likely types of flatmates that will get you packing
 ===============================================================
+
 Nothing beats the great life experience of flatsharing and making friends along
 the way but the type of flatmates you shared with. These are the flatmates that
 will get on your nerves, flatmates to watch out for, flatmates to filter while

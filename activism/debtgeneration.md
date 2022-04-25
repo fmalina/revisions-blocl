@@ -1,5 +1,8 @@
 The Debt Generation
 ===================
+
+By **David Malone**
+
 Most of the people we are bailing out are those who have long argued for massive
 cuts in public spending and welfare. They have not been able to achieve these
 goals through the ballet box, but now they will have achieved exactly what the

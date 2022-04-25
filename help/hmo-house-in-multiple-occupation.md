@@ -1,5 +1,6 @@
 HMO, house in multiple occupation
 =================================
+
 When renting property a term you will come across is HMO, as most people don’t
 fully understand HMOs we have created this subject to give you a clearer guide
 on what HMO is and if it affects you.

@@ -1,5 +1,8 @@
 Corbyn: First They Ignore You
 =============================
+
+By **Orwell Danes**
+
 There is something to be said for a man who, having seen the Labour Party’s
 gradual shift from a union backed, community driven, party of the working
 people, to a corporate funded, individualist, party of the middle classes,

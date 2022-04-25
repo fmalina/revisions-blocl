@@ -1,5 +1,8 @@
 Wild Law (second edition 2011)
 ==============================
+
+By **Cormac Cullinan**
+
 We desperately need some new thinking today about systems of global governance.
 We’re stuck with the same obsolete, ignore-the-earth institutions that were
 brought into being after the 2nd World War, and they’re failing us ever more

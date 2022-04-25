@@ -1,5 +1,6 @@
 Issues and disputes with other tenants and landlords
 ====================================================
+
 We always advise tenants and landlords to sort out any issues and disputes
 sooner rather than later, it’s always best to live together being happy rather
 than unhappy. Issues can normally vary from loud music, untidiness, rent, having

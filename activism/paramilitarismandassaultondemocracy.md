@@ -1,5 +1,8 @@
 Paramilitarism And The Assault On Democracy In Haiti
 ====================================================
+
+By **Jeb Sprague**
+
 The poor living on…Haiti have long been the targets of political violence
 
 

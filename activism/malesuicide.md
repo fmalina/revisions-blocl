@@ -1,5 +1,8 @@
 Male suicide prevention: a personal take
 ========================================
+
+By **Frantisek Malina, founder Blocl.uk**
+
 The ratio of male vs female suicide was 17.2 to 5.4, consistent over the past 10
 years\*. This is relevant both to my maternal grandfather and my mother. My
 grandfather, a university professor and a recognised inventor, had a broken

@@ -1,5 +1,6 @@
 Justrentaroom is now part of Flatmate Rooms
 ===========================================
+
 Since 2001 [JustRentARoom](http://www.justrentaroom.co.uk) helped countless
 lodgers and landlords to form their ideal house shares and flat shares, renting
 out rooms in the UK. Today the site became part of Flatmate Rooms ®

@@ -1,5 +1,8 @@
 The Establishment: And how they get away with it
 ================================================
+
+By **Owen Jones**
+
 ![](/bookimg/theestablishment.jpg)
 
 ‘This is the most important book on the real politics of the UK in my lifetime,

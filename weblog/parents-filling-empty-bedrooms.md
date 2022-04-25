@@ -1,5 +1,6 @@
 Parents Filling Empty Bedrooms
 ==============================
+
 Are your children not your little babies no more, are they now all grown up and
 made that decision to gain their own independence to stand on their own 2 feet
 to move out of your family home?

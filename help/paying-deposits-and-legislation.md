@@ -1,5 +1,6 @@
 Paying deposits and legislation
 ===============================
+
 When renting rooms, the landlord will ask you for a **security deposit** which
 is normally the equivalent of one month’s rent or a set rate which will be paid
 when moving in.

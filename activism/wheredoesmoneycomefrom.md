@@ -1,5 +1,8 @@
 Where Does Money Come From?
 ===========================
+
+By **Josh Ryan-Collins, Richard Werner, Tony Greenham, Andrew Jackson**
+
 ![](/bookimg/wheredoesmoneycomefrom.jpg)
 
 Far from money being ‘the root of all evil’, our economic system cannot cope

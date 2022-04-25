@@ -1,5 +1,8 @@
 Promises of Freedom: Citizenship, Belonging and Lifelong Learning (Ifll Thematic Paper)
 =======================================================================================
+
+By **R. H. Fryer**
+
 Everyday life throws up needs and society responds to them.
 
 It is not through resignation but rebellion in the face of injustice that we

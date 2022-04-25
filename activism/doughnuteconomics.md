@@ -1,5 +1,8 @@
 Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist
 =====================================================================
+
+By **Kate Raworth**
+
 Economics is broken. It has failed to predict, let alone prevent, financial
 crises that have shaken the foundations of our societies. Its outdated theories
 have permitted a world in which extreme poverty persists while the wealth of the

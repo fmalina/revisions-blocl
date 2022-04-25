@@ -1,5 +1,8 @@
 Shadow State: Inside the Secret Companies that Run Britain
 ==========================================================
+
+By **Alan White**
+
 Public sector monopolies came with a story, an implied commitment to a common
 cause. They were, in some inescapable sense, ours. UK’s public services industry
 is an experiment whose principal agents are large companies that belong to their

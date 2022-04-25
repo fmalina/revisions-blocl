@@ -1,5 +1,8 @@
 Blessed Are the Organized: Grassroots Democracy in America
 ==========================================================
+
+By **Jeffrey Stout**
+
 A politics completely empty of the vehement passions…tends in practice to be
 antidemocratic.  It cedes the authority of decision making to elites – experts
 and social engineers – who characteristically present themselves as

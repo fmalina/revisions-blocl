@@ -1,5 +1,8 @@
 The Candidate: Jeremy Corbyn's Improbable Path to Power
 =======================================================
+
+By **Alex Nunns**
+
 The obstacles facing Corbyn as a leader of the left are orders of magnitude
 greater than those that confronted Thatcher.
 

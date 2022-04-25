@@ -1,5 +1,8 @@
 We Have Never Been Neoliberal: A Manifesto for a Doomed Youth
 =============================================================
+
+By **Kean Birch**
+
 ![](/bookimg/wehaveneverbeenneoliberal.jpg)
 
 This is an important book, and it should be read by anyone concerned about

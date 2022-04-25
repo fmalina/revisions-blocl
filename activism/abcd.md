@@ -1,5 +1,8 @@
 Asset Based Community Development (ABCD): Looking Back to Look Forward
 ======================================================================
+
+By **Cormac Russell**
+
 Asset-Based Community Development (ABCD), as a perspective, is timeless, because
 it simply describes what communities do when they come together to effectively
 make things better where they live, and what they use to do so, despite the

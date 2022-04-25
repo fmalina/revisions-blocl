@@ -1,5 +1,8 @@
 Blair & Iraq: Why Tony Blair Went to War - An Investigation
 ===========================================================
+
+By **Steve Richards**
+
 ![](/bookimg/blairiraq.jpg)
 
 Why did Tony Blair lead the UK to war in Iraq in 2003 and how did he convince

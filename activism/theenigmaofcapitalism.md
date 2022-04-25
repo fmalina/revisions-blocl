@@ -1,5 +1,8 @@
 The Enigma of Capitalism
 ========================
+
+By **David Harvey**
+
 ![](/bookimg/theenigmaofcapitalism.jpg)
 
 How then are we to interpret the current mess? Does this crisis signal, for

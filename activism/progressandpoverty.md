@@ -1,5 +1,8 @@
 Progress and Poverty
 ====================
+
+By **Henry George**
+
 ![](/bookimg/progressandpoverty.jpg)
 
 Yes, in certain ways, the poorest now enjoy what the richest could not a century

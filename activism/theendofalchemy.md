@@ -1,5 +1,8 @@
 The End of Alchemy: Money, Banking and the Future of the Global Economy
 =======================================================================
+
+By **Mervyn King**
+
 This book looks at the big questions raised by the depressing regularity of
 crises in our system of money and banking. Why do they occur? Why are they so
 costly in terms of lost jobs and production? And what can we do to prevent them?

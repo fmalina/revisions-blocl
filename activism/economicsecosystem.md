@@ -1,5 +1,8 @@
 Economics and the Ecosystem
 ===========================
+
+By **Edward Fullbrook and Jamie Morgan**
+
 ![](/bookimg/economicsecosystem.jpg)
 
 The overwhelming weight of evidence regarding our collective environmental

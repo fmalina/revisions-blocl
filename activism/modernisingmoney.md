@@ -1,5 +1,8 @@
 Modernising Money: Why Our Monetary System is Broken and How it Can be Fixed
 ============================================================================
+
+By **Andrew Jackson**
+
 ![](/bookimg/modernisingmoney.jpg)
 
 INTRODUCTION

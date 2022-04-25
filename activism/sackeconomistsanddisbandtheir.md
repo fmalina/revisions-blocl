@@ -1,5 +1,8 @@
 SACK THE ECONOMISTS and disband their departments
 =================================================
+
+By **Geoff Davies**
+
 ![](/bookimg/sackeconomistsanddisbandtheir.jpg)
 
 Half of Europe and many regions and groups in the United States are in

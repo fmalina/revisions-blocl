@@ -1,5 +1,6 @@
 No response to communication
 ============================
+
 We know what it’s like when you think you’ve found the perfect room by reading
 the ad. You give the landlord a phone call but no answer. You sent him an email
 yesterday but no reply. Just remember before thinking the worst that the room

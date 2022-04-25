@@ -1,5 +1,8 @@
 In and Out of Crisis (2010)
 ===========================
+
+By **Abo/Gindi/Panitch**
+
 It is impossible not to look sceptically at neoliberal claims that liberalising
 markets will lead to prosperity for all, or that the “third way” variant of
 this, that the introduction of markets to public services will make them more

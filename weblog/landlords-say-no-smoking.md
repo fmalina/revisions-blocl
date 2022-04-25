@@ -1,5 +1,6 @@
 Landlords say NO SMOKING!
 =========================
+
 As nipping out to the supermarket for a pack of cigs just got a little bit
 harder thanks to the government banning large stores from displaying cigarettes,
 just how are landlords and tenants getting on with the ‘smoke or not to smoke’

@@ -1,5 +1,6 @@
 ⏱️ Giving notice to leave
 =========================
+
 When it is time to move on, give your landlord the required noticed stated on
 your tenancy agreement and if the property / room is in good order and there is
 no unpaid rent, damage etc you will receive all you deposit back.

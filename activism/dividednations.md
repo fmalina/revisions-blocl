@@ -1,5 +1,8 @@
 Divided Nations: Why global governance is failing, and what we can do about it
 ==============================================================================
+
+By **Ian Goldin**
+
 ![](/bookimg/dividednations.jpg)
 
 Unless we are able to more effectively manage the risks associated with

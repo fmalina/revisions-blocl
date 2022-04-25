@@ -1,5 +1,8 @@
 Private Island - Why Britain Now Belongs To Someone Else
 ========================================================
+
+By **James Meek**
+
 ![](/bookimg/privateislandwhybritain.jpg)
 
 With hindsight, 1991 was a pivotal year. The market belief system, which holds

@@ -1,5 +1,8 @@
 The Great Divide
 ================
+
+By **Joseph Stiglitz**
+
 ![](/bookimg/thegreatdivide.jpg)
 
 This book is mostly about the economics of inequality. But as I have just

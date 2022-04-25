@@ -1,5 +1,8 @@
 Blessed Unrest
 ==============
+
+By **Paul Hawken**
+
 Today, for the first time in history, an entire civilisation – its people,
 companies and governments – is trying to arrest the downspin and understand how
 to live on earth, an effort that represents a watershed in human existence. Life

@@ -1,5 +1,6 @@
 Bedroom presentation
 ====================
+
 The first impression of the rooms you offer are going to be key to your
 potential flatmate or tenant making a decision, as to whether this is the right
 property for them. If you find that the room you have to offer is in need of a

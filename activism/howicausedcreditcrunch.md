@@ -1,5 +1,8 @@
 How I Caused The Credit Crunch
 ==============================
+
+By **Tetsuya Ishikawa**
+
 (Published 2009, author Japanese, grew up in London and attended Eaton before
 reading Philosophy, Politics and Economics at Oxford University. Throughout a
 banking career that included Goldman Sachs, Morgan Stanley and ABN AMRO, he

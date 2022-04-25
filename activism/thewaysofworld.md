@@ -1,5 +1,8 @@
 The Ways of the World
 =====================
+
+By **David Harvey**
+
 ![](/bookimg/thewaysofworld.jpg)
 
 The United States Geological Survey reports that China consumed 6,651 million

@@ -1,5 +1,8 @@
 The Populist Manifesto
 ======================
+
+By **Ashley Cutts**
+
 ![](/bookimg/thepopulistmanifesto.jpg)
 
 Western democratic news media and political parties are obsessed with the

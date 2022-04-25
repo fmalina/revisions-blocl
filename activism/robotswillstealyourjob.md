@@ -1,5 +1,8 @@
 Robots Will Steal Your Job, But That's OK: How to Survive the Economic Collapse and Be Happy
 ============================================================================================
+
+By **Federico Pistono**
+
 The idea that the greatest aspiration a person could have is to work some
 mechanical and monotonous job, so that they can pay the bills, is an insult to
 the dignity of every individual.

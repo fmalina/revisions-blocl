@@ -1,5 +1,8 @@
 Birth of the Chaordic Age
 =========================
+
+By **Dee Hock**
+
 The essence of community, its very heart and soul, is the nonmonetary exchange
 of value; things we do and share because we care for others, and for the good of
 the place. Community is composed of that we don’t attempt to measure, for which

@@ -1,5 +1,8 @@
 In Bed With Madness
 ===================
+
+By **Yannis Andricopoulos**
+
 Life is physically easier nowadays. But we cannot take advantage of it because
 we have to work hard to earn enough to buy what is socially validated as good.
 Convinced that we have to meet the needs society tells us we must in order to

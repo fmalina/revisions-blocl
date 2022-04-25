@@ -1,5 +1,8 @@
 Occupy
 ======
+
+By **Noam Chomsky**
+
 ![](/bookimg/occupy.jpg)
 
 People are waking up to the fact that we won’t get the necessary change from

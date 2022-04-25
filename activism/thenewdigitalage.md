@@ -1,5 +1,8 @@
 The New Digital Age: Reshaping the Future of People, Nations and Business (2013)
 ================================================================================
+
+By **Jared Cohen & Eric Schmidt**
+
 States will long for the days when they only had to think about foreign and
 domestic policies in the physical world. If it were possible to merely replicate
 these policies in the virtual realm, perhaps the future of statecraft would not

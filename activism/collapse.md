@@ -1,5 +1,8 @@
 Collapse: How Societies Choose to Fail or Survive
 =================================================
+
+By **Jared Diamond**
+
 If environmentalists aren’t willing to engage with big businesses, which are
 among the most powerful forces in the modern world, it won’t be possible to
 solve the world’s environmental problems.

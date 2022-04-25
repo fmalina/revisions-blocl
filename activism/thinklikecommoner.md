@@ -1,5 +1,8 @@
 Think Like a Commoner
 =====================
+
+By **David Bollier**
+
 The commons are things that no one owns and are shared by everyone.
 
 

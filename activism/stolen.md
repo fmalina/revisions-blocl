@@ -1,5 +1,8 @@
 Stolen: How to Save the World from Financialisation
 ===================================================
+
+By **Grace Blakeley**
+
 If the reader takes only one thing from this book, let it be this: poor
 regulation, bad economics and greedy bankers all contributed to the particularly
 explosive events of 2008, but the financial crisis had far deeper roots. A crash

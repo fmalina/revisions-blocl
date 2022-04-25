@@ -1,5 +1,8 @@
 Ruling The Void: The Hollowing of Western Democracy
 ===================================================
+
+By **Peter Mair**
+
 ![](/bookimg/rulingvoid.jpg)
 
 The age of party democracy has passed. Although the parties themselves remain,

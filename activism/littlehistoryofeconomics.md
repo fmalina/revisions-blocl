@@ -1,5 +1,8 @@
 A Little History of Economics
 =============================
+
+By **Niall Kishtainy**
+
 To many people around the world spending money on a book and being able to read
 it would seem as likely as a trip to the moon.
 

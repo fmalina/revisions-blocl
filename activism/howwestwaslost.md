@@ -1,5 +1,8 @@
 How The West Was Lost: Fifty Years of Economic Folly - And the Stark Choices Ahead (2011)
 =========================================================================================
+
+By **Dambisa Moyo**
+
 How the West was Lost is the story of how the world’s most economically powerful
 nations have seen their wealth and dominant political position decline to the
 point where, today, they are about to forfeit all they have strived for –

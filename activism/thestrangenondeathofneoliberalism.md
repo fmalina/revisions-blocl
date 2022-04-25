@@ -1,5 +1,8 @@
 The Strange Non-Death of Neoliberalism
 ======================================
+
+By **Colin Crouch**
+
 There are many branches and brands of neoliberalism, but behind them stands one
 dominant theme: that free markets  in which individuals maximise their material
 interests provide the best means for satisfying human aspirations,  and that

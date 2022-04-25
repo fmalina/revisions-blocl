@@ -1,5 +1,6 @@
 10 things to include on your moving checklist
 =============================================
+
 When looking to rent a room, it’s always good to have a checklist in place. This
 will give you a guide to what kind of property, area or rent you’re looking for.
 We’ve listed a couple of points below to get you started. Print this out and

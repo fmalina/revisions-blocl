@@ -1,5 +1,8 @@
 The Tyranny of Guilt: An Essay on Western Masochism
 ===================================================
+
+By **Pascal Bruckner**
+
 ![](/bookimg/thetyrannyofguilt.jpg)
 
 There are mosques in Rome, but are there Christian churches in Mecca, Jeddah, or

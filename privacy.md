@@ -1,5 +1,6 @@
 Privacy policy
 ==============
+
 Blocl will not share or sell your **email address**. Your details will not be
 passed to 3rd parties. We never reveal your email address to other members, all
 emails sent are forwarded to your email through our dedicated messaging system.

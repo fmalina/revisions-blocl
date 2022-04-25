@@ -1,5 +1,8 @@
 The Neoliberal Crisis
 =====================
+
+By **Michael Rustin**
+
 Hall and Massey each emphasise the radical ambition of the neoliberal project in
 its British incarnation. They see this as it is embodied in the programmes of
 the current Coalition, in those of its Thatcherite predecessor, and in New

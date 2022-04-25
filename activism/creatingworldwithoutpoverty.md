@@ -1,5 +1,8 @@
 Creating a World Without Poverty: Social Business and the Future of Capitalism
 ==============================================================================
+
+By **Muhammad Yunus**
+
 Other economic sectors—the volunteer, charitable, and nongovernmental sectors,
 for instance—devote a great deal of time and energy to dealing with poverty and
 its consequences. But business—the most financially innovative and efficient

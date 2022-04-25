@@ -1,5 +1,8 @@
 Capitalism: A Ghost Story
 =========================
+
+By **Arundhati Roy**
+
 In a nation of 1.2 billion, India’s one hundred richest people own assets
 equivalent to one-fourth of the GDP.
 

@@ -1,5 +1,8 @@
 Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness
 ==============================================================================================================
+
+By **Frederic Laloux**
+
 ![](/bookimg/reinventingorganizations.jpg)
 
 For thousands and thousands of years, people have lived on the brink of famine

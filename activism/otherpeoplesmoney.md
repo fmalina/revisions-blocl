@@ -1,5 +1,8 @@
 Other People's Money: Masters of the Universe or Servants of the People?
 ========================================================================
+
+By **John Kay**
+
 ![](/bookimg/otherpeoplesmoney.jpg)
 
 The assets of British banks are around £7 trillion – four times the aggregate of

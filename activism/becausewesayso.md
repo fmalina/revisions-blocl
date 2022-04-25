@@ -1,5 +1,8 @@
 Because We Say So
 =================
+
+By **Noam Chomsky**
+
 ![](/bookimg/becausewesayso.jpg)
 
 Higher education is under attack not because it is failing, but because it is a

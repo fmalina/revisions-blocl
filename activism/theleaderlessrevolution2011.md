@@ -1,5 +1,8 @@
 The Leaderless Revolution (2011)
 ================================
+
+By **Carne Ross**
+
 Frustration with conventional politics is rising everywhere, depressing voter
 turnout and fuelling popular anger. Politicians too can sense the mood, but are
 unable to offer any prescription except more of the same politics, perhaps

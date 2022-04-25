@@ -1,5 +1,8 @@
 Inequality and the 1%
 =====================
+
+By **Danny Dorling**
+
 ![](/bookimg/inequalityand1.jpg)
 
 The most important problem we are facing now, today … is rising inequality.

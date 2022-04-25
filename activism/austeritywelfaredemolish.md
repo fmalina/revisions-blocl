@@ -1,5 +1,8 @@
 Austerity: The Demolition of the Welfare State and the Rise of the Zombie Economy
 =================================================================================
+
+By **Kerry-Anne Mendoza**
+
 ![](/bookimg/austeritywelfaredemolish.jpg)
 
 Austerity is not a short-term disruption to balance the books. It is the

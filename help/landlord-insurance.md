@@ -1,5 +1,6 @@
 Landlord insurance
 ==================
+
 When renting rooms it’s important to have the right protection in place to cover
 for most eventualities. If you’re renting rooms in your own home or in other
 properties, it can sometimes get a little stressful. The last thing you want to

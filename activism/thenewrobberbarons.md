@@ -1,5 +1,8 @@
 The New Robber Barons
 =====================
+
+By **Janet M. Tavakoli**
+
 ![](/bookimg/thenewrobberbarons.jpg)
 
 This book is a compilation of selected articles written after September 2008 and

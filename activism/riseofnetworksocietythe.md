@@ -1,5 +1,8 @@
 Rise of the Network Society (The Information Age: Economy, Society, and Culture Volume I)
 =========================================================================================
+
+By **Manuel Castells**
+
 ![](/bookimg/riseofnetworksocietythe.jpg)
 
 The information technology revolution was instrumental in allowing the

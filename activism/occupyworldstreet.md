@@ -1,5 +1,8 @@
 Occupy World Street: A Global Roadmap for Radical Economic and Political Reform (March 2012)
 ============================================================================================
+
+By **Ross Jackson**
+
 Economics has evolved into an irrelevant and abstract tool of the ruling elite,
 based on the dubious assumption that natural recourses are without limit and are
 there for the sole use of those who control them. While modern economists like

@@ -1,5 +1,8 @@
 Wired for Culture: The Natural History of Human Cooperation
 ===========================================================
+
+By **Mark Pagel**
+
 ![](/bookimg/wiredforculture.jpg)
 
 Why do we humans have a tendency to form into small tribal groups rather than

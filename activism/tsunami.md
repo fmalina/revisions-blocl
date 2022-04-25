@@ -1,5 +1,8 @@
 Tsunami: Scotland's Democratic Revolution
 =========================================
+
+By **Iain Macwhirter**
+
 British politics used to be defined by class; it is now increasingly defined by
 nation. In place of the old binary UK elections offering a choice of Labour
 versus Conservative with a side order of Liberal, Britain is now a

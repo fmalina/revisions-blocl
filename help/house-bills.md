@@ -1,5 +1,6 @@
 House bills
 ===========
+
 When letting rooms out you should first decide whether you are going to include
 bills in the weekly or monthly price or not, both of these have their advantages
 and disadvantages.

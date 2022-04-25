@@ -1,5 +1,6 @@
 When flatsharing, keep your valuables safe
 ==========================================
+
 Whilst flatsharing we bump in to a variety of people, from your new best friend,
 to the constant talker, to the slightly odd flatmate. Although you’d probably
 end up getting on with most of these and you’d probably share a pack of rolo’s

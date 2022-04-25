@@ -1,5 +1,8 @@
 What's the worst that could happen?
 ===================================
+
+By **David Simmons**
+
 ![](/bookimg/whatsworstthatcouldhappen.jpg)
 
 It is the contention of this book that there has been a move away from

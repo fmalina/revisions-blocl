@@ -1,5 +1,8 @@
 Three Circles into One: Brexit Britain: how did we get here and what happens next?
 ==================================================================================
+
+By **William Waldegrave**
+
 I will argue that the referendum result which led us to wake up in a different
 country on that June morning in 2016 had roots which lay in the slow dissolution
 of the national narrative of our identity, which was crafted after the Second

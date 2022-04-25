@@ -1,5 +1,8 @@
 The Meaning of Human Existence
 ==============================
+
+By **Edward O. Wilson**
+
 ![](/bookimg/themeaningofhumanexistence.jpg)
 
 Does humanity have a special place in the Universe? What is the meaning of our

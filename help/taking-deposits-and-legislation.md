@@ -1,5 +1,6 @@
 Taking deposits and legislation
 ===============================
+
 When renting it is highly recommended you take a security deposit off your
 [tenants](/p15) which is normally the equivalent of one month’s rent or a set
 rate, so as new tenants move in they should pay there 1st month’s rent up front

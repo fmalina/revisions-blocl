@@ -1,5 +1,8 @@
 Counterpower
 ============
+
+By **Tim Gee**
+
 The more I read the more convinced I became that successful campaign is an
 unfinished revolution and that a revolution is the result of a series of
 successful campaigns.

@@ -1,5 +1,8 @@
 Capital in the Twenty-First Century
 ===================================
+
+By **Thomas Piketty**
+
 When the rate of return on capital exceeds the rate of growth of output and
 income, as it did in the nineteenth century and seems quite likely to do again
 in the twenty-first, capitalism automatically generates arbitrary and

@@ -1,5 +1,8 @@
 Dismembered: How the attack on the state harms us all
 =====================================================
+
+By **Polly Toynbee, David Walker**
+
 It’s not too late; cuts and dislocation have not yet inflicted permanent damage.
 We can say that because the ‘public thing’ is in large measure the people who
 work for it and for us and their spirit has not been extinguished:

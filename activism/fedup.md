@@ -1,5 +1,8 @@
 Fed Up: An Insider's Take on the Willful Ignorance and Elitism At the Federal Reserve
 =====================================================================================
+
+By **Danielle DiMartino Booth**
+
 Never in the field of monetary policy was so much gained by so few at the
 expense of so many. MICHAEL HARTNETT, BANK OF AMERICA MERRILL LYNCH CHIEF
 INVESTMENT STRATEGIST, NOVEMBER 1, 2015

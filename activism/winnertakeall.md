@@ -1,5 +1,8 @@
 Winner Take All: China's Race For Resources and What It Means For Us
 ====================================================================
+
+By **Dambisa Moyo**
+
 ![](/bookimg/winnertakeall.jpg)
 
 To understand the events of the next fifty years one must first and foremost

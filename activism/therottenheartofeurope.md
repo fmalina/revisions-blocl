@@ -1,5 +1,8 @@
 The Rotten Heart of Europe
 ==========================
+
+By **Bernard Connolly**
+
 ![](/bookimg/therottenheartofeurope.jpg)
 
 In sum, there has probably never in history been an economic and financial

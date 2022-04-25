@@ -1,5 +1,8 @@
 How To Change The World – Tales Of Marx And Marxism
 ===================================================
+
+By **Eric Hobsbawm**
+
 ![](/bookimg/howtochangetheworld.jpg)
 
 Balford thought it absurd to compare Henry George’s ideas with his (Marx’s)

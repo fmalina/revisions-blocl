@@ -1,5 +1,6 @@
 Premium membership. How does it work?
 =====================================
+
 Flatmate Rooms offers a premium membership to help users succeeding faster and
 support the [security of the service](/p40).
 

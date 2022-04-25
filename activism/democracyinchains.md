@@ -1,5 +1,8 @@
 Democracy in Chains: the deep history of the radical right's stealth plan for America
 =====================================================================================
+
+By **Nancy MacLean**
+
 Introduction
 ------------
 

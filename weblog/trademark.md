@@ -1,5 +1,6 @@
 Trademark, how to
 =================
+
 Getting Flatmate Rooms trademark registered with UK Intellectual Property
 Office involved a few steps so here comes a little writeup of the process.
 I hope it helps if you are going through a trademark application or just

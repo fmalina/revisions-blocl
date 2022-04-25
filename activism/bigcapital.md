@@ -1,5 +1,8 @@
 Big Capital: Who Is London For?
 ===============================
+
+By **Anna Minton**
+
 London - the destination of choice for foreign investors and the new global
 elite of oligarchs, billionaires and the super-rich
 

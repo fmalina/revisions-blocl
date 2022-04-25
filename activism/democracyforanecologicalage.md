@@ -1,5 +1,8 @@
 Democracy for an Ecological Age
 ===============================
+
+By **Mark Garavan**
+
 Economic dogma has limited the scope of political debate to such an extent that
 democratic societies are unable to avert the looming environmental crisis.
 

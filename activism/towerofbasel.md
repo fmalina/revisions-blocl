@@ -1,5 +1,8 @@
 Tower of Basel: The Shadowy History of the Secret Bank that Runs the World
 ==========================================================================
+
+By **Adam LeBor**
+
 ![](/bookimg/towerofbasel.jpg)
 
 The world’s most exclusive club has eighteen members. They gather every other

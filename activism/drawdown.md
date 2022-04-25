@@ -1,5 +1,8 @@
 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming
 =============================================================================
+
+By **Paul Hawken**
+
 Often, the solutions put forward in the book reaffirm compelling truths that for
 some inexplicable reason have not yet been taken forward effectively.
 

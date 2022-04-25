@@ -1,5 +1,8 @@
 From the Ruins of Empire: The Revolt Against the West and the Remaking of Asia
 ==============================================================================
+
+By **Pankaj Mishra**
+
 ![](/bookimg/fromruinsofempire.jpg)
 
 Europeans would like to escape from their history, a ‘great’ history written in

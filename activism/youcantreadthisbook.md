@@ -1,5 +1,8 @@
 You Can't Read This Book: Censorship in an Age of Freedom
 =========================================================
+
+By **Nick Cohen**
+
 ![](/bookimg/youcantreadthisbook.jpg)
 
 Even when brave men and women speak out, the chilling effect of the punishments

@@ -1,5 +1,6 @@
 Basic guide to buy to let
 =========================
+
 When looking at buying property to rent out rooms, you need to look at the
 market closely. Do your homework. Seek professional advice. Watch out for any
 scams and remember the saying “if it sounds too good to be true it probably is”.

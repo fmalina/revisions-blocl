@@ -1,5 +1,6 @@
 How to disable Google Analytics and prevent advertising tracking
 ================================================================
+
 This site does not use Google Analytics. This article was written originally as
 a part of the [Privacy Policy](/terms) to let users reliably disable tracking
 and help increase their privacy when it did.

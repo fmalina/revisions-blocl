@@ -1,5 +1,8 @@
 Pedagogy of Freedom: Ethics, Democracy, and Civic Courage
 =========================================================
+
+By **Paulo Freire**
+
 I cannot avoid a permanently critical attitude to what I consider to be the
 scourge of neoliberalism, with its cynical fatalism and its inflexible negation
 of the right to dream differently, to dream of utopia.  My abhorrence of

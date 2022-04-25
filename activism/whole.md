@@ -1,5 +1,8 @@
 Whole: Rethinking the Science of Nutrition
 ==========================================
+
+By **T. Colin Campbell**
+
 ![](/bookimg/whole.jpg)
 
 In this chapter, we’ll look at the two competing paradigms in science and

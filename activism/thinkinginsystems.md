@@ -1,5 +1,8 @@
 Thinking in Systems: A Primer
 =============================
+
+By **Donella H Meadows**
+
 Hunger, poverty, environmental degradation, economic instability, unemployment,
 chronic disease, drug addiction, and war, for example, persist in spite of the
 analytical ability and technical brilliance that have been directed toward

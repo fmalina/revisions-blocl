@@ -1,5 +1,8 @@
 Sapiens: A Brief History of Humankind
 =====================================
+
+By **Yuval Noah Harari**
+
 ![](/bookimg/sapiens.jpg)
 
 Even if by some superhuman effort I succeed in freeing my personal desires from

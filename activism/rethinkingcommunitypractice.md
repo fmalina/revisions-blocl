@@ -1,5 +1,8 @@
 Rethinking Community Practice: developing transformative neighbourhoods (2013)
 ==============================================================================
+
+By **Gabriel Chanon and Colin Miller**
+
 Not everyone wants to be or need to be involved in local affairs, but there is
 plenty of appetite for involvement in most places.
 

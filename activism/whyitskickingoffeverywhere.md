@@ -1,5 +1,8 @@
 Why It’s Kicking Off Everywhere
 ===============================
+
+By **Paul Mason**
+
 ![](/bookimg/whyitskickingoffeverywhere.jpg)
 
 The right believed that with indomitable power it could create whatever truth it

@@ -1,5 +1,8 @@
 Utopia for Realists: The Case for a Universal Basic Income, Open Borders, and a 15-hour Workweek
 ================================================================================================
+
+By **Rutger Bregman**
+
 The past two centuries have seen explosive growth both in population and
 prosperity worldwide. Per capita income is now ten times what it was in 1850.
 The average Italian is 15 times as wealthy as in 1880. And the global economy?

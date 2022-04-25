@@ -1,5 +1,8 @@
 Swimming with Sharks: My Journey into the World of the Bankers
 ==============================================================
+
+By **Joris Luyendijk**
+
 **Many people seem to have so little interest in issues that directly affect
 their interests. Is it indifference and apathy, or have many subjects simply
 become too complicated for outsiders to understand?**

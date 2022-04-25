@@ -1,5 +1,6 @@
 Tenant privacy access and rules
 ===============================
+
 When taking in tenants, make them feel a welcome part of the household. Don’t
 restrict tenants to their room, but let them have use of the communal room such
 as living room, give them a great relaxing enjoyable stay.

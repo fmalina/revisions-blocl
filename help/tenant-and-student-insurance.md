@@ -1,5 +1,6 @@
 Tenant and student insurance
 ============================
+
 When living in rented or shared accommodation it can be difficult to find the
 right level of cover at the right price to insure your belongings, with some
 people leaving it too late having to payout for a new laptop because they

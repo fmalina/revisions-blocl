@@ -1,5 +1,8 @@
 State of Power 2016: Democracy, Power & Resistance
 ==================================================
+
+By **various authors**
+
 ‘Real democracy now!’, the demand of the Spanish indignados as they occupied the
 squares of cities across Spain, is the slogan which can best guide us in
 challenging and escaping the prison of today’s power structures.

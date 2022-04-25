@@ -1,5 +1,6 @@
 Room rental
 ===========
+
 Blocl lets you find flatmates and tenants, find and advertise rooms to rent as
 well as whole flats and properties. Here we’ll discuss different circumstances
 and how **room rental** can benefit you. Less affordable mortgages have led to

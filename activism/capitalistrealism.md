@@ -1,5 +1,8 @@
 Capitalist Realism – Is There An Alternative?
 =============================================
+
+By **Mark Fisher**
+
 ![](/bookimg/capitalistrealism.jpg)
 
 Capitalist realism as I understand it cannot be confined to art or the

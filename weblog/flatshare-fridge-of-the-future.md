@@ -1,5 +1,6 @@
 Flatshare Fridge of the Future
 ==============================
+
 ![Flatshare Fridge](/media/images/flatshare-fridge.jpg)
 
 

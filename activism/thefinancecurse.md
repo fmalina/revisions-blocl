@@ -1,5 +1,8 @@
 The Finance Curse: How Oversized Financial Sectors Attack Democracy and Corrupt Economics
 =========================================================================================
+
+By **Nicholas Shaxson, John Christensen**
+
 *Over the last decade, the attitude took hold that what was good for Wall Street
 was good for the country… a whole generation of policy makers has been
 mesmerized.* Simon Johnson, former IMF Research Director, 2009

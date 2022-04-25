@@ -1,5 +1,6 @@
 Activism
 ========
+
 **Radicals' digest**, exquisitely named so by the author of [The Debt
 Generation](/books/debtgeneration_B01K2EJTSC) is a collection of book excerpts
 and quotes relevant to educate us and the next generation of local community

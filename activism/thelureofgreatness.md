@@ -1,5 +1,8 @@
 The Lure of Greatness: England’s Brexit and America's Trump
 ===========================================================
+
+By **Anthony Barnett**
+
 If you are British, and especially if you are young and British, your right to
 move, live, love, work, research and settle in another country of our continent,
 may be taken away from you by Brexit, should it be implemented.

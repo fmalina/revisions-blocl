@@ -1,5 +1,8 @@
 Injustice: Why Social Inequality Still Persists
 ===============================================
+
+By **Daniel Dorling**
+
 Because belief in the five tenets of injustice [elitism is efficient, exclusion
 is necessary, prejudice is natural, greed is good and despair is inevitable] is
 so widespread among people in power, those beliefs are then propagated through
