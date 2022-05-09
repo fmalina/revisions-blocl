@@ -1,7 +1,7 @@
 Terms of service
 ================
 
-     These terms of service include our [privacy policy](/privacy) and we will
+These terms of service include our [privacy policy](/privacy) and we will
 refer to them both as "these Terms".     When you use this site, you agree to be
 bound by these Terms. If you do not agree to be bound by these Terms, do not use
 this site.     Certain uses of this site are prohibited and amount to a misuse
@@ -275,4 +275,3 @@ exercising any right under these Terms shall not prevent the exercise of that or
 any other right. You may not assign or transfer any benefit, interest or
 obligation under these Terms. The provisions of the Contracts (Rights of Third
 Parties) Act 1999 shall not apply to these Terms.
-
