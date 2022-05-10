@@ -11,7 +11,7 @@ profile page allow to show phone number only to those members you talk to.
 
 
 We only ever show 1st initial of member's **last name**. We actively
-remove personally identifiable information from listings.
+remove personally identifiable information from listings.
 
 
 
@@ -493,7 +493,7 @@ our website and how we perform in providing content to you.
 
 If combined with other information we know about you from previous visits, the
 data possibly could be used to identify you personally, even if you are not
-signed in to our website.                      
+signed in to our website.                      
 
 
 Our use of re-marketing

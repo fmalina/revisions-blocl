@@ -2,19 +2,19 @@ About
 =====
 
 A community marketplace matching home owners with flatmates and tenants looking
-for a better place to live.
+for a better place to live.
 
 
 * a clear website,
 * 30 days success guarantee,
 * searchable tenant database,
-* full flatshare [help centre](/help),
+* full flatshare [help centre](/help),
 * easy contact access to us on every page,
 * access to tenancy agreements,
 * a website that listens to your feedback.
 
 
-Blocl Rooms is a place to find a flatmate, flatshare or rent a flat in the UK.
+Blocl Rooms is a place to find a flatmate, flatshare or rent a flat in the UK.
 Website is hosted in London.
 
 

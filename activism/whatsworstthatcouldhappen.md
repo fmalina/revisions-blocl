@@ -453,7 +453,7 @@ telling how destructive its interventions will be in future.
 
 
 The longer the misguided policy of austerity lasts, the more money would be
-needed to lift us out of recession.  Europe could be plunged into a decade-long
+needed to lift us out of recession.  Europe could be plunged into a decade-long
 slump that would make Japan's “lost decade” look like an afternoon of sunshine
 and joy.
 

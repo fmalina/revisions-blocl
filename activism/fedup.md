@@ -588,7 +588,7 @@ economic policymaker in the United States, and therefore the world.”
 
 But what if Yellen’s theoretical paradigm is dead wrong? The woman who “did not
 see and did not appreciate what the risks were with securitization, the credit
-rating agencies, the shadow banking system, the SIVs . . . until it happened”
+rating agencies, the shadow banking system, the SIVs . . . until it happened”
 has led us straight into an abyss.
 
 

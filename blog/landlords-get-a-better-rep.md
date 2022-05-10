@@ -10,7 +10,7 @@ buy-to-let landlord has improved because of the Credit Crunch.
 
 
 As property prices reached their peak in 2006/2007 perception of
-[landlords](/advice) was typical of the 70's sit com Rising Damp where the
+[landlords](/help) was typical of the 70's sit com Rising Damp where the
 landlord Rupert Rigsby is greedy and miserly and a bit of a creep. When the
 property market was booming UK landlords were often accused of this stereotype,
 accused of setting high rents and not paying for repairs or maintenance to their

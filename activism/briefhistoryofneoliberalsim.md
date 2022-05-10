@@ -21,7 +21,7 @@ not venture. State interventions in markets (once created) must be kept to a
 bare minimum because, according to the theory, the state cannot possibly possess
 enough information to second-guess market signals (prices) and because powerful
 interest groups will inevitably distort and bias state intervention
-(particularly in democracies) for their own benefit. 
+(particularly in democracies) for their own benefit. 
 
 Redistributive effects and increasing social inequality has in fact been such a
 persistent feature of neoliberalisation as to be regarded as structural to the
@@ -38,7 +38,7 @@ quell inflation no matter what the consequences might be for employment.
 
 Thus began ‘a long deep recession that would empty factories and break unions in
 the US and drive debtor countries to the brink of insolvency, beginning the long
-era of structural adjustment’. 
+era of structural adjustment’. 
 
 And so began the momentous shift towards greater social inequality and the
 restoration of economic power to the upper class.
@@ -52,7 +52,7 @@ and his family and immediate allies so that they could repress or buy off the
 opposition and accumulate considerable wealth and power for themselves. In
 return they would always keep their country open to the operations of US capital
 and support, and when necessary promote US interests both in the country and the
-region... 
+region... 
 
 In the post-war period, much of the non-communist world was opened up to US
 domination by tactics of this sort…The stories told in John Perkins’s
@@ -62,7 +62,7 @@ this was all too often done.
 While the consent of local ruling elites could be purchased easily enough, the
 need to coerce oppositional or social democratic movements associated the US
 with a long history of largely covet violence throughout much of the developing
-world. 
+world. 
 
 The IBM and the World Bank thereafter became the centres for the propagation and
 enforcement of ‘free market fundamentalism’ and neoliberal orthodoxy. In return
@@ -75,7 +75,7 @@ and neoliberal practice: under the former lenders take the losses that arise
 from bad investment decisions, while under the latter the borrowers are forced
 by the state and international powers to take on board the cost of debt
 repayments no matter what the consequences for the livelihood and well-being of
-the local population.  
+the local population.  
 
 In the event of conflict between Main Street and Wall Street, the latter was to
 be favoured. The real possibility then arises that while Wall Street does well
@@ -87,7 +87,7 @@ for Wall Street is all that matters.
 One substantial core of raising class power under neoliberalism lies, therefore,
 with the CEOs, the key operators on corporate boards, and the leaders in the
 financial, legal, and technical apparatus that surrounds this inner sanctum of
-capitalist activity. 
+capitalist activity. 
 
 While there are obvious links between these sorts of activities and the world of
 finance, the incredible ability not only to amass large personal fortunes but
@@ -117,10 +117,10 @@ the owners of property.
 
 Liberal or neoliberal utopianism is doomed in Polanyi’s view to be frustrated by
 authoritarianism, or even outright fascism. The good freedoms are lost and the
-bad ones take over. 
+bad ones take over. 
 
 How is it then that ‘the rest of us’ have so easily acquiesced in this sate of
-affairs? 
+affairs? 
 
 What Gramsci calls 'common sense' (defined as sense held in common) typically
 grounds consent.
@@ -132,7 +132,7 @@ the issues of the day. Common sense can, therefore be profoundly misleading,
 obfuscating or disguising real problems under cultural prejudices. Cultural and
 traditional values (such as belief in God and country or views about the
 position of women in society) and fears (of communists, immigrants or 'others')
-can be invoked that mask specific strategies beneath vague rhetorical devices. 
+can be invoked that mask specific strategies beneath vague rhetorical devices. 
 
 An open project around the restoration of economic power to a small elite would
 probably not gain much popular support. But a programmatic attempt to advance
@@ -143,7 +143,7 @@ treat to maintain the climate of consent necessary to perpetuate its power. This
 was Thatcher and Reagan’s particular forte…
 
 Coercion can produce a fatalistic, even abject, acceptance of the idea that
-there was and is, as Margaret Thatcher kept insisting, ‘no alternative’. 
+there was and is, as Margaret Thatcher kept insisting, ‘no alternative’. 
 
 The worldwide political upheavals of 1968, for example, were strongly inflected
 with the desire for greater personal freedoms. This was certainly true of the
@@ -244,7 +244,7 @@ practices both domestically under Reagan and internationally through the IMF in
 the 1980s. It established the principal that in the event of a conflict between
 the integrity of financial institutions on bondholders’ returns, on one hand,
 and the well being of the citizens on the other, the former was to be
-privileged.  It emphasised that the role of government was to create a good
+privileged.  It emphasised that the role of government was to create a good
 business climate rather than look to the needs and well being of the population
 at large.
 
@@ -300,15 +300,15 @@ lead, took up these ideas, becoming an open advocate for neoliberalism as the
 necessary solution to all economic ills...Charting the spread of ideas is always
 difficult, but by 1990 or so most economic departments in the major research
 universities as well as the business schools were dominated by neoliberal modes
-of thought.  The importance of this is should not be underestimated.  The US
+of thought.  The importance of this is should not be underestimated.  The US
 research universities were and are the training grounds for many foreigners who
 take what they learn back to their countries of origin – the key figures in
 Chile’s and Mexico’s adaption to neoliberalism were US-trained economists for
 example – as well as into international institutes such as the IMF, the World
-Bank and the UN. 
+Bank and the UN. 
 
 During the 1970s, the political wing of the nation’s corporate sector staged one
-of the most remarkable campaigns in the pursuit of power in recent history. 
+of the most remarkable campaigns in the pursuit of power in recent history. 
 
 The construction of consent in Britain occurred in a very different way. In
 Britain there was no Christian right to speak of to be mobilised into a moral
@@ -322,7 +322,7 @@ to strong and sometimes quite militant trade unions. Britain has consequentially
 developed a far more elaborate and all-encompassing welfare state than would
 have ever been dreamed of in the US…Even when the Conservative Party took power
 for prolonged periods after the Second World War it largely refrained for any
-attempt at dismantling the welfare state it had inherited. 
+attempt at dismantling the welfare state it had inherited. 
 
 The commonality between the US and UK cases most obviously lies in the fields of
 labour relations and the fight against inflation. With respect to the latter,
@@ -359,17 +359,17 @@ waning under pressure and job structures radically changing through
 deindustrialisation, middle class values spread more widely to encompass many of
 those who had once had a firm working-class identity. Neoliberalism entailed the
 transformation of the older British class structure, at both ends of the
-spectrum. 
+spectrum. 
 
 While the Thatcher revolution was prepared by organisation of consent within the
 traditional middle-classes who bore her to three electoral victories, the whole
 programme, particularly on her first administration, was far more ideologically
-driven by neoliberal theory than was ever the case in the US. 
+driven by neoliberal theory than was ever the case in the US. 
 
-The success of Reagan and Thatcher can be measured in various ways.  But I think
+The success of Reagan and Thatcher can be measured in various ways.  But I think
 the most useful to stress is the way in which they took what had hitherto been
 minority political, ideological, and intellectual positions and made them
-mainstream. 
+mainstream. 
 
 Reagan and Thatcher seized on the clues they had (from Chile and New York City)
 and placed themselves a the head of a class movement that was determined to
@@ -381,9 +381,9 @@ private property rights, the rule of law, and the institutions of freely
 functioning markets and free trade...The legal framework is that of freely
 negotiated contractual obligations between juridical individuals in the market
 place…The state must therefore use its monopoly of the means of violence to
-preserve those freedoms at all costs.  
+preserve those freedoms at all costs.  
 
-Neoliberal theorists are, therefore, profoundly suspicious of democracy. 
+Neoliberal theorists are, therefore, profoundly suspicious of democracy. 
 Governance by majority rule is seen as a potential threat to individual rights.
 Democracy is seen as a luxury, only possible under certain conditions of
 relative affluence coupled with a strong middle-class presence to guarantee
@@ -400,7 +400,7 @@ governance, relying instead upon undemocratic and unaccountable institutions
 
 Faced with social movements that seek collective interventions, therefore, the
 neoliberal state is itself forced to intervene, sometimes repressively, thus
-denying the very freedoms it is supposed to uphold.  In this
+denying the very freedoms it is supposed to uphold.  In this
 situation…international competition and globalisation can be used to discipline
 movements opposed to the neoliberal agenda within individual states. If that
 fails, then the state must resort to persuasion, propaganda or, when necessary,
@@ -411,7 +411,7 @@ a good business climate as opposed to either the collective rights (and quality
 of life) of labour or the capacity of the environment to regenerate itself.
 
 Internally, the neoliberal state is necessarily hostile to all forms of social
-solidarity that put restraints on capital accumulation.  Independent trade
+solidarity that put restraints on capital accumulation.  Independent trade
 unions or other social movements (such as the municipal socialism of the Greater
 London Council type), which acquired considerable power under embedded
 liberalism, have therefore to be disciplined, if not destroyed.
@@ -431,7 +431,7 @@ Behind these major shifts in social policy lie the important structural changes
 in the nature of governance. Given the neoliberal suspicion of democracy, a way
 has to be found to integrate the state decision-making into the dynamics of
 capital accumulation and the networks of class power that are in the process of
-restoration.  
+restoration.  
 
 Neoliberalisation has entailed, for example, increasing reliance on
 private-public partnerships. Business and corporations not only collaborate
@@ -452,7 +452,7 @@ more and more porous. What remains of representative democracy is overwhelmed,
 if not totally (though legally) corrupted by money power.
 
 But all is not well with the neoliberal state, and it for this reason that if
-appears to be either transitional or an unstable political form.  At the heart
+appears to be either transitional or an unstable political form.  At the heart
 of the problem lies a burgeoning disparity between the declared public aims of
 neoliberalism – the well being of all - and it’s actual consequences - the
 restoration of class power.
@@ -460,7 +460,7 @@ restoration of class power.
 Most conventional analysis of the forces at work concentrate on some combination
 of the power of neoliberal ideas, the need to respond to financial crises of
 various sorts, and a more pragmatic approach to reform the state apparatus to
-improve competitive position in the global market. 
+improve competitive position in the global market. 
 
 While these have all been elements of some significance, the lack of any
 examination of the class forces that might be at work is quite startling. The
@@ -468,7 +468,7 @@ possibility, for example, that the ruling ideas might be those of some ruling
 class is not even considered, even though there is overwhelming evidence for
 massive intervention on the part of business elites and financial interests in
 the production of ideas and ideologies: through investment in think-tanks, in
-the training of technocrats and in the command of the media. 
+the training of technocrats and in the command of the media. 
 
 The possibility that financial crises might be caused by capital strikes,
 capital flight, or financial speculation, or that financial crises are
@@ -482,7 +482,7 @@ necessary precondition for neoliberalisation.
 The degree that neoliberalisation has become integral to common-sense
 understandings among the populace at large has varied greatly depending on the
 strength of belief in the power of social solidarities and the importance of
-traditions of collective social responsibility and provision.  
+traditions of collective social responsibility and provision.  
 
 Even the most draconian of IMF restructuring programmes is unlikely to go
 forward without a modicum of support from for someone. It sometimes seems as if
@@ -490,7 +490,7 @@ the IMF merely takes responsibility for doing what some internal class forces
 want to do anyway.
 
 But one persistent fact…has been the universal tendency to increase social
-inequality and the expose the least fortunate in any society  - be it in
+inequality and the expose the least fortunate in any society  - be it in
 Indonesia, Mexico of Britain – to the chill winds of austerity and the dull fate
 of increased marginalisation.
 
@@ -535,7 +535,7 @@ forces and how the Communist Party positions itself in relation to those forces.
 If we lay aside…the claim that neoliberalisation is merely an example of
 erroneous theory gone wild or a case of senseless pursuit of a false utopia,
 then we are left with the tension between sustaining capitalism, on the one
-hand, and the restoration/ reconstitution of ruling class power on the other. 
+hand, and the restoration/ reconstitution of ruling class power on the other. 
 
 Furthermore, a global financial crisis in part provoked by its own reckless
 economic policies would permit the US government to finally rid itself of any
@@ -546,7 +546,7 @@ social unrest and compel global discipline.
 But we can usefully scrutinize the historic-geographical record of
 neoliberalisation for evidence of its powers as a potential cure-all for the
 political-economic ills that currently threaten us. To what degree has
-neoliberalism succeeded in stimulating capital accumulation?  It’s actual record
+neoliberalism succeeded in stimulating capital accumulation?  It’s actual record
 turns out to be nothing short of dismal.
 
 Only in East and South East Asia, followed now to some extent by India, has
@@ -564,26 +564,26 @@ the ‘only alternative’ and that it has been successful?
 
 First, the volatility of uneven geographical development has accelerated,
 permitting certain territories to advance spectacularly (at least for a time) at
-the expense of others. 
+the expense of others. 
 
 Secondly, neoliberalism, the process rather than the theory, has been a huge
 success from the standpoint of the upper classes. It has either restored class
-power to ruling elites or created conditions for capitalist class formation. 
+power to ruling elites or created conditions for capitalist class formation. 
 
 With media dominated by the upper classes, the myth could be propagated that
 states failed economically because they were not competitive. Increased social
 inequality within a territory was constructed and necessary to encourage the
 entrepreneurial risk and innovation that conferred competitive power and
-stimulated growth. 
+stimulated growth. 
 
 If conditions among the lower classes deteriorated, this was because they
 failed, usually for personal and cultural reasons, to enhance their own human
-capital.  In a Darwinian neoliberal world, the argument went, only the fittest
+capital.  In a Darwinian neoliberal world, the argument went, only the fittest
 should and do survive.
 
 The main substantive achievement of neoliberalisation, however, has been to
 redistribute rather then generate wealth and income…under the rubric of
-‘accumulation by dispossession’.  These include the commoditisation and
+‘accumulation by dispossession’.  These include the commoditisation and
 privatisation of land and the forceful expulsion of peasant populations;
 conversion of various forms of property rights into exclusive private property
 rights; suppression of rights to the commons; commodification of labour power
@@ -602,24 +602,24 @@ been one of the most egregious of all policies of dispossession, often procured
 against the broad political will of the population.
 
 Deregulation allowed the financial system to become one of the main centres of
-redistributive activity through speculation, predation, fraud, and thievery. 
+redistributive activity through speculation, predation, fraud, and thievery. 
 Stock promotions, ponzi schemes, structured asset destruction through inflation,
 asset-stripping through mergers and acquisitions, the promotion of levels of
 debt incumbency that reduced whole populations, even in advanced capitalist
 countries, to debt peonage, to say nothing of corporate fraud, dispossession of
 assets (the raiding of pension funds and their decimation by stock and corporate
 collapse) by credit and stock manipulations – all of these became central
-features of the capitalist financial system. 
+features of the capitalist financial system. 
 
 The neoliberal state also redistributes wealth and income through revisions in
 the tax code to benefit returns of investment rather than incomes and wages,
 promotion of regressive elements in the tax code (such as sales tax), the
 imposition of user fees and the provision of a vast array of subsidies and tax
-breaks to corporations.  
+breaks to corporations.  
 
 The rise of surveillance and policing and incarceration of recalcitrant elements
 of the population indicates a more sinister turn towards intense social control.
-The prison-industrial complex is a thriving sector in the US economy.  In the
+The prison-industrial complex is a thriving sector in the US economy.  In the
 developing countries, where opposition to accumulation by dispossession can be
 stronger, the role of the neoliberal state quickly assumes that of an active
 repression even to the point of low-level warfare against oppositional
@@ -635,7 +635,7 @@ an appropriate guide – an ethic – for all human action.
 The loss of social protections in advanced capitalists countries has had
 particularly negative affects on lower-class women, and in many of the
 ex-communist countries of the Soviet Block the loss of women’s rights through
-neoliberalisation had been nothing short of catastrophic. 
+neoliberalisation had been nothing short of catastrophic. 
 
 With some 2 billion people condemned to live on less than $2 a day, the taunting
 world of capitalist consumer culture, the huge bonuses earned in financial
@@ -677,12 +677,12 @@ free enterprise’ can only mean, as Karl Polanyi points out, ‘the fullness of
 freedoms for those whose income, leisure and security need no enhancing, and a
 mere pittance of liberty for those people who may in vain attempt to make use of
 their democratic rights to gain shelter from the power of the owners of
-property’. 
+property’. 
 
 For those left or cast outside the market system – a vast reservoir of
 apparently disposable people bereft of social protections and supportive social
 structures – there is little to be expected from neoliberalisation except
-poverty, hunger, disease, and despair.  Their only hope is somehow scramble
+poverty, hunger, disease, and despair.  Their only hope is somehow scramble
 aboard the market system either as petty commodity producers, as informal
 vendors (of things or labour power), as petty predators to beg, steal, or
 violently secure crumbs for the rich man’s table, or participate in the vast

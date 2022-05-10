@@ -420,14 +420,14 @@ conceptual world, pathocrats consider it virtually self-evident that the
 reality.
 
 
-Personality development is impoverished, particularly regarding the more subtle
+Personality development is impoverished, particularly regarding the more subtle
 values widely accepted in societies. We observe the characteristic lack of
 respect for one’s own organism and the voice of nature and instinct, accompanied
 by brutalization of feelings and customs, to be explained away by the excuse of
 injustice.
 
 
-If a person with a normal instinctive substratum and basic intelligence has
+If a person with a normal instinctive substratum and basic intelligence has
 already heard and read about such a system of ruthless autocratic rule “based on
 a fanatical ideology”, he feels he has already formed an opinion on the subject.
 However, direct confrontation with the phenomenon will inevitably produce in him
@@ -435,8 +435,8 @@ the feeling of intellectual helplessness. All his prior imaginings prove to be
 virtually useless; they explain next to nothing.
 
 
-The author and many others learned a good deal about the psychology of this
-macro-social phenomenon during compulsory indoctrinational schooling.
+The author and many others learned a good deal about the psychology of this
+macro-social phenomenon during compulsory indoctrinational schooling.
 
 
 The history of mankind has been a history of wars, which makes it lack eternal
@@ -470,7 +470,7 @@ dangerous.
 
 
 Wherever old social systems created by historical processes have been almost
-totally destroyed by the introduction of state capitalism and the development of
+totally destroyed by the introduction of state capitalism and the development of
 pathocracy, that nation’s social and psychological structure has been
 obliterated. The replacement is a pathological structure reaching into every
 corner of a country, causing all areas of life to degenerate and become

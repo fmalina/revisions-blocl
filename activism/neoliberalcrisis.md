@@ -44,7 +44,7 @@ working-class solidarity and collective sentiment has eroded. Not only this, but
 the ‘working class’ has become redefined as mere losers - to be morally improved
 and fitted to compete in the Great Market Society, culturally disrespected and
 humiliated (the ‘chav’ discourse), and socially cleansed from ‘respectable’
-neighbourhoods. 
+neighbourhoods. 
 
 The past thirty years in Britain have seen a regressive development, in which
 assumptions of privilege and social closure that once seemed to be on the way

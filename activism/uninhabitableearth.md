@@ -170,7 +170,7 @@ Global plastic production is expected to triple by 2050, when there will be more
 plastic in the ocean than fish.
 
 There are now, trapped in Arctic ice, diseases that have not circulated in the
-air for millions of years. 
+air for millions of years. 
 
 Which means our immune systems would have no idea how to fight back when those
 prehistoric plagues emerge from the ice.
@@ -223,7 +223,7 @@ hurricanes have inundated the news.
 What will happen at two degrees, or three?
 
 We tend to think of climate as somehow being contained within, or governed by,
-capitalism. In fact, it is endangered by it. What we conceive as the modern
+capitalism. In fact, it is endangered by it. What we conceive as the modern
 economy is really a system powered by fossil fuels.
 
 The predictions of economic hardship, remember, are enormous—$551 trillion in

@@ -276,7 +276,7 @@ difficult concept to grasp.
 The development of the modern banking system was a great civilizational advance.
 As a result of that advance, societies with sound banking systems and related
 institutions, and with democratic oversight of those institutions, could
-mobilise finance for development.   In such societies there is never a shortage
+mobilise finance for development.   In such societies there is never a shortage
 of money.
 
 
@@ -405,7 +405,7 @@ These facts are widely known and understood, but not acted upon.
 
 Today we live in a world in which the public infrastructure that is money
 production has been captured and subordinated to the interests of a wealthy
-elite - finance capital.  Rentiers - individuals or institutions that live by
+elite - finance capital.  Rentiers - individuals or institutions that live by
 unearned income - have not been euthanized by the banking system. On the
 contrary: they are in triumphant possession of it.
 

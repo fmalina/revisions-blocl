@@ -6,7 +6,7 @@ By **R. H. Fryer**
 Everyday life throws up needs and society responds to them.
 
 It is not through resignation but rebellion in the face of injustice that we
-affirm ourselves as human beings. Paulo Freire. 
+affirm ourselves as human beings. Paulo Freire. 
 
 Since the Second World War, all-powerful social pressures, with real possibility
 for far-reaching transformation, have been readily changed out of recognition
@@ -15,7 +15,7 @@ original objectives of the social struggles. The political system has
 demonstrated a notable capacity for appropriating pressures and proposals,
 assimilating and integrating disruptive elements, which in other societies have
 become an essential element in the process leading to profound social and
-political transformations.  Jose de Souza Martins, Lecturer in Sociology,
+political transformations.  Jose de Souza Martins, Lecturer in Sociology,
 University of Sao Paulo
 
 Citizenship concerns every one of us, with its accompanying rights (or lack of
@@ -40,7 +40,7 @@ lives…characterised by an increasing degree of uncertainty, unpredictability a
 anxiety. In a world that constantly threatens change (or promises it), it is
 hardly surprising that people’s standing, their experience of citizenship, and
 their sense of belonging or being ‘on the outside’ are also subject to major
-shifts. 
+shifts. 
 
 Globalisation and its consequences now figure centrally as a major force in
 social change. As finance, information, culture, people, technology,
@@ -70,22 +70,22 @@ response to the attractions put on display by competing shopping malls,
 television channels and websites.
 
 Autonomy rests on people’s opportunities for, and capability of, debating,
-deliberating, thinking critically, reflecting and deciding for themselves  - all
+deliberating, thinking critically, reflecting and deciding for themselves  - all
 of them central to the tenets of liberal, independent and humane lifelong
-learning. 
+learning. 
 
 Active citizens…usually learn their citizenship skills through trying to solve a
 problem or to fulfil a mission, rather than by setting out to learn to become
-good citizens.  Learning and citizenship itself emerge as a consequence to this
-primary motivation. 
+good citizens.  Learning and citizenship itself emerge as a consequence to this
+primary motivation. 
 
 For more than a decade now, perhaps the most striking arguments and most far
 reaching impactions for citizenship, people’s sense of belonging and even
 lifelong learning, have been those at the centre of the phenomenon of
-globalisation. 
+globalisation. 
 
 Many critical observers regard such developments with a mixture of horror and
-awe.  Only a limited number of winners can thrive: international and
+awe.  Only a limited number of winners can thrive: international and
 transnational corporations in search of ever cheaper production and continually
 expanding and novel markets, and deracinated individuals who cheerfully shed
 attachments and loyalties in order to relish their alignment with nothing other
@@ -94,7 +94,7 @@ than their own self-interest and the satisfaction of their appetites.
 As a result of political globalisation, greater opportunities exist for people
 to participate in an emerging global civil society – a dense network of social
 movements and interest groups who organize and mobilise across and outside
-states. 
+states. 
 
 The question facing us today, is not whether to recognise ethnic identities or
 protect nature or enable access to cultural capital or eliminate discrimination
@@ -105,7 +105,7 @@ Building people’s confidence in their ability to express views and have them
 take seriously, promoting involvement through genuine dialogue, subjecting ideas
 to critical and informed discussion and commitment to the deliberative and
 patient working through together of issues, towards agreed outcomes and,
-perhaps, common goals. 
+perhaps, common goals. 
 
 [amzn:1862014426]
 

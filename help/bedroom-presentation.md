@@ -15,22 +15,22 @@ Next you need to look at what you’re going to put in the room. Normally a good
 furnished room will consist of a:
 
 
-* [Good quality bed](/advice/buying-new-beds)
+* [Good quality bed](/help/buying-new-beds)
 * Storage space
 * Bedside table
 * Lamp
 * TV
 * Rubbish bin
 * Desk
-* [Broadband access](/advice/why-provide-internet-access), a big selling point.
+* [Broadband access](/help/why-provide-internet-access), a big selling point.
 
 
 You can find most things you need by visiting [Argos](http://bit.ly/8gN898) and
-if you’re looking for a bed [check here](/advice/buying-new-beds).
+if you’re looking for a bed [check here](/help/buying-new-beds).
 
 
 Remember that if you claim the £4250 [tax free rent a room
-scheme](/advice/the-rent-a-room-scheme) benefit, the room has to be furnished.
+scheme](/help/the-rent-a-room-scheme) benefit, the room has to be furnished.
 
 
 As this is going to be the tenant’s private space, you need to make the room as

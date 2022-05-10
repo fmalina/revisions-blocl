@@ -5,11 +5,11 @@ Show me the phone number
 ------------------------
 
 
-Please pay. The payment process is efficient at vetting fraud that the free
+Please pay. The payment process is efficient at vetting fraud that the free
 sites have over the roof.
 
 
-You can choose [premium membership](/premium-membership) to help us make the
+You can choose [plus membership](/help/plus-membership) to help us make the
 site better and keep it going. Premium members have access to phone and messages
 from any member. Basic members can only phone or text and read replies of
 premium members. Basic members can message to other basic members on the cost of
@@ -21,8 +21,8 @@ We are a company looking to advertise rented accommodation
 ----------------------------------------------------------
 
 
-You'll need [premium membership](/premium-membership). This allows you to post
-multiple adverts. 3 of your last updated adverts will also be featured.
+You'll need [plus membership](/help/plus-membership). This allows you to post
+multiple adverts. 3 of your last updated adverts will also be featured.
 
 
 When signing up or updating your profile enter your company name in the first
@@ -33,7 +33,7 @@ My photos won’t upload
 ----------------------
 
 
-Only JPEG/JPG, PNG and GIF images will go through.
+Only JPEG/JPG, PNG and GIF images will go through.
 
 
 **The browser is stuck for a long time:** Be patient and don’t close the browser
@@ -43,9 +43,8 @@ speed. If you get a good web browser, you will enjoy better upload experience on
 our site.
 
 
-If you are on an older iOS mobile device (iPad, iPhone, iPod touch) or device
-that can’t upload (phones with Symbian S40, etc.), you can email images to
-**upload@flatmaterooms.co.uk** from the email address you signed up with. We
+Plus members: If you are on a device that can’t upload, you can email images to
+**hi@blocl.com** from the email address you signed up with. Support staff
 check it for email spoofing, upload images on your latest advert and send you a
 confirmation.
 
@@ -60,8 +59,6 @@ any file or fix corrupted images using screen grab or print screen.
 
 How can other users contact me?
 -------------------------------
-
-
 They type a message in the message box on your advert, or give you call or text
 if you are a premium member.
 
@@ -77,8 +74,6 @@ their advert or been too busy. Reply and check.
 
 How do I delete my ad?
 ----------------------
-
-
 Please delete your adverts if you no longer need them. Go to [your ads](/ads),
 hit deactivate. This controls whether your ad shows in the listings. You can
 still put it back on, if needed again. When your add is off, you can also delete
@@ -86,10 +81,8 @@ it for good. This will obliterate your ad, any related messages and pictures
 completely from the system. Yay!
 
 
-I put my advert in my town but I couldn’t find it if I use the search filter
+I put my advert in my town, but I can’t find it if I use the search filter
 ----------------------------------------------------------------------------
-
-
 Often saving the advert again or turning it off and back on will clear out
 issues, plus it will put you back on top of search results in your town and
 county. Don’t leave your maximum age as 99 years, unless off course you or
@@ -123,15 +116,15 @@ name, full surname, correct email (double check) and any other email addresses
 you might have used. We’ll get you sorted.
 
 
-How do I get more responses?
+How do I get more responses?
 ----------------------------
 
 
-We advertise the site heavily and cleverly, getting you the enquiries you need
+We advertise the site heavily and cleverly, getting you the enquiries you need
 or a place you want.
 
 
-1. Improve your advert. Upload at least 1 or more pictures. This will give users a better idea of you or your property, so they don’t shy away contacting you. Consider [premium membership](/premium-membership). This gives your ad the best exposure, keeping your ad at the top of search results and enables basic members to phone or text you.
+1. Improve your advert. Upload at least 1 or more pictures. This will give users a better idea of you or your property, so they don’t shy away contacting you. Consider [plus membership](/help/plus-membership). This gives your ad the best exposure, keeping your ad at the top of search results and enables basic members to phone or text you.
 2. Check the site regularly, be proactive. This will keep your ad near the top of listings gaining you the best exposure.
 3. Actively look for rooms or tenants and contact them, don’t just expect them to fall on your lap.
 
@@ -140,7 +133,7 @@ How do I post more adverts?
 ---------------------------
 
 
-Upgrade to [premium membership](/premium-membership) to post multiple ads.
+Upgrade to [plus membership](/help/plus-membership) to post multiple ads.
 
 
 How does my ad get to the top of the listings?
@@ -167,18 +160,14 @@ correct position and **save**.
 
 
 Sometimes the aerial and street view imagery is out of date or not available at
-all. Keeping this data updated is quite expensive for the companies who deliver
-the service. More about
-[FlatmateRooms](http://data.gov.uk/apps/flatmate-rooms-easy-roommate-and-spare-room-finder-uk-wide)
-data sources.
+all. Keeping this data updated is up to the companies who deliver the service.
 
 
 I am new to flatsharing / foreigner / I don’t have experience renting. How do I get some professional advice?
 -------------------------------------------------------------------------------------------------------------
 
 
-We have a full advice centre covering over 40 subjects, just visit our [advice
-centre](/advice).
+We have a full advice centre covering over 40 subjects, just visit our [help section](/help).
 
 
 How do I report a dodgy advert or message?
@@ -203,5 +192,5 @@ What do I do if I’m still stuck?
 
 
 Use the feedback box below for a quick reply. We are also on
-**hello@flatmaterooms.co.uk**.
+**hi@blocl.com**.
 

@@ -115,7 +115,7 @@ Appreciation for John C. Calhoun turns out to be a recurrent theme in the brain
 trust the Kansas-based billionaire Charles Koch has funded over the years.
 
 To see how Calhoun’s project unfolded in his day is to better understand the
-stealth plan for transformation under way in our own.
+stealth plan for transformation under way in our own.
 
 Calhoun had no rival in the sheer wizardry of what one famous political
 scientist called the “set of constitutional gadgets” that Calhoun engineered to
@@ -178,7 +178,7 @@ The lineaments of a long battle were being drawn: collective security versus
 individual liberty.
 
 Frank Knight and some other University of Chicago faculty members headed to
-Switzerland to strategize for the fight. They came home having created what they
+Switzerland to strategize for the fight. They came home having created what they
 called the Mont Pelerin Society.
 
 Their concern was how they might, together, shift the tide of history away from
@@ -323,7 +323,7 @@ libertarian should be tearing it out at the root.”
 government than improve it?)
 
 You cannot understand the influence of the stealth movement that is transforming
-America today without understanding this critical turning point.
+America today without understanding this critical turning point.
 
 Why wait for popular opinion to catch up when you could portray as “reform” what
 was really slow-motion demolition through privatization?
@@ -398,7 +398,7 @@ crab walk, in a manner that cumulatively, yet quietly, could begin to radically
 alter the power relations of American society.
 
 Now, no doubt inspired by Chile’s conversion to private pensions, Charles Koch’s
-Cato Institute turned to Buchanan to teach its staff how to crab walk.
+Cato Institute turned to Buchanan to teach its staff how to crab walk.
 
 Cato made the privatization of Social Security its top priority.
 
@@ -442,7 +442,7 @@ For his part, Charles Koch came to see that Buchanan possessed the key that he
 had been searching for over so many years.
 
 It was time to go from theory to practice in a way that even Koch-supported
-operatives had never been asked to do before.
+operatives had never been asked to do before.
 
 Chapter 12
 ----------

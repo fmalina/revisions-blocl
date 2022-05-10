@@ -38,5 +38,5 @@ tothe HM Revenue & Customs (HMRC) and pay tax in the normal way.
 
 
 Full up to date details
-on <https://www.gov.uk/rent-room-in-your-home/the-rent-a-room-scheme>
+on <https://www.gov.uk/rent-room-in-your-home/the-rent-a-room-scheme>
 

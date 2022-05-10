@@ -143,21 +143,21 @@ Applicable once, if requested within 10 days after expiration of your 30 days
 premium membership.     No cash alternative.
 
 
-**[Premium membership](/premium-membership)**
+**[Plus membership](/plus-membership)**
 ---------------------------------------------
 
 
-1. All premium membership packages are billed as a recurring payment, packages will auto renew when your selected package expires.
-2. 6 and 12 months packages are billed for the full term as a recurring payment, packages will auto renew when your selected package expires.
-3. All Premium memberships can be cancelled in [your account section](/details).
-4. Payments by PayPal are one off payments with no recurring billing.
+1. All premium membership packages are billed as a recurring payment, packages will auto-renew when your selected package expires.
+2. 6 and 12 months packages are billed for the full term as a recurring payment, packages will auto-renew when your selected package expires.
+3. All Premium memberships can be cancelled in [your account section](/details).
+4. Payments by PayPal are one off payments with no recurring billing.
 5. Once a package has been selected there is no option to downgrade until after it has expired.
 6. Members are advised to purchase premium membership based on the full period you receive rather than purchasing it to contact just one person.
 7. Access to premium membership features is normally processed immediately.
-8. Adverts of premium members can take up to 10 minutes to become featured. For accounts with many adverts: 3 latest updated adverts fall into featured slots. Additional featured slots can be purchased by contacting us.
+8. Adverts of premium members can take up to 10 minutes to become featured. For accounts with many adverts: 3 latest updated adverts fall into featured slots.
 9. On rare occasions premium membership and featured advert activation can take longer for reasons beyond our control.
 10. Auto-renewals will only activate for one auto-renewal period before it expires, this is in place to stop users oversubscribing.
-11. If a user is seen to be acting suspiciously or not in the way of a normal user, their premium membership will be cancelled without refund.
+11. If a user is seen to be acting suspiciously or not in the way of a normal user, their premium membership will be cancelled without refund.
 
 
 Refunds
@@ -191,7 +191,7 @@ Search engines
 --------------
 
 
-Search engines such as Bing, Google and others crawl this site and user adverts
+Search engines such as Bing, Google and others crawl this site and user adverts
 may appear in their search results.
 
 
@@ -258,7 +258,7 @@ General
 -------
 
 
-We may from to time to time change the content of this site or suspend or
+We may from time to time change the content of this site or suspend or
 discontinue any aspect of this site, which may include your access to it.
 Subject to our notifying you to the contrary, any amendments to this site or new
 content will be subject to these Terms.

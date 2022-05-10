@@ -263,7 +263,7 @@ proclaimed its existence to be something of virtue for the rest of mankind.
 
 
 “The Bank for International Settlements is the bank which sanctions the most
-notorious outrage of this generation—the rape of Czechoslovakia.”            —
+notorious outrage of this generation—the rape of Czechoslovakia.”            —
 George Strauss, Labor MP, speaking in the House of Commons, May 1939
 
 

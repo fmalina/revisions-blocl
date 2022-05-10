@@ -158,7 +158,7 @@ basket of Indian coal remain unburnt as a result of the scheme so far? Brutally
 put, no.
 
 
- If there is any point to economics, and the pursuit of growth, it should be the
+ If there is any point to economics, and the pursuit of growth, it should be the
 advancement of ordinary people.
 
 

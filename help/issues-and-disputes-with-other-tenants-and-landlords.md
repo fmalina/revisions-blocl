@@ -16,8 +16,8 @@ and come to an easy resolution, if this doesn’t resolve the issue then contact
 your landlord to help resolve it, if the issue is still not resolved you can
 check legally where you stand, but if you feel you want to leave then explain
 the situation to the landlord and give them the [required
-notice](/advice/giving-notice-to-leave) in your [tenancy
-agreement](/advice/tenancy-agreements).
+notice](/help/giving-notice-to-leave) in your [tenancy
+agreement](/help/tenancy-agreements).
 
 
 Issues and disputes with your landlord
@@ -34,13 +34,13 @@ If issues are more serious then have another conversation and if there is no
 resolution you can check legally where you stand or you may ask to leave or the
 landlord may ask you to leave, then you would refer back to your tenancy
 agreement and the law on the period of notice that has to be given and ask the
-landlord whether your [deposit](/advice/taking-deposits-and-legislation) is
+landlord whether your [deposit](/help/taking-deposits-and-legislation) is
 going to be affected.
 
 
 When renting rooms, consider having [tenant
-insurance](/advice/tenant-and-student-insurance) and ask the landlord for a
-[tenancy agreement](/advice/tenancy-agreements) this will help towards any
+insurance](/help/tenant-and-student-insurance) and ask the landlord for a
+[tenancy agreement](/help/tenancy-agreements) this will help towards any
 future issues. Always check legally where you stand.
 
 

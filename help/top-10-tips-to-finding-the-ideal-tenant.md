@@ -5,7 +5,7 @@ Below we have put together a list of things you should consider and keep in mind
 when finding the right tenant.
 
 
-1. Use Flatmate Rooms daily
+1. Use Blocl daily
 ---------------------------
 
 

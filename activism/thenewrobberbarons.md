@@ -6,13 +6,13 @@ By **Janet M. Tavakoli**
 ![](/bookimg/thenewrobberbarons.jpg)
 
 This book is a compilation of selected articles written after September 2008 and
-ending in 2012, a few months after the implosion of MF Global.  It’s a selective
+ending in 2012, a few months after the implosion of MF Global.  It’s a selective
 chronicle of how the New Robber Barons prospered—and continue to prosper—at the
 expense of those without government connections.
 
 
 Every year since the financial crisis, government has become less representative
-of its electorate.  Government has become a service industry to its money
+of its electorate.  Government has become a service industry to its money
 raising cronies.
 
 
@@ -70,20 +70,20 @@ We have the solutions. We need the will to implement them.
 
 The general financial meltdown experienced in September 2008 was accompanied by
 the suppression of facts and self-serving misinformation by many of the key
-players.  Capital buffers and hedges were insufficient, and the controversial
+players.  Capital buffers and hedges were insufficient, and the controversial
 choice was made to recapitalize the banks without inquiry into the causes and
-culprits.  Unfortunately, the bailout was also done without conditions and no
+culprits.  Unfortunately, the bailout was also done without conditions and no
 meaningful steps have been taken that will prevent a similar global financial
 catastrophe.
 
 
-The rating agencies’ problems run deep.  In late 2003, the Financial Times took
+The rating agencies’ problems run deep.  In late 2003, the Financial Times took
 rating agencies to task for misrating debt issued by scandal-ridden Parmalat,
 Enron and WorldCom.
 
 
-By this time, the rating agencies had morphed into a cartel of sorts.  They
-competed for market share and raced each other’s “standards" to the bottom. 
+By this time, the rating agencies had morphed into a cartel of sorts.  They
+competed for market share and raced each other’s “standards" to the bottom. 
 
 
 When rating agencies make mistakes in securitizations backed by debt, the losses
@@ -94,7 +94,7 @@ securitizations—they blow the entire job.
 
 
 The Commercial Financial Services’ (CFS) debacle provides a stunning early
-example of the rating agencies’ incompetence. 
+example of the rating agencies’ incompetence. 
 
 
 All three rating agencies gave investment grade ratings to securitizations that
@@ -115,7 +115,7 @@ statements that had grave consequences for investors and the global financial
 markets.
 
 
-Rating agencies have not been held accountable for past poor performance.  The
+Rating agencies have not been held accountable for past poor performance.  The
 possibility of malfeasance or collusion with fraud has been skirted rather than
 addressed.
 
@@ -126,7 +126,7 @@ alternative banking system.
 
 
 Just because the problem of creating a viable global credit rating system is
-difficult doesn’t mean it shouldn’t be done.  In fact, it is precisely because
+difficult doesn’t mean it shouldn’t be done.  In fact, it is precisely because
 it is difficult that there is a great need to thoroughly address the issue.
 
 
@@ -182,7 +182,7 @@ citizens that saved their money and pay taxes.
 
 
 Everything we want or need in life comes to us through our relationships with
-other people.  The quality of our relationships, or human wealth, defines the
+other people.  The quality of our relationships, or human wealth, defines the
 quality of our lives.
 
 [amzn:B007AL01HY]

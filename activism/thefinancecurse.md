@@ -20,7 +20,7 @@ issue, 2012 [\*](#ASIN:B00CXTZ08S;LOC:195)
 Despite the trillions flowing into and through the City of London, for instance,
 Britain performs worse on major human development indicators – inequality,
 infant mortality, poverty, and more – than Germany, Sweden, Canada and most of
-its other rich-country peers.  Each ailment has many explanations, but oversized
+its other rich-country peers.  Each ailment has many explanations, but oversized
 finance appears to be a major contributor.
 
 
@@ -35,7 +35,7 @@ warnings - for larger finance-dependent countries.
 
 A sector widely regarded as the Goose that Lays the Golden Eggs often turns out
 to be a very different bird: a Cuckoo in the Nest, crowding out, hollowing out
-and undermining other economic sectors.  Very often, the interests of the
+and undermining other economic sectors.  Very often, the interests of the
 financial centre conflict directly with the national interest.
 
 
@@ -92,7 +92,7 @@ make it much harder to find the political will to put such policies in place.
 
 
 The core thesis of this book is not that finance is bad per se, but that above a
-certain level, financial sector growth can be harmful.   Certainly, the
+certain level, financial sector growth can be harmful.   Certainly, the
 financial sector seems to have massively outgrown its ‘utility’ role servicing
 the domestic (and, at times international) productive economy.
 
@@ -106,7 +106,7 @@ Most of the claims for finance made in Section 2.3 above are fatally flawed by
 two big factors:
 
 
-1. The Net versus Gross problem   Here lies one of the great misconceptions
+1. The Net versus Gross problem   Here lies one of the great misconceptions
 about the ‘contribution’ of finance: the taxes raised, the jobs created, and so
 on.
 
@@ -129,7 +129,7 @@ seems likely that in many cases oversized finance has reduced net employment,
 tax and so on in the long term.
 
 
-2. Mobile and immobile finance: what will move?   The central threat repeatedly
+2. Mobile and immobile finance: what will move?   The central threat repeatedly
 made by financiers to justify less financial regulation or lower taxation goes
 along the lines of “don’t tax or regulate us too much or your financial centre
 will become less ‘competitive’ and we will relocate to Zurich or London or Hong
@@ -137,7 +137,7 @@ Kong.” But every time policy makers and regulators hear this threat they must
 remember: the financial centre is composed roughly of two parts. First is the
 immobile part, which is rooted in the local economy and cannot and will not
 leave in response to stronger financial regulation. The second is the flightier
-mobile part, which could potentially be prone to departure.  So when policy
+mobile part, which could potentially be prone to departure.  So when policy
 makers and regulators worry about the ‘competitiveness’ of the local financial
 centre they must consider only the mobile part that is potentially at risk of
 relocation, and disregard the locally-rooted immobile part. For the purposes of
@@ -146,7 +146,7 @@ policy making, these must be regarded as separate sectors.
 
 The question then becomes: how much of the financial sector is mobile? This is
 speculative, but data from the United Kingdom provides one useful benchmark.
- TheCityUK estimated that UK financial services contributed £63 billion in tax
+ TheCityUK estimated that UK financial services contributed £63 billion in tax
 revenue in the 2011/12 financial year, and that of this £63bn “£20bn is mobile
 and could move from the UK.” So we calculate that if financial regulators and
 other policy makers are worried about the ‘competitiveness’ of the financial
@@ -157,7 +157,7 @@ to other figures such as employment.
 
 
 This 32 percent share is obviously a very rough rule of thumb but it is a far
-better approximation than the 100 percent figure TheCityUK would like us to 
+better approximation than the 100 percent figure TheCityUK would like us to 
 take on board. What is more, this share should be considered an extreme upper
 limit, for several reasons.
 
@@ -197,7 +197,7 @@ from these scaled-down numbers, we can then subtract other costs to reach a net
 ‘contribution.’
 
 
-A note on ‘casino’ and ‘utility’ 
+A note on ‘casino’ and ‘utility’ 
 
 
 The mobile/immobile distinction is similar to another rough analytical
@@ -211,7 +211,7 @@ heavily implicated in the wake of the global financial and economic crisis).
 The utility is generally rooted in the local economy and is therefore immobile,
 while the casino is involved in both the mobile and the immobile sectors. The
 overlap here is certainly not at all exact, but it is a reasonable
-approximation.  We suggest that a financial centre becomes oversized and the
+approximation.  We suggest that a financial centre becomes oversized and the
 Finance Curse starts to afflict a country once the financial centre outgrows its
 utility role and expands into the casino sector. (This is not proven, but it
 fits all the evidence.) So higher capital requirements or other essential
@@ -253,7 +253,7 @@ economies, magnifying the effect of a finance sector already sucking the best
 talent down to London.
 
 
-Larry Elliott provides an example, in the Guardian:   “The £15bn invested in
+Larry Elliott provides an example, in the Guardian:   “The £15bn invested in
 Crossrail [a London-based rail project] dwarfs spending on infrastructure in the
 north. Indeed, the £322m earmarked for new rail lines to boost the big northern
 cities is exceeded by the £350m to lengthen two platforms at Waterloo station.
@@ -306,7 +306,7 @@ future. It was produced by a group led by Bob Wigley, the European chair of
 Merrill Lynch, and it included John Varley, the chief executive of Barclays, and
 Lord Levene, the chairman of Lloyd's of London. The second was co-chaired by
 Alastair Darling, UK Chancellor of the Exchequer and by Win Bischoff, the former
-chairman of Citigroup.   This post-crisis moment was probably Britain’s one
+chairman of Citigroup.   This post-crisis moment was probably Britain’s one
 great chance for fundamental reform. The two reports, predictably, warned about
 the dangers of London losing its global ‘competitiveness’ as a financial centre,
 and used this as an excuse for what could broadly be described as inaction, or a
@@ -341,7 +341,7 @@ scandals, vast unpunished money laundering scandals involving HSBC,[159]
 Standard Chartered Bank, ING, Lloyds TSB, Credit Suisse, ABN Amro / RBS, and
 Barclays[160] – plus, of course, numerous others involving the facilitation of
 tax, widespread mortgage fraud ahead of and in the wake of the financial
-crisis.  As Charles Ferguson of the acclaimed film Inside Job summarises:  
+crisis.  As Charles Ferguson of the acclaimed film Inside Job summarises:  
 Since the 1980s much of the global financial sector has become criminalised,
 creating an industry culture that tolerates or even encourages systematic fraud.
 . . . none of this conduct has been punished in any significant way.
@@ -349,7 +349,7 @@ creating an industry culture that tolerates or even encourages systematic fraud.
 
 In evidence submitted to the UK Commission on Banking, Rowan Bosworth-Davies, a
 former British financial detective, explores the criminalisation of the UK
-financial sector. His evidence contains the following:[161]   The British
+financial sector. His evidence contains the following:[161]   The British
 banking sector has become an organised criminal enterprise which has been
 allowed to develop because of the criminogenic environment in which it
 functions, which has resulted from the absence of any meaningful regulation
@@ -370,12 +370,12 @@ Industry].
 During my career, even when I could demonstrate that my squad was dealing with
 named US mafia organised criminals who were setting up share dealing operations
 in London, DTI officials refused to do anything about it, and just laughed at
-us, accusing us of ‘seeing the mafia behind every bush.’
+us, accusing us of ‘seeing the mafia behind every bush.’
 
 
 Even if unquantifiable, the costs of this ‘criminalisation’ are undoubtedly very
-large.  As the US economist George A. Akerlof put it, in a version of Gresham’s
-Law:   [D]ishonest dealings tend to drive honest dealings out of the market. The
+large.  As the US economist George A. Akerlof put it, in a version of Gresham’s
+Law:   [D]ishonest dealings tend to drive honest dealings out of the market. The
 cost of dishonesty, therefore, lies not only in the amount by which the
 purchaser is cheated; the cost also must include the loss incurred from driving
 legitimate business out of existence.
@@ -419,7 +419,7 @@ It is important not to let the messy, noisy compromises of democracy get in the
 way of finance.
 
 
-So in this particular respect the Finance Curse is in a way more dangerous than 
+So in this particular respect the Finance Curse is in a way more dangerous than 
 the Resource Curse, because it requires financial actors to take deliberate and
 sustained steps to neutralise democracy and undercut potential democratic
 challenges to finance.

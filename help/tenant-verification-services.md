@@ -21,7 +21,7 @@ committed fraud.
 
 
 Credit risk scores and references can be checked too. However landlord needs the
-[tenancy agreement](/advice/tenancy-agreements) and tenants permission for this.
+[tenancy agreement](/help/tenancy-agreements) and tenants permission for this.
 
 
 Tenant Verifier offers you 2 levels of reports to verify potential tenants:

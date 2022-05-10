@@ -31,7 +31,7 @@ more inspiration check out adverts similar to yours.
  Is it spacious or is it a small easy to maintain room?
 * **What’s in the room?**  
 
- Is it furnished, what’s the [bed](/advice/buying-new-beds) size?
+ Is it furnished, what’s the [bed](/help/buying-new-beds) size?
 * **About the local area**  
 
  Do you live in a nice area, is there stuff to do?
@@ -67,7 +67,7 @@ more inspiration check out adverts similar to yours.
  Someone the same age as you or the same interests etc.
 * **Target your market**  
 
- If most people renting rooms in your area are students, then make your advert appeal to them. Show them the benefits e.g. distance to local college, uni.
+ If most people renting rooms in your area are students, then make your advert appeal to them. Show them the benefits e.g. distance to local college, uni.
 * **Do you like a clean and tidy household?**  
 
  Do you mind the odd plate or are you looking for really tidy?

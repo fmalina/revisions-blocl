@@ -6,9 +6,9 @@ people are honest.
 
 
 We have a blog article here to help [keep you
-safe](/advice/prevent-scams-keep-safe) but we thought we’d highlight “070
+safe](/help/prevent-scams-keep-safe) but we thought we’d highlight “070
 numbers”. These numbers look like regular mobile numbers 07048 451 4\*\* but can
-charge a whopping 50p a minute from a landline and from mobiles much more.
+charge a whopping 50p a minute from a landline and from mobiles much more.
 
 
 ![](/media/images/high-bill.jpg)
@@ -41,7 +41,5 @@ So remember to check numbers, **mobile phone numbers never start 070**.
 ---
 
 
-At Flatmaterooms we keep our members safe by removing adverts and users that use
-070 numbers in their adverts.
-
-
+We keep our members safe by removing adverts and users that use
+070 numbers in their adverts.

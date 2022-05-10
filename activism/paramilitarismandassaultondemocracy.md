@@ -108,7 +108,7 @@ Galbraith)
 “I am afraid that the ordinary citizen will not like to be told that banks can
 and do create money... and they  who control the credit of the nation direct the
 policy of Governments and hold in the hollow of their hands the  destiny of the
-people”  (Reginald McKenna, Chairman of the Board of the Midland Bank, and
+people”  (Reginald McKenna, Chairman of the Board of the Midland Bank, and
 former Chancellor of  the Exchequer) "There is nothing more difficult to
 execute, nor more dubious of success, nor more dangerous to  administer, than to
 introduce a new order of things; for he who introduces it has all those who

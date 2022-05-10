@@ -6,6 +6,8 @@ market closely. Do your homework. Seek professional advice. Watch out for any
 scams and remember the saying “if it sounds too good to be true it probably is”.
 Below are a few basics to help you on your way.
 
+Maximise best advertising practice making this happen.
+
 
 Location
 --------
@@ -75,13 +77,7 @@ annum/£910 per month.
 And if you were to convert a 2nd reception room this would generate a further
 £303 per month.
 
-
 Now look at your mortgage repayments, council tax, bills and maintenance etc.
 Can you stay on top of the repayments, also taking into consideration the
 minimum number of weeks tenancy per annum you need to attain to achieve the
 required return.
-
-
-Maximise best advertising practice to make this happen using FlatmateRooms.
-
-

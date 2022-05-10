@@ -1,84 +1,61 @@
 Trademark, how to
 =================
 
-Getting Flatmate Rooms trademark registered with UK Intellectual Property
-Office involved a few steps so here comes a little writeup of the process.
-I hope it helps if you are going through a trademark application or just
-inquisitive.
+Getting a trademark registered with UK Intellectual Property
+Office involved a few steps so here comes a little writeup of the process.
 
+Article intended to help those going through a trademark application.
 
-First the easy part: Headed over to [ipo.gov.uk](http://ipo.gov.uk), filled out
-the forms, paid and soon recieved confirmation with trade mark
-application attached.
+First the easy part: Headed over to [ipo.gov.uk](http://ipo.gov.uk), filled out
+the forms, paid and soon received confirmation with trademark
+application attached.
 
-
-…and than the hard part: Application was **not acceptable.** IPO raised an
+…and then the hard part: Application was **not acceptable.** IPO raised an
 objection to discuss. We needed **supporting documents and witness statement**
 to go with it. So here it goes.
 
 
-
-
 ---
 
 
-**JS1 homepage screenshot & JS 2 window sticker**
+**JS1 homepage screenshot & JS 2 window sticker**
 
 
-![](/media/trademark/JS1_homepage.png)  ![window
+![](/media/trademark/JS1_homepage.png)  ![window
 sticker](/media/trademark/JS2_sticker.png)
 
 
-
-
 ---
 
 
-**JS 3 hypertext references**
+**JS 3 hypertext references**
 
 
-### Academic / Universities recommending Flatmate Rooms
-
-
+### Academic / Universities recommending Blocl
 **Richmond university in London**: Independent Housing Options
-
-
 [www.richmond.ac.uk/content/student-affairs/accommodation/off-campus-accommodation/independent-housing-options.aspx](http://www.richmond.ac.uk/content/student-affairs/accommodation/off-campus-accommodation/independent-housing-options.aspx)
 
-
 **Bedford University**: Private rented accommodation
-
-
 [www.bedford.ac.uk/International-students/Living-in-Bedford/Accommodation.aspx](http://www.bedford.ac.uk/International-students/Living-in-Bedford/Accommodation.aspx)
 
 
 **Cambridge University**: Alternative Accommodation in Cambridge
-
-
 [www.tyndale.cam.ac.uk/index.php?page=alternative-accommodation](http://www.tyndale.cam.ac.uk/index.php?page=alternative-accommodation)
 
 
 **Oxford**: What if I can’t get College accommodation?
-
-
 [www.gtc.ox.ac.uk/college-life/facilities/accommodation.html](http://www.gtc.ox.ac.uk/college-life/facilities/accommodation.html)
 
 
 **Buckinghamshire New University**: Accommodation - Useful websites
-
-
 [bucks.ac.uk/home\_eu\_students/accommodation/alternative\_sources\_wycombe/](http://bucks.ac.uk/home_eu_students/accommodation/alternative_sources_wycombe/)
 
 
 **Sanger institute**: Housing
-
-
 [www.sanger.ac.uk/workstudy/information/moving.html](http://www.sanger.ac.uk/workstudy/information/moving.html)
 
 
 **Abertay University**: Private Accommodation - Useful websites
-
-
 [www.abertay.ac.uk/studying/accommodation/2013-14/otheraccommodationinformation/privateaccommodation/](http://www.abertay.ac.uk/studying/accommodation/2013-14/otheraccommodationinformation/privateaccommodation/)
 
 
@@ -86,71 +63,49 @@ sticker](/media/trademark/JS2_sticker.png)
 
 
 **London Council**: Renting tips - Where do I start?
-
-
 [london.gov.uk/rents/london/private/tips.jsp](http://london.gov.uk/rents/london/private/tips.jsp)
 
 
 **Lincolnshire County Council**: Housing - Links
-
-
 [www.lincolnshire.gov.uk/residents/community-and-living/housing?tab=links](http://www.lincolnshire.gov.uk/residents/community-and-living/housing?tab=links)
 
 
 **Lewisham Council**: Find a private rented home
-
-
 [www.lewisham.gov.uk/myservices/housing/find/Pages/Find-a-private-rented-home.aspx](http://www.lewisham.gov.uk/myservices/housing/find/Pages/Find-a-private-rented-home.aspx)
 
 
 **St Edmundsbury Borough Council**: Housing - Privately renting - Internet
-
-
 [stedmundsbury.gov.uk/housing/privately-renting.cfm](http://stedmundsbury.gov.uk/housing/privately-renting.cfm)
 
 
 **Southampton Council**: Homelessness - Looking for accommodation? - Links
-
-
 [www.southampton.gov.uk/living/housing/moneysolutions/homelessadvice/accommodation.aspx](http://www.southampton.gov.uk/living/housing/moneysolutions/homelessadvice/accommodation.aspx)
 
 
 **Basildon Council**: House Share, Flat Share and Rooms to Rent
-
-
 [www.basildon.gov.uk/article/2887/House-Share-Flat-Share-and-Rooms-to-Rent](http://www.basildon.gov.uk/article/2887/House-Share-Flat-Share-and-Rooms-to-Rent)
 
 
 **Mid Suffolk District Council**: Stay Safe poster available for download,
 reprinted by other councils
-
-
 [www.midsuffolk.gov.uk/housing-and-homelessness/homelessness-and-housing-advice/looking-for-a-home/](http://www.midsuffolk.gov.uk/housing-and-homelessness/homelessness-and-housing-advice/looking-for-a-home/)
 
 
-**Blackburn with Darwen Council**: Homelessness advice and support - external
-links
-
-
+**Blackburn with Darwen Council**: Homelessness advice and support - external links
 [www.blackburn.gov.uk/Pages/Housing-advice-and-support.aspx](http://www.blackburn.gov.uk/Pages/Housing-advice-and-support.aspx)
 
 
 **Nuneaton and Bedworth Borough Council**: Renting a private property - Websites
-
-
 [www.nuneatonandbedworth.gov.uk/info/200238/housing\_advice/315/renting\_a\_private\_property](http://www.nuneatonandbedworth.gov.uk/info/200238/housing_advice/315/renting_a_private_property)
 
 
-**DATA.GOV.UK**: Featured app - Flatmate Rooms
-
-
+**DATA.GOV.UK**: Featured app - Blocl
 [data.gov.uk/apps/flatmate-rooms-easy-roommate-and-spare-room-finder-uk-wide](http://data.gov.uk/apps/flatmate-rooms-easy-roommate-and-spare-room-finder-uk-wide)
 
 
 **Companies house**: Listing
 
-
-[data.companieshouse.gov.uk/doc/company/06690044](http://data.companieshouse.gov.uk/doc/company/06690044)
+[data.companieshouse.gov.uk/doc/company/12518712](http://data.companieshouse.gov.uk/doc/company/12518712)
 
 
 
@@ -161,22 +116,23 @@ links
 
 ### TRADE MARKS ACT 1994
 
-
-IN THE MATTER OF     Trade Mark Application No: UK00003019522     In the name
-of: Flatmate Rooms Ltd     To register the mark: FLATMATE ROOMS     In Classes:
-35 and 36
+IN THE MATTER OF Trademark
+Application No: UK0000******
+In the name of: Blocl Ltd
+To register the mark: Blocl
+In Classes: 35 and 36
 
 
 ### WITNESS STATEMENT
 
 
-1. I, Frantisek Malina am the director and co-founder of Flatmate Rooms ltd a
+1. I, Frantisek Malina am the director and founder of Blocl Ltd a
 position which I have held since 2009. The facts in this statement come from my
-personal knowledge or the records of my company and I am duly authorised to
+personal knowledge or the records of my company, and I am duly authorised to
 speak on my company’s behalf in the prosecution of this application.
-2. The trade mark FLATMATE ROOMS was first used in the United Kingdom in the year
+2. The trademark Blocl was first used in the United Kingdom in the year
 2008.
-3. FLATMATE ROOMS is an established UK community marketplace of landlords and
+3. Blocl is an established UK community marketplace of landlords and
 property owners finding trusted flatmates and tenants looking for better places
 to live.
 
@@ -189,14 +145,13 @@ Class 35 - Advertising of rooms and residential real estate on the Internet
 provided via a database first used in 2009
 
 
-Class 36 - Agency for renting of residential premises first used in the year
-2009
+Class 36 - Agency for renting of residential premises first used in the year 2009
 4. There is now produced and shown to me:
 
 
 Exhibit JS1 which is a current screenshot of the homepage of the site that
-received 24,740,000 pageviews to date from 2,450,000 unique visitors. Flatmate
-Rooms website has currently 255,000 registered members and is steadily growing.
+received 24,740,000 page views to date from 2,450,000 unique visitors.
+Blocl website has currently 400,000 registered members and is steadily growing.
 
 
 Exhibit JS2 which is a copy of the window sticker used by private landlords and
@@ -204,15 +159,15 @@ estate agents nationwide.
 
 
 Exhibit JS3 which is a collection of hypertext references showing a sample of
-public sector organisations who recommend Flatmate Rooms service, many of these
+public sector organisations who recommend Blocl service, many of these
 are also published in printed versions such as booklets for university students,
 posters, council advice for tenants and landlord magazines. I have excluded
 private sector references as we have generated over the years close to a hundred
 of thousands due to heavy online, social and mobile advertising.
 
 
-In these samples our service is referred to as Flatmate Rooms, FlatmateRooms,
-Flatmate Rooms.co.uk or FlatMateRooms. All these spelling variations are used
+In these samples our service is referred to as Blocl, or Blocl.com.
+All these spelling variations are used
 throughout the web and hundreds of printed publications to refer to our site or
 company and absolutely nothing else. Usage of space does not affect the meaning
 as on its own both words are commonly used, together however they uniquely and
@@ -222,7 +177,8 @@ internet.
 5. Annual sales of the services before the date of application were as follows:  
 
 **2009** £1,668; **2010** £6,976; **2011** £57,910; **2012** £119,059; **2013** £165,584
-6. Annual amounts spent on promoting the services before the date of application were as follows (excluding wages of directors who spend their work time developing the website and promoting the services):  
+6. Annual amounts spent on promoting the services before the date of application were as follows
+7. (excluding wages of directors who spend their work time developing the website and promoting the services):  
 
 
 |  | Marketing,
@@ -239,48 +195,37 @@ internet.
 7. The mark has been used on the goods/services in the following parts of the United Kingdom:  
 
  England, Wales, Scotland, Northern Ireland
-8. The terms "flatmate rooms" and "flatmaterooms" distinctively represent our
+8. The term "blocl" distinctively represents our
 company and are never used in natural english to refer to anything else, the
-combination "flatmate rooms" does not appear due to syntax rules and semantics
-of the words in english language. No web sites contain phrases Flatmate Rooms or
-FlatmateRooms without referring to my firm as these would be only used to
+combination "Blocl" does not appear due to syntax rules and semantics
+of the words in english language. No websites contain phrase Blocl
+without referring to my firm as these would be only used to
 identify our company and service.
 
 
-Terms flatmates and room do appear close if used in the following combinations:
-
-
-	* **…flatmate's room…** Note the apostrophe and the trailing s to denote
-	possession, this is not what we claim to trademark.
-	* **…visited by flatmates, rooms are available to rent…** Terms could appear close
-	to each other if separated by a comma adjoining two sentences or in lists of
-	plural keywords. This does not correspond to a phrase.I truly believe that as a result of the use made of it by my firm, the mark
-FLATMATE ROOMS is well known to the landlords and lodgers renting out rooms in
-the United Kingdom, and is uniquely associated with FLATMATE ROOMS Ltd, and that
-this unique combination of words distinguishes the services sold by FLATMATE
-ROOMS Ltd from other such service providers.
+I truly believe that as a result of the use made of it by my firm, the mark
+Blocl is well known to the landlords and lodgers renting out rooms in
+the United Kingdom, and is uniquely associated with Blocl Ltd, and that
+this unique combination of words distinguishes the services sold by Blocl Ltd
+from other such service providers.
 9. I believe that the facts stated in this witness statement are true.
 
 
 **Signed** F. Malina
 
 
-
-
 ---
 
 
-All done. So now we can officialy show off with our registered trademark:
+All done. So now we can officially show off with our registered trademark:
 
 
-Flatmate Rooms ®
+Blocl ®
 
 
-The problem is, I loathe it. It's an uppercase r in a circle pretending to be a
-sticker sitting on a baseline. There's no superscript unicode codepoint for it
-and if there was one it would be illegible at standard text size. How abysmal in
-a browser title or PPC text advert, typographic nightmare. Back to good old ™.
+The problem is, I loathe it. It's an uppercase r in a circle pretending to be a
+sticker sitting on a baseline. There's no superscript unicode codepoint for it
+and if there was one it would be illegible at standard text size. How abysmal in
+a browser title or PPC text advert, typographic nightmare. Back to good old ™.
 
-
-Flatmate Rooms™, there. Better.
-
+Blocl™, there. Better.

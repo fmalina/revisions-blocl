@@ -64,6 +64,6 @@ Advice for tenants and flatmates
 
 
 See [tips to prevent scams and keeping you safe
-online...](/advice/prevent-scams-keep-safe)
+online...](/help/prevent-scams-keep-safe)
 
 

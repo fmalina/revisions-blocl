@@ -9,17 +9,17 @@ this, that the introduction of markets to public services will make them more
 efficient and thus protect them. It is equally unconvincing now to argue that
 financial self-regulation and innovation will increase economic stability by
 spreading risk, or that flexible labour markets and de-unionised workplaces will
-improve job security.  And even the belief that increasing dependence on capital
+improve job security.  And even the belief that increasing dependence on capital
 markets means a parallel increase in democracy, freedom, and equality is no
 longer credible. The crisis has shown these neoliberal claims to be ideological
-rubbish. 
+rubbish. 
 
 The importance of the U.S. state to the marketing of neoliberalsim and the world
 market as it exists today should already have once and for all dispelled the
 illusion that capitalist markets can thrive without state intervention. It was
 through the type of policies the U.S. advanced to promote free capital
 movements, international property rights, and labour-market flexibility that the
-era of free trade and globalisation was unleashed.  And this era has been kept
+era of free trade and globalisation was unleashed.  And this era has been kept
 going as long as it has by the repeated coordinated interventions undertaken by
 central banks and financial ministries, under the leadership of the Federal
 Reserve and the American Treasury, to contain the periodic crises to which such
@@ -51,7 +51,7 @@ Of all 20th century industries, the auto sector had best captured the sway of
 capitalism and the rise of American dominance over the world market.
 
 At mid-century, with Europe and Japan emerging from the devastation of the war,
-80 percent of the world’s cars travelled on North American roads.  In this
+80 percent of the world’s cars travelled on North American roads.  In this
 context, catching up with the U.S. example became a common aspiration across the
 developed capitalist countries.
 
@@ -86,7 +86,7 @@ It eroded their one ultimate strength – solidarity.
 A crucial part of the strength of U.S. capital and the U.S. state lie in the
 weakness of its labour movement, which provides, as this crisis has sadly shown,
 the U.S. elite with the flexibility it needs to solve its problems on terms
-favourable to it.  Had the U.S. workers demonstrated a capacity to limit
+favourable to it.  Had the U.S. workers demonstrated a capacity to limit
 concessions or foreclosures, to demand a democratisation of the banks rather
 than simply ‘fixing’ them, to insist on a radical correction in the gross
 inequalities that emerged on the way to this crisis, to focus on rebuilding
@@ -111,28 +111,28 @@ financial crisis has exposed the spectacular failure of the market and
 neoliberal governance, it is not the public sector workers who should be on the
 defensive. It is absolutely necessary to avoid the notion that the ‘new reality’
 means that public sector workers must now accommodate and work more closely with
-the employer to solve the budgetary problems.  This is a dead end: it
+the employer to solve the budgetary problems.  This is a dead end: it
 essentially means the unions giving up. The relationships public sector unions
 need to deepen are not with governments as employers, as that will only further
-divide working people.  New relationships need to be built with other workers
+divide working people.  New relationships need to be built with other workers
 and social movements.
 
 What unions face today is rooted in the way North American unions failed to
 organise themselves in much better economic times to prepare themselves for
 times like the present. Workers are now suffering from this lack of preparation.
 While corporations have become more radical an aggressive, the labour movement
-has become more cautious and defensive.  The most important question for the
+has become more cautious and defensive.  The most important question for the
 labour movement is to come to grips with those past failures and the need to
-become as radical as the other side.  If we don’t develop a vision that
+become as radical as the other side.  If we don’t develop a vision that
 fundamentally questions the anti-social logic of capitalism, and build
 collective capacities that can challenge corporate power, things won’t just stay
-the same.  They are likely to get worse.
+the same.  They are likely to get worse.
 
 This is why it is so important to raise not merely the regulation of finance but
 the transformation and democratisation of the whole financial system. What is in
 fact needed is to turn the whole banking system into a public utility so that
 the distribution of credit and capital would be undertaken in conformity with
-democratically established priorities, rather than short-term profit.  
+democratically established priorities, rather than short-term profit.  
 
 If democracy is a kind of society and not just a form of government, the economy
 – which is so fundamental to shaping our lives – will eventually have to be
@@ -140,7 +140,7 @@ democratised.
 
 Reducing the number of hours people work every day, week, and year, as a way of
 avoiding layoffs and opening up new jobs can be very important in certain
-sectors and is also a valuable solidaristic principal.  But the greatest
+sectors and is also a valuable solidaristic principal.  But the greatest
 significance lies in the recognition that effective political participation
 demands the time to do it – the time to read, think, learn, attend meetings and
 events, debate, take part in strategising, and engage in organising others.

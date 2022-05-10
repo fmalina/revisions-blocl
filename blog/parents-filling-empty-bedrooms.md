@@ -34,7 +34,7 @@ People do it for different reasons like:
 * To bring in much needed extra money
 * To bring in fresh energy
 * To have someone around the house
-* Because there house is  to quiet
+* Because there house is  to quiet
 * To make new friends
 * To help other people
 
@@ -62,7 +62,7 @@ Most homeowners don’t have to worry about this as the Government allows you to
 earn up to £7,500 tax free without the need to register your revenue using the
 Rent a Room Scheme as long as you’re renting a furnished room in your own home,
 for more information visit our advice centre page [rent a room
-scheme](/advice/the-rent-a-room-scheme).
+scheme](/help/the-rent-a-room-scheme).
 
 
 

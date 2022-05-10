@@ -1,17 +1,16 @@
-Justrentaroom is now part of Flatmate Rooms
-===========================================
+Justrentaroom is now part of Blocl
+==================================
 
-Since 2001 [JustRentARoom](http://www.justrentaroom.co.uk) helped countless
+Since 2001 JustRentARoom helped countless
 lodgers and landlords to form their ideal house shares and flat shares, renting
-out rooms in the UK. Today the site became part of Flatmate Rooms ®
-
+out rooms in the UK. Today the site became part of Blocl UK
 
 Justrentaroom was the 1st of its kind in the UK, pioneering the way rooms are
-rented today.     Flatmate Rooms is proud to continue the heritage moving
+rented today. Blocl is proud to continue the heritage moving
 forward.
 
 
-Landlords and lodgers can [post adverts directly to Flatmate Rooms](/post).
+Landlords and lodgers can [post adverts directly to Blocl](/rooms/post).
 
 
 Thank you Angela

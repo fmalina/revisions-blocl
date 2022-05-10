@@ -13,8 +13,8 @@ around when you’re not using them.
 
 
 This maybe your iPod, laptop, mobile phone, PlayStation, car keys or even your
-wallet. Leaving these valuables downstairs overnight and having 6 other
-flatmates could make it hard to find the culprit, if something goes missing.
+wallet. Leaving these valuables downstairs overnight and having 6 other
+flatmates could make it hard to find the culprit, if something goes missing.
 
 
 So it’s best to keep valuables safe and locked away in your room when you’re not
@@ -28,7 +28,7 @@ privacy.
 ---
 
 
-Last week flatmate Laszlo Vadaszi, 37 years old hungarian, living in Belfast
+Last week flatmate Laszlo Vadaszi, 37 years old hungarian, living in Belfast
 used his flatmate's and his landlord's bank cards without their knowledge
 racking up spending of over £3,000 on internet gambling. He managed to bet
 around £1,200 in one session and then further wagers to the value of £2,000.

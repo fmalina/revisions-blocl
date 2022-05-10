@@ -35,7 +35,7 @@ i.e. borrowing from the  future, to fund today’s consumption 6. A crisis of
 purpose and meaning.
 
 
-We can constructively view these six problems as facets of one central problem: 
+We can constructively view these six problems as facets of one central problem: 
 sustainably managing the planet’s  resources so the basics of prosperity are
 available to everyone in the global economy.
 
@@ -53,7 +53,7 @@ consumption and wages, and what role  the state and its central bank play in
 boosting growth with easier credit.
 
 
-How did models that have been widely viewed as solutions become problems?  Let’s
+How did models that have been widely viewed as solutions become problems?  Let’s
 briefly explore each of the six  problems.
 
 
@@ -61,7 +61,7 @@ briefly explore each of the six  problems.
 
 
 We understand entrenched poverty intuitively: It’s a poverty born of systemic
-inequalities of capital, education and  resources.  We also intuitively
+inequalities of capital, education and  resources.  We also intuitively
 understand that inequality generates poverty. If inequality is rising as a
 consequence of the way the status quo is structured, the only possible output of
 the status quo is poverty: not just  a poverty of income, but of opportunity to
@@ -80,7 +80,7 @@ The conventional solution to poverty is economic growth:
 
 
 That this idea is no longer working is not just a matter of bad luck or poor
-execution.  Its core solutions—expanding  consumption, credit and state
+execution.  Its core solutions—expanding  consumption, credit and state
 power—actively increase poverty rather than alleviate it.
 
 
@@ -91,7 +91,7 @@ the collapse of systems that no  longer function.
 **An Economic Model of Expanding Consumption in a World of Finite Resources.**
 
 
-It seems painfully obvious that Planet Earth and its resources are finite.  Yet
+It seems painfully obvious that Planet Earth and its resources are finite.  Yet
 it is only recently in human history  that the scale of human consumption has
 reached the point where vast ecosystems such as the world’s oceans are in
 danger of collapse.
@@ -249,10 +249,10 @@ entirely different foundations, values  and processes.
 
 
 In the status quo, all money is created and distributed at the top of the
-power/wealth pyramid—by central banks, the  Treasury and private banks.  The
+power/wealth pyramid—by central banks, the  Treasury and private banks.  The
 only way anyone in the bottom 99.5% of the pyramid can get any of this new money
 is  to borrow it from a bank at a high rate of interest. Only the wealthy and
-powerful have access to the nearly free  money issued by central banks.  The
+powerful have access to the nearly free  money issued by central banks.  The
 financial Aristocracy can borrow essentially limitless amounts of money at 1%
 and use it to:
 
@@ -331,7 +331,7 @@ distribute money away from them.
 
 
 The status quo has two solutions for every problem: the market and the state.
-Whatever the market can’t fix, the  state can fix.  These are the only
+Whatever the market can’t fix, the  state can fix.  These are the only
 recognized systems and the only recognized solutions.
 
 
@@ -431,7 +431,7 @@ target of those seeking to leverage  its power to their own personal advantage.
 
 
 The ontological imperative of capital is to secure profits by limiting
-competition and gaining access to the central  bank’s money spigot.  The
+competition and gaining access to the central  bank’s money spigot.  The
 cheapest way to secure profits is to influence the state to limit competition
 and be first  in line to the central bank’s money spigot.
 

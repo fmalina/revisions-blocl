@@ -1176,15 +1176,15 @@ strategic alliance between the two countries.
 
 
 The SCO is slowly but surely shaping up as the most important international
-organization in Asia. It’s already clear that one of its key long-term
+organization in Asia. It’s already clear that one of its key long-term
 objectives will be to stop trading in US dollars.
 
 
 In the meantime, think of China as a magnet for a new world order in a future
-Eurasian century. The same integration process Russia is facing seems
+Eurasian century. The same integration process Russia is facing seems
 increasingly to apply to India and other Eurasian nations, and possibly sooner
 or later to a neutral Germany as well.
 
 
-Place your bets soon. They’ll be called in by 2025.
+Place your bets soon. They’ll be called in by 2025.
 

@@ -10,8 +10,7 @@ debate?
 ![Landlords say no smoking](/media/images/passive-smoking-image.jpg)
 
 
-From recent research carried out by
-[FlatmateRooms.co.uk](https://www.flatmaterooms.co.uk) the situation can only be
+From recent research we carried out the situation can only be
 described as ‘fuming’ for tenants as growing numbers of landlords ban those who
 smoke. In 2010 31% of members would tolerate a smoking tenant, a figure which
 has dropped to just 18% today from 15,174 landlord adverts surveyed. With 80,000
@@ -56,16 +55,8 @@ driving me mad!”
 
 With flat sharing being massively popular in these cash strapped times then
 tolerating someone who promises to only smoke outside must surely be a good
-thing says Gareth Pugh, owner of [Flatshare](https://www.flatmaterooms.co.uk)
-website www.flatmaterooms.co.uk. Gareth says that he wasn’t surprised by his
-company’s research and advises smokers to carefully read their tenancy
-agreements, not to inflict passive smoking on their long suffering flatmates
+thing says Flatshare website advising smokers to carefully read their tenancy
+agreements, not to inflict passive smoking on their long-suffering flatmates
 and, if they must indulge themselves, advises donning an extra pair of long
 johns and heading outside: “Just have a smoke outside the back door but dispose
 of your cigarette butt properly. Don’t get temped to flick it in the garden!”
-
-
-[![https://pbs.twimg.com/profile_images/734034933/DSCF0039_bigger.JPG](https://pbs.twimg.com/profile_images/734034933/DSCF0039_bigger.JPG)](https://twitter.com/Ginettav)
---posted by Ginetta Vedrickas, [@Ginettav](https://twitter.com/Ginettav)
-Journalist interested in property, travel, education
-

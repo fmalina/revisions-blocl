@@ -1,8 +1,8 @@
-Premium membership. How does it work?
-=====================================
+Plus membership. How does it work?
+==================================
 
-Flatmate Rooms offers a premium membership to help users succeeding faster and
-support the [security of the service](/p40).
+Blocl offers a plus membership to help users succeeding faster and
+support the security of the service.
 
 
 **Featured adverts** are highlighted on top of search results. These are all
@@ -21,8 +21,6 @@ become one.
 
 Address verification happens automatically upon payment via card or PayPal
 giving everyone piece of mind.
-
-
 
 
 ---
@@ -52,7 +50,7 @@ free”.
 
 
 While it would be nice to our basic members having us paying the running costs,
-it wouldn’t be possible to ensure [safety of the service](/p40) and we couldn’t
+it wouldn’t be possible to ensure safety of the service and we couldn’t
 afford to run the site:
 
 
@@ -61,8 +59,8 @@ afford to run the site:
 * keeping staff reviewing ads
 * customer service
 * marketing the website
-* find landlords, find tenants
-* pay staff and all running costs for the website (servers, domains etc)
+* find landlords, find tenants
+* pay staff and all running costs for the website (servers, domains etc)
 
 
 You can now imagine the cost and amount of work involved to provide this
@@ -73,7 +71,7 @@ Landlords: Having a vacant room costs 16 times the cost of premium membership.
 ------------------------------------------------------------------------------
 
 
-Average double room rental is [£360 a month](/stats). Monthly membership with
+Average double room rental is £360 a month. Monthly membership with
 success guarantee costs £25. That makes 1442% return on investment within a
 month. The alternative is £360 loss having your room empty.     Premium members
 are much more likely to attract attention. Scammers frequenting the free sites
@@ -93,7 +91,7 @@ How do I upgrade?
 -----------------
 
 
-**[Choose your membership](/upgrade)** and let our service help find you a
+**[Choose your membership](/rooms/upgrade)** and let our service help find you a
 tenant or room quicker and safer.
 
 
@@ -106,7 +104,7 @@ There are 3 ways how to get a boost:
 
 1. With 30 days package, you can claim a guarantee
 2. Renewing before your membership expires earns you 30% bonus
-3. [Link to us and get 10 days credit](/linkboost)
+3. [Link to us and get 10 days credit](/help/linkboost)
 
 
 
@@ -118,6 +116,4 @@ We hope the above helps a little more in explaining why we charge for premium
 membership and how it works.
 
 
-Contact the directors Gareth and Francis on **francis** or **gareth at
-flatmaterooms.co.uk** if you have any questions.
-
+Contact the director Francis Malina on **hi@blocl.com** if you have any questions.

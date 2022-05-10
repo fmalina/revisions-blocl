@@ -15,7 +15,7 @@ services in the UK.
 
 
 The number of contracts in the UK has increased sharply by 47 per cent to 148
-contracts a year since 2010 . . . And these figures date from before the major
+contracts a year since 2010 . . . And these figures date from before the major
 privatization drive in the NHS.
 
 
@@ -481,7 +481,7 @@ the 2015 general election, had given him over £15,000.
 
 
 When, as in G4S’s case, over a quarter of your business depends on revenue from
-state contracts, then you need to be part of the political process . . .It is
+state contracts, then you need to be part of the political process . . .It is
 embedded in the regulatory process and sits on the very bodies that licence and
 regulate its markets.
 

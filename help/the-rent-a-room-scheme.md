@@ -5,9 +5,9 @@ What is the rent-a-room scheme?
 -------------------------------
 
 
-The rent a room scheme allows live in landlords to earn up to £7.500 in room
+The rent a room scheme allows live in landlords to earn up to £7.500 in room
 rental, income tax free every year as long as they let furnished accommodation
-to lodgers within their own home, giving you the opportunity to earn £625 a
+to lodgers within their own home, giving you the opportunity to earn £625 a
 month tax free.
 
 
@@ -15,8 +15,8 @@ Do I have to register?
 ----------------------
 
 
-* If you earn £7,500 or less, then the tax exemption is automatic and you don’t have to do anything unless you normally fill in a tax return then declare the exemption.
-* If you earn over £7,500 you pay tax on any income over this amount, if this applies to you just contact your local tax office and complete a yearly tax return and claim your £7,500 allowance.
+* If you earn £7,500 or less, then the tax exemption is automatic and you don’t have to do anything unless you normally fill in a tax return then declare the exemption.
+* If you earn over £7,500 you pay tax on any income over this amount, if this applies to you just contact your local tax office and complete a yearly tax return and claim your £7,500 allowance.
 
 
 What if I have rooms in other houses where I don’t live?
@@ -45,7 +45,7 @@ What if I offer additional services?
 
 If you were to charge for additional service like providing Meals, Sky TV,
 Laundry Services etc, you will need to add the payments you receive to the rent,
-to work out the total income. If you get more than £7,500 a year in total, you
+to work out the total income. If you get more than £7,500 a year in total, you
 will have to pay tax.
 
 
@@ -64,7 +64,7 @@ What if I don’t want to join the scheme?
 
 If you don’t want to join the scheme you pay tax on your rental earnings as
 normal by contacting your local tax office and completing a tax return form, but
-by doing this you won’t benefit from the £7,500 tax free benefit but it does
+by doing this you won’t benefit from the £7,500 tax free benefit but it does
 mean you will be able to claim for expenses like:
 
 
