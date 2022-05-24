@@ -15,12 +15,10 @@ agreement. As long as everything is fine you can move in and in some cases you
 can move in the same day.
 
 
-
-
 ---
 
 
-     Rise in property prices affects the rental market too. An average 2
+Rise in property prices affects the rental market too. An average 2
 bedrooms flat can cost £900+ a month including bills. This is where room rental
 is a massive benefit, with rooms starting from only £50 a week, it’s easy to
 find a nice sized room say with bills included for £380 per month. If you are
@@ -30,16 +28,13 @@ very useful in the future.
 
 A lot of mortgage owners have recently found themselves in difficult position,
 having to sell their homes or not being able to keep up with mortgage repayments
-to **stay away form repossession**. Room rental is a clear path to **earning
+to **stay away from repossession**. Room rental is a clear path to **earning
 additional income** and getting your finances back on track.
-
-
-
 
 ---
 
 
-     Room rental is a great way to get to know people and perhaps create lasting
+Room rental is a great way to get to know people and perhaps create lasting
 relationships. You’ll have your new housemates and new **friends** from around
 your neighbourhood.
 
