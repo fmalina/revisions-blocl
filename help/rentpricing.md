@@ -10,9 +10,9 @@ Other things you can consider when choosing the right price are:
 
 * What are your living expenses?
 * Is there parking?
-* Are you going to [include bills](house-bills) in the price?
+* Are you going to [include bills](/help/bills) in the price?
 * Is the room en-suite?
-* Do you have [wireless internet](why-provide-internet-access), [SKY or Virgin TV](offering-sky-or-virgin-tv)?
+* Do you have [wireless internet](/help/internetaccess), [SKY or Virgin TV](help/skyvirgintv)?
 * Which facilities are included?
 * Are you close to universities, the local town, business parks etc?
 

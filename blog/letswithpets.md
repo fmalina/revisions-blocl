@@ -18,7 +18,7 @@ missing out on.
 
 Statistics also show that most people don't keep a 6-foot Burmese Python. Large
 snakes didn't even make it to the \*top 10\*. I'd advise landlords [posting
-adverts](/post) on our site to leave out the pets option for later discussion.
+adverts](/rooms/post) on our site to leave out the pets option for later discussion.
 
 
 It’s estimated that 43% of the population currently own a pet[1] and almost 5
@@ -27,10 +27,7 @@ landlords will rent their properties to tenants with pets.
 
 
 ### Top 15 Pets in the UK
-
-
 Almost 1 in 2 or more precisely 46% UK households own a pet.
-
 
 1. Dog: 22%
 2. Cat: 18%
@@ -51,11 +48,7 @@ Almost 1 in 2 or more precisely 46% UK households own a pet.
 
 Source: PFMA
 
-
-
-
 ---
-
 
 As the UK’s largest dog welfare charity, Dogs Trust receives many enquiries from
 pet owners who are struggling to find privately rented accommodation that will
@@ -63,7 +56,6 @@ accept their pets. All too often people are forced to live in unsuitable
 properties or keep pets without consent from their landlord. In some extreme
 cases, owners are even having to give up their pets or else face becoming
 homeless.
-
 
 In a recent survey\* by Dogs Trust:
 
@@ -100,8 +92,6 @@ deposit.*    **Steadfast Property Management**
 
 *Most people have some form of pet ...if you cut them all out you’d have no
 tenants.*    **Pet-friendly landlord**
-
-
 
 
 ---
@@ -174,7 +164,7 @@ extra deposit or a clause in the tenancy agreement.
 guide](/media/renting-to-pet-owners.pdf) as provided by letswithpets.org.uk
 
 
-If you posted an ad already don't forget to [edit your ad](/ads) to leave the
+If you posted an ad already don't forget to [edit your ad](/rooms/ads) to leave the
 pets option for discussion instead of ruling out a massive chunk of the market
 upfront.
 

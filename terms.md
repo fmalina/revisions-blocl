@@ -1,7 +1,7 @@
 Terms of service
 ================
 
-These terms of service include our [privacy policy](/privacy) and we will
+These terms of service include our [privacy policy,](/privacy) and we will
 refer to them both as "these Terms".     When you use this site, you agree to be
 bound by these Terms. If you do not agree to be bound by these Terms, do not use
 this site.     Certain uses of this site are prohibited and amount to a misuse
@@ -26,7 +26,7 @@ downloaded from this site without our prior written consent.
 
 This site contains links to websites operated by 3rd parties. We have no control
 over their individual content. We therefore make no warranties or
-representations to the accuracy or completeness of any of the information
+representations to the accuracy or completeness of the information
 appearing in relation to any linked websites. If you decide to access or make a
 purchase on any 3rd party website linked from this site, you do so at your own
 risk.
@@ -256,8 +256,6 @@ or property we reserve the right to turn off your advert.
 
 General
 -------
-
-
 We may from time to time change the content of this site or suspend or
 discontinue any aspect of this site, which may include your access to it.
 Subject to our notifying you to the contrary, any amendments to this site or new

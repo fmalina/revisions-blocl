@@ -11,13 +11,13 @@ Issues and disputes with another tenant
 ---------------------------------------
 
 
-If you have any issues with other tenants it’s always best to have a quick word
-and come to an easy resolution, if this doesn’t resolve the issue then contact
+If you have any issues with other tenants it's always best to have a quick word
+and come to an easy resolution, if this doesn't resolve the issue then contact
 your landlord to help resolve it, if the issue is still not resolved you can
 check legally where you stand, but if you feel you want to leave then explain
 the situation to the landlord and give them the [required
-notice](/help/giving-notice-to-leave) in your [tenancy
-agreement](/help/tenancy-agreements).
+notice](/help/noticetoleave) in your [tenancy
+agreement](/help/tenancyagreements).
 
 
 Issues and disputes with your landlord
@@ -25,22 +25,22 @@ Issues and disputes with your landlord
 
 
 If you have any issues or disputes it’s always best to discuss these as soon as
-possible to help resolve the problem.    i.e.: If your rent is due on Monday and
+possible to help resolve the problem. i.e.: If your rent is due on Monday and
 you don’t have the money till Friday, then tell the landlord beforehand. Don’t
-stay quiet and have the landlord ring you asking where’s the money.
+stay quiet and have the landlord ring you asking where's the money.
 
 
-If issues are more serious then have another conversation and if there is no
-resolution you can check legally where you stand or you may ask to leave or the
+If issues are more serious than have another conversation and if there is no
+resolution you can check legally where you stand, or you may ask to leave or the
 landlord may ask you to leave, then you would refer back to your tenancy
 agreement and the law on the period of notice that has to be given and ask the
-landlord whether your [deposit](/help/taking-deposits-and-legislation) is
+landlord whether your [deposit](/help/deposittaking) is
 going to be affected.
 
 
 When renting rooms, consider having [tenant
-insurance](/help/tenant-and-student-insurance) and ask the landlord for a
-[tenancy agreement](/help/tenancy-agreements) this will help towards any
+insurance](/help/insurancetenantstudent) and ask the landlord for a
+[tenancy agreement](/help/tenancyagreements) this will help towards any
 future issues. Always check legally where you stand.
 
 

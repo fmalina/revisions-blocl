@@ -1,8 +1,6 @@
 Website's open source technology stack
 ======================================
-
 Here's a quick outline of open source technologies used to power the site.
-
 
 * [Python 3](https://www.python.org) using [Django](https://www.djangoproject.com) web framework and
    [Gunicorn](http://gunicorn.org) server
@@ -10,7 +8,6 @@ Here's a quick outline of open source technologies used to power the site.
 * [MySQL 8](https://www.mysql.com) database
 * HTML5 / [SASS](http://sass-lang.com) / [jQuery](https://jquery.com)
 * [Ubuntu](http://www.ubuntu.com) 20.04 LTS
-
 
 ...and here are some of the [open source applications](https://github.com/fmalina)
 that were developed for this site.
@@ -26,9 +23,7 @@ Linode in their London data centre:
 
 ---
 
-
 Development tools:
-
 
 * [Git](http://git-scm.com) and [SourceTree](http://www.sourcetreeapp.com),
   which allows deployment using just `git push` and `pull`

@@ -181,17 +181,14 @@ internet.
 7. (excluding wages of directors who spend their work time developing the website and promoting the services):  
 
 
-|  | Marketing,
- PPC & PR | Website costs | Print/Stationary
- Postage | Mobile
- marketing | Marketing
- staff wages | Total |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2009 | £7,263.55 | £22,487.14 | £701.23 | £1,107.56 | £0.00 | £31,560 |
-| 2010 | £4,598.09 | £7,153.13 | £613.39 | £926.55 | £0.00 | £13,290 |
-| 2011 | £372.82 | £1,674.16 | £360.06 | £2,428.85 | £5,239.07 | £10,075 |
-| 2012 | £1,404.25 | £2,164.65 | £232.99 | £2,977.08 | £9,003.68 | £15,783 |
-| 2013 | £12,984.16 | £4,304.48 | £438.71 | £3,118.02 | £10,640.63 | £31,486 |
+|      | Marketing, PPC & PR | Website costs | Print/Stationary Postage | Mobile marketing | Marketing staff wages | Total   |
+|------|---------------------|---------------|--------------------------|------------------|-----------------------|---------|
+| 2009 | £7,263.55           | £22,487.14    | £701.23                  | £1,107.56        | £0.00                 | £31,560 |
+| 2010 | £4,598.09           | £7,153.13     | £613.39                  | £926.55          | £0.00                 | £13,290 |
+| 2011 | £372.82             | £1,674.16     | £360.06                  | £2,428.85        | £5,239.07             | £10,075 |
+| 2012 | £1,404.25           | £2,164.65     | £232.99                  | £2,977.08        | £9,003.68             | £15,783 |
+| 2013 | £12,984.16          | £4,304.48     | £438.71                  | £3,118.02        | £10,640.63            | £31,486 |
+
 7. The mark has been used on the goods/services in the following parts of the United Kingdom:  
 
  England, Wales, Scotland, Northern Ireland

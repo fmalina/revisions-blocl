@@ -1,6 +1,5 @@
 Tenant and student insurance
 ============================
-
 When living in rented or shared accommodation it can be difficult to find the
 right level of cover at the right price to insure your belongings, with some
 people leaving it too late having to payout for a new laptop because they
@@ -20,14 +19,12 @@ What to look for:
 * **Affordable insurance...** with monthly premiums
 * **Simple hassle-free...** service - no paperwork
 
-
 "When I graduated from university I could not afford to buy my own home, so I
 remained in rented accommodation which was a shared house. As a tenant,
 they found me affordable contents insurance, and I could pay it monthly.
 When I came to claim they were excellent. There was almost no paperwork to
 complete and the process was painless. I would definitely recommend them to
 renters for household insurance."
-
 
 Student insurance
 =================

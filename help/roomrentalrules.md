@@ -9,8 +9,6 @@ landlord how you’d like to be treated.
 
 Clean and tidy
 --------------
-
-
 Remember to wash up, not to leave laundry hanging around, give your room a
 hoover and a dust etc. Seeing a mouldy coffee cup on the side may not take the
 landlord’s fancy.
@@ -18,8 +16,6 @@ landlord’s fancy.
 
 Ask the landlord if you want people to stay
 -------------------------------------------
-
-
 If your mate ends up in A&E because your landlord went all kung fu and thought a
 burglar broke in then maybe you should have mentioned something.
 

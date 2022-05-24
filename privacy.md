@@ -1,28 +1,20 @@
 Privacy policy
 ==============
-
 Blocl will not share or sell your **email address**. Your details will not be
 passed to 3rd parties. We never reveal your email address to other members, all
 emails sent are forwarded to your email through our dedicated messaging system.
 
-
 **Phone numbers** are available only to confirmed plus members. Controls on your
-profile page allow to show phone number only to those members you talk to.
-
+profile page allow showing phone number only to those members you talk to.
 
 We only ever show 1st initial of member's **last name**. We actively
 remove personally identifiable information from listings.
 
-
-
-
 ---
-
 
 Your privacy is very important to us. Our privacy policy is in accordance with
 all guidelines set by the Online Privacy Alliance and international data
 protection legislation.
-
 
 Any personal details you supply to us via this website will be stored and held
 securely, solely for the purposes of providing you with the advice and/or
@@ -31,99 +23,67 @@ have with us (or our representatives), and providing you with information about
 related products or services, unless you inform us that you do not wish to
 receive such information.
 
-
 Our Privacy Policy relates solely to information supplied by you via this
 website, and will not alter or affect any personal information otherwise
 provided.
 
-
 Data protection
 ---------------
-
-
 We are registered under the Data Protection Act, and never make your personal
 details available to other companies for marketing purposes.
 
-
 Site tracking
 -------------
-
-
 In order that we can monitor and improve our site we gather certain information
 when you use it, including details such as your operating system, type of mobile
 device, screen resolution, browser, and your browser version. This data is
 collected using **Google Analytics** anonymously and is not tied to your
 account.
 
-
 You can use our guide to [disable Google Analytics permanently in all
-browsers](/blog/permanently-disable-google-analytics).
-
+browsers](/blog/disablegoogleanalytics).
 
 Cookies
 -------
-
-
 Like most websites, [we use "cookies" to provide various website
 functionality](/cookies). A cookie is a small data file that we transfer to your
 computer's hard disk for record-keeping purposes. We utilize persistent cookies
 to save your login information for future logins to the site.
-
 
 You can instruct your browser, by changing its options, to stop accepting
 cookies or to prompt you before accepting a cookie from the websites you visit.
 If you do not accept cookies, however, you will not be able to use portions of
 the site that require signup or login.
 
-
 Third party cookies
 -------------------
-
-
 Third party vendors, including Google, use cookies to serve ads based on our
 user's prior visits to the site. You can disable these specific cookies that
 track prior visits for the sake of follow-up advertising by [opting
 out](http://www.google.co.uk/ads/preferences).
 
-
 Exclusions
 ----------
-
-
 This privacy policy only applies to our website, and links within this site to
 any external websites are not covered. You should read the respective privacy
 policies or procedures of these linked websites to find out how they use your
 information.
 
-
 Changes to the policy
 ---------------------
-
-
 We may change this policy from time to time as we add new services or features,
 or in response to changes in the law or our commercial arrangements. Any changes
 to this policy will be posted on this page.
 
-
 Contacting us
 -------------
-
-
 If you have any questions about this Privacy Policy, please contact us.
 
-
-
-
 ---
-
-
 In this document, "we", "our", or "us" refer to this website.
-
 
 Introduction
 ------------
-
-
 1. This is a notice to inform you of our policy about all information that we record about you. It sets out the conditions under which we may process any information that we collect from you, or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information.
 2. We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our website immediately.
 3. We take seriously the protection of your privacy and confidentiality. We understand that all visitors to our website are entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
@@ -131,39 +91,28 @@ Introduction
 5. Our policy complies with UK law accordingly implemented, including that required by the EU General Data Protection Regulation (GDPR).
 6. Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our website.
 
-
 The bases on which we process information about you
 ---------------------------------------------------
-
-
 The law requires us to determine under which of six defined bases we process
 different categories of your personal information, and to notify you of the
 basis for each category.
 
-
 If a basis on which we process your personal information is no longer relevant
 then we shall immediately stop processing your data.
-
 
 If the basis changes then if required by law we shall notify you of the change
 and of any new basis under which we have determined that we can continue to
 process your information.
 
-
 Information we process because we have a contractual obligation with you
 ------------------------------------------------------------------------
-
-
 When you create an account on our website or buy service from us, or otherwise
 agree to our terms and conditions, a contract is formed between you and us.
-
 
 In order to carry out our obligations under that contract we must process the
 information you give us. Some of this information may be personal information.
 
-
 We may use it in order to:
-
 
 1. verify your identity for security purposes
 2. provide you with our services
@@ -216,7 +165,7 @@ provide services or products you would find useful.
 
 
 We continue to process your information on this basis until you withdraw your
-consent or it can be reasonably assumed that your consent no longer exists.
+consent, or it can be reasonably assumed that your consent no longer exists.
 
 
 You may withdraw your consent at any time by instructing us. However, if you do
@@ -351,7 +300,8 @@ We take the following measures to protect your payment information:
 
 1. We keep your payment information encrypted on our servers.
 2. Access to your payment information is restricted to authorised staff only.
-3. If we ask you questions about your payment information, we only show the last four digits of the credit or debit card number, so that you can identify the means of payment to which we refer.
+3. If we ask you questions about your payment information, we only show the last
+   four digits of the credit or debit card number, so that you can identify the means of payment to which we refer.
 
 
 We automatically delete your payment information on request or when a credit or
@@ -386,7 +336,7 @@ business.
 
 
 We keep personally identifiable information associated with your message, such
-as your name and email address so as to be able to track our communications with
+as your name and email address to be able to track our communications with
 you to provide a high quality service.
 
 
@@ -401,9 +351,9 @@ We use that information to resolve your complaint.
 
 
 If your complaint reasonably requires us to contact some other person, we may
-decide to give to that other person some of the information contained in your
+decide to give to that other person some information contained in your
 complaint. We do this as infrequently as possible, but it is a matter for our
-sole discretion as to whether we do give information, and if we do, what that
+sole discretion whether we do give information, and if we do, what that
 information is.
 
 
@@ -648,12 +598,12 @@ information only for as long as required by us
 ### Compliance with the law
 
 
-Our privacy policy has been compiled so as to comply with the law of every
+Our privacy policy has been compiled to comply with the law of every
 country or legal jurisdiction in which we aim to do business. If you think it
 fails to satisfy the law of your jurisdiction, we should like to hear from you.
 
 
-However, ultimately it is your choice as to whether you wish to use our website.
+However, ultimately it is your choice whether you wish to use our website.
 
 
 ### Review of this privacy policy

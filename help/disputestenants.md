@@ -12,12 +12,9 @@ leave, explaining the situation to them and referring back to your tenancy
 agreement and the law on the period of notice that has to be given and advising
 them if their deposit is going to be affected.
 
-
 Remember when renting rooms to always consider having [landlord
-insurance](landlord-insurance) and a [tenancy agreement](tenancy-agreements) in
+insurance](insurancelandlord) and a [tenancy agreement](tenancyagreements) in
 place helping towards any future issues and always check legally where you
 stand.
 
-
 If unsure about anything contact your local Citizens Advice Centre.
-

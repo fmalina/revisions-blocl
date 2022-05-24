@@ -12,10 +12,7 @@ forward.
 
 Landlords and lodgers can [post adverts directly to Blocl](/rooms/post).
 
-
 Thank you Angela
-
-
 
 
 ---
