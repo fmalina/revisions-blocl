@@ -6,9 +6,7 @@ the best ways to do this is to check out your competition room renter’s prices
 on this site. See how much they are renting their rooms for in your area that
 are of a similar size and layout.
 
-
 Other things you can consider when choosing the right price are:
-
 
 * What are your living expenses?
 * Is there parking?
@@ -18,9 +16,6 @@ Other things you can consider when choosing the right price are:
 * Which facilities are included?
 * Are you close to universities, the local town, business parks etc?
 
-
 Remember to **charge a fair price**. You don’t want your room on the market for
 weeks holding out for £500/month when you could have filled it sooner by
 offering for £470/month.
-
-
