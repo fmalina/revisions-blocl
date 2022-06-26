@@ -251,25 +251,19 @@ information that you have posted.
 Complaints regarding content on our website
 ===========================================
 
-
 We attempt to moderate user generated content, but we are not always able to do
 so as soon as that content is published or due to the volume of content posted.
 
-
-If you complain about any of the content on our website, we shall investigate
-your complaint.
-
+Complaining about any of the content on our website allows us to investigate.
 
 If we feel it is justified or if we believe the law requires us to do so, we
-shall remove the content while we investigate.
-
+may remove the content while we investigate.
 
 Free speech is a fundamental right, so we have to make a judgment as to whose
 right will be obstructed: yours, or that of the person who posted the content
 that offends you.
 
-
-If we think your complaint is vexatious or without any basis, we shall not
+If we think your complaint is vexatious or without any basis, we will not
 correspond with you about it.
 
 
