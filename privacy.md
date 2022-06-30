@@ -1,6 +1,16 @@
 Privacy policy
 ==============
-Blocl will not share or sell your **email address**. Your details will not be
+This privacy policy covers Blocl.uk and Unilexicon.com.
+
+Data controller for both is [Francis Malina](https://unilexicon.com/fm/),
+your first point of contact with any privacy matters.
+
+Both websites partner with Google to provide advertising, see
+[Google's privacy and terms site](https://policies.google.com/technologies/partner-sites).
+
+---
+
+We will not share or sell your **email address**. Your details will not be
 passed to 3rd parties. We never reveal your email address to other members, all
 emails sent are forwarded to your email through our dedicated messaging system.
 
@@ -41,7 +51,7 @@ collected using **Google Analytics** anonymously and is not tied to your
 account.
 
 You can use our guide to [disable Google Analytics permanently in all
-browsers](/blog/disablegoogleanalytics).
+browsers](/blog/disablega).
 
 Cookies
 -------
