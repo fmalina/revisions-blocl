@@ -1,15 +1,12 @@
 #!/usr/bin/env python3
-"""
-An example Page program with config to generate your site
-Copy it and change variables as needed, so you don't have
-to generate your site with a long command.
-"""
+import os
+from pathlib import Path
 from page.gen import generate_site
 
-ROOT = '/home/f/SITES/'
-SOURCE = f'{ROOT}blocl-pages/'
-TARGET = f'{ROOT}blocl/static'
-TPL = f'{ROOT}blocl/blocl/templates'
+ROOT = str(Path(os.getcwd()).parent)
+SOURCE = os.path.join(ROOT, 'blocl-pages/')
+TARGET = os.path.join(ROOT, 'blocl/static')
+TPL = os.path.join(ROOT, 'blocl/blocl/templates')
 EXT = ''  # can be '.htm'/'.html'
 CTX = dict(
     site_name='Blocl',
