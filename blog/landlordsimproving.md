@@ -1,7 +1,6 @@
 Landlords Get a Better Rep
 ==========================
-
-![Landlord Rising Damp](/media/images/rising-damp.jpg)
+![Landlord Rising Damp](https://i.ibb.co/dBBT4bW/risingdamp.jpg)
 
 Since the recession it seems that the traditional impression we have of
 Landlords has improved, Landlord Assistis has claims that stereotypes of the

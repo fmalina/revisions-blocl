@@ -1,7 +1,7 @@
 Speed flatmating
 ================
 
-![Speed flatmating](/media/images/speed-flatmating.jpg)
+![Speed flatmating](https://i.ibb.co/ZJnHFZK/speedflatmating.jpg)
 
 I've heard of Speed dating before, but recently I've come across the new
 phenomenon of speed flatmating. Landlords, flatmates, and tenants meet together
