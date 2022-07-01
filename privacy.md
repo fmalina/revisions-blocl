@@ -19,8 +19,6 @@ Google uses cookies to serve ads based on site visits.
 You can disable cookies for the sake of follow-up ads by
 [opting out](http://www.google.co.uk/ads/preferences).
 
-If you use AdBlock, it don't matter 🙁
-
 ### Tracking
 We don't track you and don't use tracking cookies.
 
