@@ -1,31 +1,10 @@
-How to disable Google Analytics and prevent advertising tracking
-================================================================
-This site does not use Google Analytics. This article was written originally as
-a part of the [Privacy Policy](/terms) to let users reliably disable tracking
-and help increase their privacy when it did.
-
-Option #1: Switch to Opera or Brave. Brave is a modern browser based on
-Chromium that blocks all trackers and tons of ads, then boasts about how much
-time it saved for you. We don't mind not seeing you on Google Analytics, we
-hardly ever look at it anyway and mostly to see what browsers and what sections
-of the site people use these days to optimise and improve the site.
+How to disable adverts and analytics across the web
+===================================================
+Privacy matters. This site does not use Google Analytics.
+It uses Google adverts for income, while also teaching you how to block them.
+This article relates to the [Privacy Policy](/privacy).
 
 ---
-
-### Google's official method
-
-Google's official method to disable Analytics tracking and advertising cookies
-is to install an **opt out plugin** in your browser... each one of them. This
-takes away control from you and leaves it with Google. It will also stop
-functioning if you reinstall the browser clean. References are provided at the
-end of this article for your information.
-
-There is however a more convenient and persistent cross-browser method to
-disable Google Analytics: editing a file on your device called the **hosts
-file**. This will not only increase your privacy across the web, but could also
-make your browsing slightly faster. Always a good thing.
-
-### A very reliable method
 
 You will need the administrator or root privileges, which is fine on your own
 **desktop computer**, but more involved on mobile devices. Smartphones and
@@ -44,12 +23,18 @@ from the Notepad File menu.
 
 ### Step 2.
 
+You can get a big hosts file blocking hundreds of thousands of bad sites <https://github.com/StevenBlack/hosts>
+Here we only list a few.
+
 **On all operating systems** add the following lines to the bottom of the hosts file.
 
-    127.0.0.1 www.google-analytics.com  # block Analytics
-    127.0.0.1 google-analytics.com
-    127.0.0.1 www.googleadservices.com  # block remarketing
-    127.0.0.1 googleadservices.com
+    0.0.0.0 www.google-analytics.com  # block Analytics
+    0.0.0.0 google-analytics.com
+    0.0.0.0 www.googleadservices.com  # block remarketing
+    0.0.0.0 googleadservices.com
+    0.0.0.0 www.googletagmanager.com
+    0.0.0.0 googletagmanager.com
+    0.0.0.0 pagead2.googlesyndication.com
 
 ### Step 3.
 
@@ -64,12 +49,6 @@ Make the changes effective:
 * You will also need to **delete cookies and cache** data websites stored on your computer, which will log you out of all websites. Power users can just delete website data for the domains we blocked in the hosts file in step 2 to prevent this.
 
 Enjoy your newly gained increased privacy.
-
-### Bonus points
-
-1. Add a line for *facebook.com* in the same style to disable tracking associated with Facebook Like buttons. Conveniently this will also prevent you from using Facebook. Yay, freedom!
-2. Find some other 3rd party domains that are used to track your way around the web and add them to your hosts file.
-3. Leave your tips in the feedback box.
 
 ---
 
