@@ -1,12 +1,12 @@
 Privacy policy
 ==============
 Privacy matters to us. Any personal details you supply to us via this site are kept
-secure, only to provide you with the advice and services requested.
-To fulfill any deal you may have with us and to tell you what you need to know to use the service.
+secure, only to provide you with the advice and services requested,
+to fulfill any deal you may have with us and to tell you what you need to know to use the service.
 Opt out anytime.
 
 This privacy policy covers Blocl.uk and Unilexicon.com. "we", "our", "us" means these websites.
-Data controller for both site is [Francis Malina](https://unilexicon.com/fm/),
+Data controller for both sites is [Francis Malina](https://unilexicon.com/fm/),
 your first point of contact with any privacy matters.
 
 ## Cookies
@@ -19,7 +19,7 @@ Google uses cookies to serve ads based on site visits.
 You can disable cookies for the sake of follow-up ads by
 [opting out](http://www.google.co.uk/ads/preferences).
 
-If you use AdBlock, none of this matters, just 🙁
+If you use AdBlock, it don't matter 🙁
 
 ### Tracking
 We don't track you and don't use tracking cookies.
@@ -38,15 +38,15 @@ We will not share or sell your **email address**. Your details will not be
 passed to 3rd parties. We don't reveal your email address to other members, all
 emails sent are forwarded to you through our messaging system.
 
-**Phone numbers** are available only to confirmed plus members. Controls on your
+**Phone numbers** of other members are available only to verified members. Controls on your
 profile page allow showing phone number only to those members you talk to.
 
 We only ever show 1st initial of member's **last name** and
-remove personally identifiable data from content.
+remove any personally identifiable data from published content.
 
 Exclusions
 ----------
-This privacy policy applies to this site. Links to any external sites are not covered.
+This privacy policy applies to our sites. Links to any external sites are not covered.
 
 Changes to the policy
 ---------------------
