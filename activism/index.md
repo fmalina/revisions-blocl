@@ -1,17 +1,12 @@
-Activism
-========
-
-**Radicals' digest**, exquisitely named so by the author of [The Debt
-Generation](/activism/debtgeneration) is a collection of book excerpts
-and quotes relevant to educate us and the next generation of local community
-activists.
+Activism Books
+==============
+**Radicals' digest**
 
 Authors pour the finest aspects of their knowledge and insights into their
-books. Out of that selection, here we offer a further refined selection of book
-quotes and excerpts as attributed to their authors.
-
-Quotes below from some 120 books concerning the social reality of the world we
-live in, with eight recently published books to consider topping the list.
+books. To educate us and the next generation of local community activists.
+Out of their selection, here we offer a further refinement of book
+quotes and excerpts as attributed to their authors from some 120 books concerning
+the social reality of the world we live in, with eight recently published books to consider first.
 
 * [Historical Capitalism](/activism/historicalcapitalism) with Capitalist Civilization
 * [Democracy in Chains](/activism/democracyinchains): the deep history of the radical right's stealth
