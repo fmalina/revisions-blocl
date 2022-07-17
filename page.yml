@@ -1,9 +1,8 @@
 source: .
 target: ../blocl/static
 tpl: ../blocl/blocl/templates
-ext: ''  # can be '.htm'/'.html'
 ctx:
     site_name: Blocl
     site_url: https://blocl.uk
-    repo_url: https://github.com/fmalina/blocl-pages/blob/main/  # for edit links
+    repo_url: https://github.com/fmalina/revisions-blocl/blob/main/  # for edit links
     dev: false  # show/hide editing links
