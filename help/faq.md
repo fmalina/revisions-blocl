@@ -61,7 +61,7 @@ their advert or been too busy. Reply and check.
 
 How do I delete my ad?
 ----------------------
-Please delete your adverts if you no longer need them. Go to [your ads](/ads),
+Please delete your adverts if you no longer need them. Go to [your ads](/rooms/ads),
 hit deactivate. This controls whether your ad shows in the listings. You can
 still put it back on, if needed again. When your add is off, you can also delete
 it for good. This will obliterate your ad, any related messages and pictures
@@ -121,7 +121,7 @@ automatically whenever you are active on the site.
 
 The map is wrong. How do I change my position on the map?
 ---------------------------------------------------------
-Go to [your ads](/ads), hit **edit**, scroll down, drag the map marker to the
+Go to [your ads](/rooms/ads), hit **edit**, scroll down, drag the map marker to the
 correct position and **save**.
 
 Sometimes the aerial and street view imagery is out of date or not available at

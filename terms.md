@@ -2,14 +2,18 @@ Terms of service
 ================
 
 These terms of service include our [privacy policy](/privacy), and we will
-refer to them both as "these Terms". When you use this site, you agree to be
-bound by these Terms. If you do not agree to be bound by these Terms, do not use
-this site. Certain uses of this site are prohibited and amount to a misuse
-of our systems and the site. Please refer to previous clause. You may save
-and keep a copy of these Terms. They are a legal agreement between us and can
-only be modified with our consent. We may change these Terms at our discretion
-by changing them on this site. The then current version of these Terms will
-apply whenever you use this site.
+refer to them both as "these Terms".
+
+When you use this site, you agree to be bound by these Terms. If you do not agree
+to be bound by these Terms, do not use this site.
+
+Certain uses of this site are prohibited and amount to a misuse
+of our systems and the site. Please refer to previous clause.
+
+You may save and keep a copy of these Terms. They are a legal agreement between
+us and can only be modified with our consent. We may change these Terms at our
+discretion by changing them on this site. The then current version of these Terms
+will apply whenever you use this site.
 
 Intellectual property
 ---------------------
@@ -119,11 +123,11 @@ contacting other members on the site looking for a tenant or accommodation.
 Applicable once, if requested within 10 days after expiration of your 30 days
 premium membership.     No cash alternative.
 
-**[Plus membership](/plus-membership)**
+**[Plus membership](/help/plus)**
 ---------------------------------------------
 1. All premium membership packages are billed as a recurring payment, packages will auto-renew when your selected package expires.
 2. 6 and 12 months packages are billed for the full term as a recurring payment, packages will auto-renew when your selected package expires.
-3. All Premium memberships can be cancelled in [your account section](/details).
+3. All Premium memberships can be cancelled in [your account section](/rooms/details).
 4. Payments by PayPal are one off payments with no recurring billing.
 5. Once a package has been selected there is no option to downgrade until after it has expired.
 6. Members are advised to purchase premium membership based on the full period you receive rather than purchasing it to contact just one person.
