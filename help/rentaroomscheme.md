@@ -3,18 +3,15 @@ Rent a room scheme
 
 What is the rent-a-room scheme?
 -------------------------------
-
 The rent a room scheme allows live in landlords to earn up to £7.500 in room
 rental, income tax-free every year as long as they let furnished accommodation
 to lodgers within their own home, giving you the opportunity to earn £625 a
 month tax-free.
 
-
 Do I have to register?
 ----------------------
 * If you earn £7,500 or less, then the tax exemption is automatic, and you don’t have to do anything unless you normally fill in a tax return then declare the exemption.
 * If you earn over £7,500 you pay tax on any income over this amount, if this applies to you just contact your local tax office and complete a yearly tax return and claim your £7,500 allowance.
-
 
 What if I have rooms in other houses where I don’t live?
 --------------------------------------------------------
@@ -22,7 +19,6 @@ In this situation you would not join the rent a room scheme, and it would be
 considered as a business, and you would pay tax as normal by contacting your
 local tax office and completing a tax return. Rent a room scheme also does not
 apply to studio flats.
-
 
 Can I rent rooms in my rental property where I live?
 ----------------------------------------------------
@@ -59,7 +55,6 @@ mean you will be able to claim for expenses like:
 
 Do I need to keep records?
 --------------------------
-
 Always keep a record of any rental income and expenses for at least 6 years,
 keeping everything together in a folder.
 

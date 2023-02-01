@@ -57,7 +57,6 @@ thumb: if it looks too good to be true, it probably is.
 
 Typical scam emails
 -------------------
-
 >    Hi,
 >    
 >    Thanks for the reply and the sincere interest you have in my flat. I have
@@ -93,10 +92,8 @@ Typical scam emails
 >    
 >    Regards     Mr/Mrs Colin
 
-
 Typical scam email continued
 ----------------------------
-
 >   Hi Emma,
 >   You will be sharing with a professional female from Ireland. She’s 24 y/o and
 >   work in Finance.

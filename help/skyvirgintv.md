@@ -22,5 +22,6 @@ could help attract more interest.
 If you're thinking of getting Sky or Virgin TV then factor these costs into
 tenants rent. Check out the current offers:
 
-* [Virgin Media](http://www.virginmedia.com), to receive Virgin TV you need to live in a cable area. Most of the UK is covered.
+* [Virgin Media](http://www.virginmedia.com), to receive Virgin TV you need to live in a cable area.
+  Most of the UK is covered.
 * [SKY](http://www.sky.com/products/tv-packs/) TV

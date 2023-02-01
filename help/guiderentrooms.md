@@ -5,7 +5,6 @@ So you have made the decision or are thinking about room rental. I will start
 off by giving you an overview of why thousands of people are turning to this
 every day, then give you a step-by-step guide of what you need to know.
 
-
 Room rental
 -----------
 The room rental market has grown massively over the last 10 years, people have
@@ -27,7 +26,6 @@ on any of the points below that might affect you.
 * If you have a mortgage, you may need your mortgage lender’s permission.
 * If you are renting a property, give the estate agent, landlord, local council or housing association a quick call to check.
 
-
 Does my home insurance need changing?
 -------------------------------------
 Your insurance company will need to adjust your policy. Not telling them about a
@@ -35,12 +33,10 @@ lodger or tenant may invalidate your policy. It’s also a good idea to get a
 quick online quote from our [landlord insurance partners](/help/insurancelandlord).
 You might save some money.
 
-
 Safety regulations
 ------------------
 Ensure your home meets safety regulations. You may need to fit smoke alarms,
 carbon monoxide detectors and fire extinguishing equipment.
-
 
 Do I need to pay tax?
 ---------------------

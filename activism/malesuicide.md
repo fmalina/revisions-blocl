@@ -18,7 +18,6 @@ help and support as any other group, not just pressure because they are
 perceived to be strong. They aren’t stronger than this negative discrimination.
 
 
-
 > **What practical steps can we take personally and as a group to deal with issues
 > such as home loss following divorce, no access to children and grand children
 > related to this, false allegations and unreported violence against them, as well
@@ -26,10 +25,8 @@ perceived to be strong. They aren’t stronger than this negative discrimination
 > 
 > 
 
-
 These are typically male issues but they affected my ill mother too having
 cascaded down to her as a fallout of my own divorce.
-
 
 When I got arrested on Stansted Airport by Merseyside Police for false
 allegations by my ex wife right on the day of funeral of my own mother, there
@@ -50,10 +47,7 @@ Let’s figure out a path forward and let’s go
 \* from the Office for National statistics
 
 
-
 ![](https://i.ibb.co/4psbfKq/Zelmira-Malinova-nee-Rabarova.jpg)
 
-
 ![](https://i.ibb.co/527VHYk/Viliam-Rabara.jpg)
-
 

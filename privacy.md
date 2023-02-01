@@ -30,7 +30,6 @@ You can change your browser options to stop saving cookies or to ask you before
 saving one from any site. You just won't reach parts of the site requiring a login.
 
 ## Data Protection
-
 We never sell your personal details to other companies for marketing.
 We will not share or sell your **email address**. Your details will not be
 passed to 3rd parties. We don't reveal your email address to other members, all
@@ -54,4 +53,5 @@ to this policy will be posted on this page.
 
 Contact
 -------
-If you have any questions about this Privacy Policy, please contact [Francis Malina](https://unilexicon.com/fm/).
+If you have any questions about this Privacy Policy,
+please contact [Francis Malina](https://unilexicon.com/fm/).

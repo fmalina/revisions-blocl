@@ -6,7 +6,6 @@ with, it would be preferable with someone you like rather than making a rapid
 decision and moving in to somewhere with people you don’t get along with. Some
 things to consider when looking are:
 
-
 * **Gender**: Would you prefer to live with males, females or no preference?
 * **Age**: Do you mind the age of existing tenants or is there an age range you want to stick between?
 * **Occupation**: Are you looking to share with students or professionals or no preference?

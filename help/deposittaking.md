@@ -21,7 +21,7 @@ reasonable deductions from the deposit for:
 Normal wear and tear is not considered as financial loss.
 
 If items are damaged beyond repair or are lost, you should replace the item on a
-like for like basis i.e. if the item damaged was a 10 year old TV you shouldn’t
+like for like basis i.e. if the item damaged was a 10-year-old TV you shouldn't
 ask the tenant to pay for a brand new widescreen LCD.
 
 Remember to keep receipts for any replacements or work done.
@@ -32,7 +32,7 @@ The below legislation does not affect landlords who let out rooms in their own
 home where they live.
 
 As part of the Housing Act 2004 the government has introduced tenancy deposit
-protection for all [assured shorthold tenancies](/ta-shorthold) (ASTs) in
+protection for all [assured short-hold tenancies](/rooms/ta/shorthold) (ASTs) in
 England and Wales only where deposits are taken. From April 6th 2007, all
 deposits paid under an AST have had to be protected within 14 days of receipt by
 the landlord.
@@ -55,8 +55,8 @@ protection scheme:
 * Company lets.
 * Student accommodation let directly by universities or colleges.
 
-Who do I register the deposit with.
-
+Who do I register the deposit with?
+-----------------------------------
 [The Government](https://www.gov.uk/tenancy-deposit-protection) has awarded
 contracts to run tenancy deposit protection schemes to 3 companies.
 

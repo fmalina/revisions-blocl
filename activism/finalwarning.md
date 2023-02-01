@@ -7,8 +7,6 @@ By **Mark Lynas**
 
 1 Degree
 --------
-
-
 We are already living in a world one degree warmer than that inhabited by our
 parents and grandparents. Two degrees Celsius, which will stress human societies
 and destroy many natural ecosystems such as rainforests and coral reefs, looms
@@ -81,8 +79,6 @@ all weep for what we have done.
 
 2 Degrees
 ---------
-
-
 No one knows exactly when it will happen, but at some point in the two-degree
 world we will see the complete disappearance of Arctic sea ice, resulting in an
 ice-free North Pole for the first time for about three million years.
@@ -250,8 +246,6 @@ towards the point of collapse.
 
 3 Degrees
 ---------
-
-
 Entering the three-degree world means we are now living in a hotter climate than
 any experienced on Earth throughout the entire history of our species.
 
@@ -339,8 +333,6 @@ store.
 
 4 Degrees
 ---------
-
-
 In a four-degree world billions of people are experiencing ‘dangerous’ heat
 index conditions every year, encompassing most of the world’s great megacities
 
@@ -414,8 +406,6 @@ By the end of the century we will be knocking on the door of an even hotter era
 
 5 Degrees
 ---------
-
-
 At five degrees, humanity has lost control of global temperatures, which are now
 spiralling relentlessly upwards. Food production is decimated, and large areas
 of the planet are too hot for humans to inhabit.
@@ -451,8 +441,6 @@ any point for over 50 million years.
 
 6 Degrees
 ---------
-
-
 No one should doubt that six degrees of global heating would represent a
 catastrophic failure of the Earth system.
 

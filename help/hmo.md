@@ -46,7 +46,6 @@ are sharing with a 3rd person that would consist of 2 households. If a family
 rents a property that is a single household. If that family had an au-pair to
 look after their children that person would be included in their household.
 
-
 No, I’m not an HMO
 ------------------
 If you are not an HMO just remember if you take on more tenants to have a quick

@@ -37,7 +37,6 @@ and sign both copies, you then keep one copy and the other side keeps the other.
 
 Lodger agreement
 ----------------
-
 A **lodger agreement** is best for landlords who let out rooms in their own
 furnished home, where both parties will agree on a period of tenancy and these
 agreements will normally have an early termination clause meaning if the lodger

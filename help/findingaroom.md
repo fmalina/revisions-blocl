@@ -4,7 +4,6 @@ Top 10 tips to finding the right room
 Below we have put together a list of things you should consider and keep in mind
 when finding the right room.
 
-
 1. **Search daily**  
 
  Logging on often is going to give you the best chance of finding a room.

@@ -14,22 +14,16 @@ application attached.
 objection to discuss. We needed **supporting documents and witness statement**
 to go with it. So here it goes.
 
-
 ---
 
-
 **JS1 homepage screenshot & JS 2 window sticker**
-
 
 ![](/media/trademark/JS1_homepage.png)  ![window
 sticker](/media/trademark/JS2_sticker.png)
 
-
 ---
 
-
 **JS 3 hypertext references**
-
 
 ### Academic / Universities recommending Blocl
 **Richmond university in London**: Independent Housing Options
@@ -38,70 +32,53 @@ sticker](/media/trademark/JS2_sticker.png)
 **Bedford University**: Private rented accommodation
 [www.bedford.ac.uk/International-students/Living-in-Bedford/Accommodation.aspx](http://www.bedford.ac.uk/International-students/Living-in-Bedford/Accommodation.aspx)
 
-
 **Cambridge University**: Alternative Accommodation in Cambridge
 [www.tyndale.cam.ac.uk/index.php?page=alternative-accommodation](http://www.tyndale.cam.ac.uk/index.php?page=alternative-accommodation)
-
 
 **Oxford**: What if I can’t get College accommodation?
 [www.gtc.ox.ac.uk/college-life/facilities/accommodation.html](http://www.gtc.ox.ac.uk/college-life/facilities/accommodation.html)
 
-
 **Buckinghamshire New University**: Accommodation - Useful websites
 [bucks.ac.uk/home\_eu\_students/accommodation/alternative\_sources\_wycombe/](http://bucks.ac.uk/home_eu_students/accommodation/alternative_sources_wycombe/)
-
 
 **Sanger institute**: Housing
 [www.sanger.ac.uk/workstudy/information/moving.html](http://www.sanger.ac.uk/workstudy/information/moving.html)
 
-
 **Abertay University**: Private Accommodation - Useful websites
 [www.abertay.ac.uk/studying/accommodation/2013-14/otheraccommodationinformation/privateaccommodation/](http://www.abertay.ac.uk/studying/accommodation/2013-14/otheraccommodationinformation/privateaccommodation/)
 
-
 ### Local Governments and other Government references
-
 
 **London Council**: Renting tips - Where do I start?
 [london.gov.uk/rents/london/private/tips.jsp](http://london.gov.uk/rents/london/private/tips.jsp)
 
-
 **Lincolnshire County Council**: Housing - Links
 [www.lincolnshire.gov.uk/residents/community-and-living/housing?tab=links](http://www.lincolnshire.gov.uk/residents/community-and-living/housing?tab=links)
-
 
 **Lewisham Council**: Find a private rented home
 [www.lewisham.gov.uk/myservices/housing/find/Pages/Find-a-private-rented-home.aspx](http://www.lewisham.gov.uk/myservices/housing/find/Pages/Find-a-private-rented-home.aspx)
 
-
 **St Edmundsbury Borough Council**: Housing - Privately renting - Internet
 [stedmundsbury.gov.uk/housing/privately-renting.cfm](http://stedmundsbury.gov.uk/housing/privately-renting.cfm)
-
 
 **Southampton Council**: Homelessness - Looking for accommodation? - Links
 [www.southampton.gov.uk/living/housing/moneysolutions/homelessadvice/accommodation.aspx](http://www.southampton.gov.uk/living/housing/moneysolutions/homelessadvice/accommodation.aspx)
 
-
 **Basildon Council**: House Share, Flat Share and Rooms to Rent
 [www.basildon.gov.uk/article/2887/House-Share-Flat-Share-and-Rooms-to-Rent](http://www.basildon.gov.uk/article/2887/House-Share-Flat-Share-and-Rooms-to-Rent)
-
 
 **Mid Suffolk District Council**: Stay Safe poster available for download,
 reprinted by other councils
 [www.midsuffolk.gov.uk/housing-and-homelessness/homelessness-and-housing-advice/looking-for-a-home/](http://www.midsuffolk.gov.uk/housing-and-homelessness/homelessness-and-housing-advice/looking-for-a-home/)
 
-
 **Blackburn with Darwen Council**: Homelessness advice and support - external links
 [www.blackburn.gov.uk/Pages/Housing-advice-and-support.aspx](http://www.blackburn.gov.uk/Pages/Housing-advice-and-support.aspx)
-
 
 **Nuneaton and Bedworth Borough Council**: Renting a private property - Websites
 [www.nuneatonandbedworth.gov.uk/info/200238/housing\_advice/315/renting\_a\_private\_property](http://www.nuneatonandbedworth.gov.uk/info/200238/housing_advice/315/renting_a_private_property)
 
-
 **DATA.GOV.UK**: Featured app - Blocl
 [data.gov.uk/apps/flatmate-rooms-easy-roommate-and-spare-room-finder-uk-wide](http://data.gov.uk/apps/flatmate-rooms-easy-roommate-and-spare-room-finder-uk-wide)
-
 
 **Companies house**: Listing
 
@@ -109,10 +86,7 @@ reprinted by other councils
 
 
 
-
-
 ---
-
 
 ### TRADE MARKS ACT 1994
 
@@ -122,9 +96,7 @@ In the name of: Blocl Ltd
 To register the mark: Blocl
 In Classes: 35 and 36
 
-
 ### WITNESS STATEMENT
-
 
 1. I, Frantisek Malina am the director and founder of Blocl Ltd a
 position which I have held since 2009. The facts in this statement come from my
@@ -136,27 +108,21 @@ speak on my company’s behalf in the prosecution of this application.
 property owners finding trusted flatmates and tenants looking for better places
 to live.
 
-
 The goods/services on which the mark has been used, and the date of first use,
 are as follows:
-
 
 Class 35 - Advertising of rooms and residential real estate on the Internet
 provided via a database first used in 2009
 
-
 Class 36 - Agency for renting of residential premises first used in the year 2009
 4. There is now produced and shown to me:
-
 
 Exhibit JS1 which is a current screenshot of the homepage of the site that
 received 24,740,000 page views to date from 2,450,000 unique visitors.
 Blocl website has currently 400,000 registered members and is steadily growing.
 
-
 Exhibit JS2 which is a copy of the window sticker used by private landlords and
 estate agents nationwide.
-
 
 Exhibit JS3 which is a collection of hypertext references showing a sample of
 public sector organisations who recommend Blocl service, many of these
@@ -164,7 +130,6 @@ are also published in printed versions such as booklets for university students,
 posters, council advice for tenants and landlord magazines. I have excluded
 private sector references as we have generated over the years close to a hundred
 of thousands due to heavy online, social and mobile advertising.
-
 
 In these samples our service is referred to as Blocl, or Blocl.com.
 All these spelling variations are used
@@ -179,7 +144,6 @@ internet.
 **2009** £1,668; **2010** £6,976; **2011** £57,910; **2012** £119,059; **2013** £165,584
 6. Annual amounts spent on promoting the services before the date of application were as follows
 7. (excluding wages of directors who spend their work time developing the website and promoting the services):  
-
 
 |      | Marketing, PPC & PR | Website costs | Print/Stationary Postage | Mobile marketing | Marketing staff wages | Total   |
 |------|---------------------|---------------|--------------------------|------------------|-----------------------|---------|
@@ -199,7 +163,6 @@ of the words in english language. No websites contain phrase Blocl
 without referring to my firm as these would be only used to
 identify our company and service.
 
-
 I truly believe that as a result of the use made of it by my firm, the mark
 Blocl is well known to the landlords and lodgers renting out rooms in
 the United Kingdom, and is uniquely associated with Blocl Ltd, and that
@@ -207,18 +170,13 @@ this unique combination of words distinguishes the services sold by Blocl Ltd
 from other such service providers.
 9. I believe that the facts stated in this witness statement are true.
 
-
 **Signed** F. Malina
-
 
 ---
 
-
 All done. So now we can officially show off with our registered trademark:
 
-
 Blocl ®
-
 
 The problem is, I loathe it. It's an uppercase r in a circle pretending to be a
 sticker sitting on a baseline. There's no superscript unicode codepoint for it

@@ -14,7 +14,6 @@ settlement. Rather than enjoy the company of friends, we slave to earn enough to
 buy the new car good enough to impress all those friends we do not see. Of value
 is considered to be only what has a price tag. What has no price has no value.
 
-
 Likewise, situations answering to the name of global warming, homelessness and
 destitution, repression, loneliness, discrimination, racism, crime,
 environmental degradation, foreign occupation or nuclear weapons are our
@@ -27,7 +26,6 @@ pursuit of profit, the religion of our time, may force us one day to produce
 what was previously abundant and free – oxygen for the atmosphere, water for the
 rivers and cold for the poles.
 
-
 Good Christians, those who would not do anything unless their meanness is out of
 focus, can bomb, burn, destroy, rob, humiliate, exploit their fellow human
 beings, despoil the Earth, and commit the gravest acts of injustice as long as
@@ -37,7 +35,6 @@ person’s sexuality. But society is unwilling to oblige and meet Christian
 expectations on issues such as premarital sex, contraception, teenage
 pregnancies, masturbation, abortion, divorce, homosexuality, pornography or
 nudism.
-
 
 Little in our age, which like some currencies is rich in zeros, can take us
 beyond the freedom to have needs, those hinged on lifestyles. It is these needs
@@ -54,7 +51,6 @@ links with our purpose, with all things, which as Kurt Vonnegut, the American
 novelist, said, ‘make you soul grow’. What is left is ‘fun’, reality shows that
 the system happily provides in unlimited quantities.
 
-
 Eager to from a coalition against terror, the West has no intentions of forming
 a similar coalition in the interests of Justice., the best shield against
 terrorism…The world’s moral order on which just social, economic, political and
@@ -64,7 +60,6 @@ market controlled by oligopolies, those monsters indulging in unnatural acts of
 capitalist greed, whose ever-tightening grip over the world economy is nothing
 less than frightening.
 
-
 Reduced to an almost meaningless political and economic unit, and largely unable
 to control their development, the nation state is simply overwhelmed by the
 forces it helped to unleash. Indeed, the ‘mega-institutions’, protected by the
@@ -73,7 +68,6 @@ inspection, which means not only free gun ownership, but also *laissez faire*
 economics, and consolidated further through mergers and acquisitions, are beyond
 control or even regulate. Rupert Murdoch, going on the offensive, even asserted
 at some point that regulations are, in effect, a reinvention of socialism.
-
 
 The politicians with a voice, as Orwell would say, nearly as silent as a voice
 can be while still retaining a voice, have neither the guts nor the motivation

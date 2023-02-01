@@ -36,7 +36,6 @@ This all gives you further scope to finding a room faster, your advert works for
 you even when you’re not online as people could be calling and e-mailing you
 instead.
 
-
 Demo ad
 -------
 > Hello, I’m Nigel, 22, I’ve been living in my own flat for 2 years, but now I’m

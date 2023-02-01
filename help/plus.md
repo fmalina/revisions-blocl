@@ -22,7 +22,6 @@ giving everyone piece of mind.
 
 Why am I asked to upgrade to read a message?
 --------------------------------------------
-
 If you received a message that prompts you to check the premium membership, it
 means both of you are basic members and message is still being delayed. One
 needs to pass card address verification before conversation will be enabled. All
@@ -34,7 +33,6 @@ giving everyone piece of mind.
 
 Why can’t it all just be free?
 ------------------------------
-
 Sometimes we receive feedback from members asking to “make the website totally free”.
 
 While it would be nice to our basic members having us paying the running costs,
@@ -48,7 +46,6 @@ afford to run the site:
 * marketing the website
 * find landlords, find tenants
 * pay staff and all running costs for the website (servers, domains etc)
-
 
 You can now imagine the cost and amount of work involved to provide this
 service.
@@ -71,7 +68,6 @@ How do I upgrade?
 -----------------
 **[Choose your membership](/subscribe)** and let our service help find you a
 tenant or room quicker and safer.
-
 
 Can I get a boost on my premium membership?
 -------------------------------------------

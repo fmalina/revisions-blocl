@@ -10,7 +10,6 @@ Rangers wall paper or the lilac paint might not be to the tenants taste. Stick
 with simple natural colours. Check whether the carpet is ok. If it’s looking
 tired or stained it may need cleaning or replacing.
 
-
 Next you need to look at what you’re going to put in the room. Normally a good
 furnished room will consist of a:
 

@@ -6,7 +6,6 @@ will give you a guide to what kind of property, area or rent you’re looking fo
 We’ve listed a couple of points below to get you started. Print this out and
 tick off to see if most of your requirements are met.
 
-
 1. **Rent and bills**  
 
  What rent realistically can you afford? Do you have any other outgoings, cars, loans, credit cards etc.

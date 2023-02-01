@@ -31,7 +31,6 @@ can impair the property, with cigarette burns, smell etc, and therefore affect
 the future letting of the property. It also costs to have carpets and curtains
 cleaned after smoking tenants in order to prepare the property to be re-let.”
 
-
 ### Smoking causes insanity
 Flat hunting sharers often find that their choices are limited if they insist on
 smoking. Self-confessed nicotine addict John from Warrington says: “I prefer
@@ -44,7 +43,6 @@ landlord next door doesn't allow smoking so his tenants smoke outside on the
 balcony which is right next to my bedroom. As well as smoke drifting in through
 my windows they chat and laugh late into the night, so I can’t sleep. It’s
 driving me mad!”
-
 
 With flat sharing being massively popular in these cash strapped times then
 tolerating someone who promises to only smoke outside must surely be a good

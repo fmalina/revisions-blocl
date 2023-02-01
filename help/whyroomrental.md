@@ -66,7 +66,6 @@ whether the decision was made for your independence, arguments with the family,
 moving in with a boy/girlfriend etc., then have a serious think about your
 finances and what’s best for you and see how room rental can benefit you.
 
-
 Moving closer to work
 ---------------------
 Many people live far away from their daily job, this is ideal for the room

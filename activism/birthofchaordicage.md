@@ -15,17 +15,14 @@ community interest; that individual good is inseparable from the good of the
 whole; that in some way, often beyond our understanding, all things are, at one
 and the same time, independent, interdependent, and intradependent…
 
-
 Without an abundance of nonmaterial values, and an equal abundance of
 nonmonetary exchange of material value, no true community ever existed and never
 will. Community is not about profit. It is about benefit. We confuse them at our
 peril. When we attempt to monetise all value, we methodically disconnect people
 and destroy community.
 
-
 Nonmonetary exchange of value frustrates our craving for perfect predictability
 and the control that it always promises but can never deliver.
-
 
 The nonmonetary exchange of value is the most effective, constructive system
 ever devised. Evolution and nature have been perfecting it for thousands of
@@ -33,23 +30,18 @@ millennia. It requires no currency, contracts, government, laws, courts, police,
 economists, lawyers, accountants. It does not require anointed or certified
 experts at all. It requires only ordinary, caring people.
 
-
 There can be no society without community. In fact there can be no life without
 it. All of life, all of nature, all earthly systems, are based on closed cycles
 of receiving and giving, save only that gift on energy that come from the sun.
 There can be no life whatsoever without balanced cycles of giving and receiving.
 
-
 *Why are organisations, everywhere, whether political, commercial, or social,
 increasingly unable to manage their affairs?*
-
 
 *Why are individuals, everywhere, increasingly in conflict with and alienated
 from the organisations of which they are apart?*
 
-
 *Why are society and the biosphere increasingly in disarray?*
-
 
 Today, it doesn’t take much thought to realise we’re in an accelerating, global
 epidemic of institutional failure. Not just failure in the sense of collapse,
@@ -58,46 +50,33 @@ increasingly unable to achieve the purpose for which they were created, yet
 continuing to expand as they devour scarce resources, demean the human spirit,
 and destroy the environment.
 
-
 Schools that can’t teach
-
 
 Universities far from universal
 
-
 Corporations that neither cooperate nor compete, only consolidate
-
 
 Unhealthy health-care systems
 
-
 Welfare systems in which no one fairs well
-
 
 Farming systems that destroy the soil and poison food
 
-
 Families far from familial
-
 
 Police that can’t enforce the law
 
-
 Judicial systems without justice
-
 
 Governments that can’t govern
 
-
 Economies that can’t economise
-
 
 Such universal, ever accelerating institutional failure suggests there is some
 deep, pervasive question we have not asked, some fundamental flaw in the
 ordering of societal relationships of which we are unaware. It suggests that
 intractable problems can only get worse until we ask the right questions and
 discover the flaw.
-
 
 Over the years I have asked diverse groups of people to reflect very carefully
 on their work within organisations and to make a simple balance sheet. How much
@@ -109,12 +88,10 @@ such rules and procedures and enforcing them on others; how much did they simply
 withhold due to frustration and futility? It’s a rare person who arrives at a
 sum less than fifty percent. Eighty is not uncommon.
 
-
 Without question, the most abundant, least expensive, most underutilised, and
 constantly abused resource in the world is human ingenuity. The source of that
 abuse is mechanistic Industrial Age, dominator concepts if organisation and the
 management practices they spawn.
-
 
 No matter how much we shuffle control and responsibility back and fourth from
 one Industrial Age organisation to another – government or private enterprise,
@@ -123,18 +100,15 @@ national or municipal government, non-profit or for-profit – our social and
 environmental problems continue to escalate. Everywhere they go, our
 institutions they take their mechanistic Industrial Age concept with them.
 
-
 No matter how many technological miracles we perform, no matter how
 sophisticated the virtual worlds we create, no matter how much genetic code we
 splice, no matter how many space probes we launch, things will get progressively
 until we discern and deal with that fundamental institutional problem.
 
-
 At the bottom, it a wrong concept of organisation and leadership, based on a
 false metaphor with which we must deal. Until our consciousness of the
 relational aspect of the world and all life therein shall change, the problems
 that crush the young and make grown people cry will get progressively worse.
-
 
 True governance is based on understanding that even simple societies are far too
 complex to expect that there can be agreement in the particular. Systems of
@@ -143,14 +117,12 @@ understanding that ordinances, orders, and enforcement deal with the absence of
 true governance. They are an attempt to compel the kind of behaviour that
 organisations fail to induce.
 
-
 Ordinances, orders and enforcement are simply different words for consol,
 command, and tyranny. The ultimate sanction of control is force. Force is the
 tool of tyranny. Those who rise in a tyrannical world are those least able of
 self-governance and inducement of it in others, else they would not engage in
 tyranny. And when they rise, it is axiomatic that self-governance will and
 government will gradually be for the few and not the many.
-
 
 True self-governance requires freedom from physical necessity. If people lack
 the basic necessities for sustaining life – clean water, food, and air, adequate
@@ -159,18 +131,15 @@ standing over them with a whip, ever though their masters may be multiple,
 separated from them by continents and countless government, corporate, and
 monetary veils.
 
-
 If people lack either a physical environment or a society that allows them a
 basic measure of dignity, meaning, and security, behaviour is compelled.
 Physical violence is but the most visibly shocking end of a chain of violence.
 If we choose to engage is ecological violence, spiritual violence, and psychic
 violence, how can we expect to live free of physical violence?
 
-
 People everywhere are growing desperate for renewed sense of community. Shared
 purpose and principals leading to new concepts self-governance at multiply
 scales from individual to the global have become essential.
-
 
 The original concept of corporation was a collective entity intended to attract
 people and recourses needed to realise a desired social objective beyond the
@@ -181,7 +150,6 @@ limited time, function in a limited area and to realise a public purpose open to
 rigorous social and governmental surveillance. Its natural death in time was
 specified in the charter.
 
-
 The proliferation of the corporate concept of organisation as a pseudo-person
 was given great impetus in the sixteenth and seventeenth centuries by the huge,
 imperialist expansion of Western nation-states through the subjugation of people
@@ -190,19 +158,16 @@ capital that imperialist expansion required fuelled the desire for limited
 personal liability and responsibility for risk, and for unlimited opportunity
 for gain.
 
-
 The corporate form became a useful instrument for government plunder. It is not
 to be wondered that is soon had a tendency to become an instrument for private
 plunder as well. Pursuit of limitations of personal liability and unrestrained
 opportunity for gain became a conflagration burning even hotter from the
 seventeenth century to the present day.
 
-
 The statutes covering such entities have been liberalised, broadened, and made
 more detailed in their provision ever since, gradually moving away from the
 interests of governments and society to the interests of monetary shareholders
 and management.
-
 
 In the beginning, no one dreamed that a small aggregation of wealth and power
 legalised in the form of a pseudo-person to achieve a social purpose would not
@@ -210,13 +175,11 @@ only be used in pursuit of the purpose, but to persistently grind away social
 and legislative mandates that defined corporate purpose, restricted its
 territory, controlled its growth, and curbed its behaviour. But it did.
 
-
 The for-profit, monetised shareholder form of corporation has demanded and
 received permanent life. It has demanded and received the right to define its
 own purpose and act solely for self-defined self-interest. It has demanded and
 received release from the revocation of its charter for inept or antisocial
 acts.
-
 
 The roles of giant, transnational corporations and governments have slowly
 reversed. Government is now more an instrument of such corporations than the
@@ -224,13 +187,11 @@ corporations are instruments of government. They are no longer, not even
 indirectly, and instrument of the populace they affect, but an instrument of the
 few who control the ever increasing power and wealth they command.
 
-
 The monetised commercial form of corporation has steadily become an instrument
 of those with surplus money (capital) and those with surplus power (management)
 to reward themselves at the expense of the community, the biosphere, and the
 many without surplus wealth and power, commonly called ‘customers’ and ‘human
 recourses’.
-
 
 Global corporations now have implicit sovereignty over people throughout the
 world, since they are beyond the reach of any nation-state. They hold government
@@ -241,7 +202,6 @@ all by the simply expedient of bargaining one government against another for the
 claimed economic benefit of their presence. They can move their money, their
 operations, their products, and their management at will world-wide. No
 government can do so.
-
 
 Such corporations are gradually becoming superb instruments for the
 capitalisation of gain and the socialisation of cost. When a corporation
@@ -256,14 +216,12 @@ currency speculation and looks to government, the World Bank or the IMF to bail
 out its customers, public or private, in order that they may repay their debt;
 it has socialised cost and capitalised gain.
 
-
 The possibilities for socialising debt and capitalising gain are endless, as
 those who hold power or wealth within monetised corporations have discovered to
 their endless benefit. Round and round the merry-go-round, as fewer and fewer
 get richer and richer and ever more powerful, while more and more people fall
 into poverty and despair, and generations unborn and placed deeper in bondage to
 the appetites of the moment.
-
 
 If the purpose of each corporation is not primarily the health of the of Earth
 and the well-being of life thereon, if its principals are not based on equitable
@@ -272,11 +230,9 @@ of family, if it has no belief system, or one devoid of ethical and moral
 content, it is difficult to see why it should have the sanction and protection
 of society through government.
 
-
 We know *how monetised corporations were.* We know *how they are.*  We know
 *what they are becoming,* and it is not a happy prospect for the vast majority
 of people. It is far past time to examine how corporations *ought to be.*
-
 
 *“The Cartesian/Newtonian worldview has influenced thought far beyond the
 physical sciences, and accounting is no exception. Double-entry bookkeeping and
@@ -288,7 +244,6 @@ best to describe reality as a web of interconnecting relationships that give
 rise to an ever-changing and evolving universe of objects that we perceive only
 partially with our limited senses.*
 
-
 *In that ‘systemic’ view of the world, nothing is merely the sum of its parts;
 parts have meaning only in reference to a greater whole in which everything is
 related to everything else…Why should accountants continue to believe that human
@@ -297,51 +252,40 @@ that mechanistic world view now see the universe from a very different
 perspective?” (H Thomas Johnson – former vice president of the Academy of
 Accounting Historians)*
 
-
 Concerning the capacity to receive, store, utilise, transform, and transmit
 information.
-
 
 Noise…is any undifferentiated thing which assaults the senses. It is all
 pervasive and ubiquitous whether auditory, visual, or textural.
 
-
 Noise becomes data when it transcends the purely sensual and has cognitive
 pattern; when it can be discerned and differentiated by the mind.
-
 
 Data becomes information when it is assembled into a coherent whole, which can
 be related to other information in a way that adds meaning.
 
-
 Information becomes knowledge when it is integrated with other information in a
 form useful for deciding, acting, or composing new knowledge.
-
 
 Knowledge becomes understanding when related to other knowledge in a manner
 useful in conceiving, anticipating, evaluating and judging.
 
-
 Understanding becomes wisdom when informed by purpose, ethics, principle, memory
 of the past, and projection into the future.
-
 
 Data, on one end of the spectrum, is separable, objective, linear, mechanistic,
 and abundant. Wisdom, on the other end of the spectrum, is holistic, subjective,
 spiritual, conceptual, creative and scarce.
-
 
 Science has traditionally operated in the provinces of data, information and
 knowledge, where measurement, particularity, specialisation, and rationality are
 particularly useful. It has largely ignored the provinces of understanding and
 wisdom.
 
-
 Theology, philosophy, literature and art have traditionally operated in the
 provinces of understanding and wisdom. That is, when they have not succumbed to
 envy of the hard sciences and tried to emulate their hubris, particularity and
 certitude.
-
 
 We are now at a point in time when the ability to receive, utilise, store,
 transform, and transmit data – the lowest cognitive form – has expanded
@@ -350,13 +294,11 @@ as we struggle under the avalanche of data and information. In the
 ever-accelerating assault of data and information on the cognitive capacity,
 understanding and wisdom may be declining in absolute as well as relative terms.
 
-
 The immensity of data and information that assaults our cognitive capacity is
 also conditioned by a very small ration of social, economic, and spiritual
 value. The result is vast technological power unleashed with inadequate
 understanding of its systemic propensity for destruction, or sufficient wisdom
 to guide its evolution in holistic, creative, constructive ways.
-
 
 It leaves us locked within our separatist, linear, mechanistic institutions,
 confined within our ever more isolated specialities, constricted by ever
@@ -374,46 +316,36 @@ isolated acts with little understanding or concern that they are cumulative
 atrocities and even less of how they are combining to affect the planet, our
 health, and the lives of future generations.
 
-
 Each hour alone, we destroy forever 210 species, decimate 6,700 acres of virgin
 forest, destroy 3 million tons of topsoil, and starve 1,200 babies to death.
-
 
 Who would have imagined that such an explosion of mechanistic, separatist
 sciences, education, governance, and rationality could have resulted in
 collective madness, but so it has.
 
-
 *There is nothing more difficult to take in hand, more perilous to conduct or
 more uncertain in its success, than to take the lead in the introduction of a
 new order of things (Machiavelli).*
-
 
 Deep in most of us, below our awareness, indelibly implanted there by three
 centuries of the Industrial Age, is the mechanistic, separatist, cause and
 effect, command and control model of reality.
 
-
 When our internal model of reality is in conflict with rapidly changing external
 realities, there are three fundamental ways to respond.
-
 
 First: we can cling to our old internal model and attempt to impose it on
 external conditions in a futile attempt to make them conform with our
 expectations.
 
-
 Second: we can engage in denial. We can refuse to accept the new external
 reality. We can pretend that external changes are not as profound as they really
 are, or deny that we and an internal model, or that it bears examination.
 
-
 Third: we can attempt to understand and change our internal model of reality.
-
 
 Dostoyevsky put it into perspective in the last century when he wrote*: “Taking
 a new step, uttering a new word is what people fear most.”*
-
 
 The undeniable fact is that we have created the greatest explosion of capacity
 to receive, store, utilise, transform, and transmit information in history.

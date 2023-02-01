@@ -5,8 +5,6 @@ By **Nancy MacLean**
 
 Introduction
 ------------
-
-
 The utterly chilling story of the ideological origins of the single most
 powerful and least understood threat to democracy today: the attempt by the
 billionaire-backed radical right to undo democratic governance.
@@ -103,8 +101,6 @@ economy of chattel slavery became entrenched in the South.
 
 Prologue
 --------
-
-
 Those who are leading today’s push to upend the political system are heirs to a
 set of ideas that goes back almost two centuries:
 
@@ -144,8 +140,6 @@ property supremacists could not control.
 
 Chapter 2
 ---------
-
-
 It was uncanny how well young Jim Buchanan’s notions of individual efficacy,
 group power, and government overreach fit with the teachings of the economics
 faculty of the University of Chicago.
@@ -203,15 +197,11 @@ counterrevolution.
 
 Chapter 3
 ---------
-
-
 Put simply, most Americans then trusted their government. In such an era,
 Buchanan said, “our purpose was indeed subversive.”
 
 Chapter 4
 ---------
-
-
 For his part, Jim Buchanan learned lessons from this experience that informed
 his thinking for the rest of his life.
 
@@ -234,8 +224,6 @@ alike.
 
 Chapter 5
 ---------
-
-
 With Buchanan as intermediary, the Virginia Plan method would make its way
 across the Atlantic and eventually into the think tank advice with which Prime
 Minister Margaret Thatcher revolutionized British policy to achieve kindred
@@ -247,16 +235,12 @@ thought in Europe.
 
 Chapter 7
 ---------
-
-
 It was while Buchanan was at Blacksburg that he first got to know Charles Koch,
 opening a relationship of mutually beneficial exchange, as the economist might
 say, that reached fruition a quarter century later.
 
 Chapter 8
 ---------
-
-
 The Law and Economics Center at the University of Miami was run by Professor
 Henry G. Manne, a leader in the emerging field of “law and economics,”
 
@@ -287,8 +271,6 @@ Koch.
 
 Chapter 9
 ---------
-
-
 Charles Koch did not just become a convert to the ultra-capitalist radical
 right. He is the sole reason why this movement may yet alter the trajectory of
 the United States in ways that would unquestionably take the “demos” out of
@@ -339,8 +321,6 @@ Where persuasion failed, the lash might work.
 
 Chapter 10
 ----------
-
-
 On September 11, 1973, General Augusto Pinochet led a successful coup that
 overthrew the elected socialist government of President Salvador Allende in
 Chile.
@@ -367,8 +347,6 @@ the U.S. right.
 
 Chapter 11
 ----------
-
-
 Fairfax County, Virginia, convinced the state to open a two-year college that
 was given the name George Mason. It opened in 1957.
 
@@ -446,8 +424,6 @@ operatives had never been asked to do before.
 
 Chapter 12
 ----------
-
-
 By the mid-1990s, a colleague reported, Charles Koch had grown increasingly
 frustrated with the lack of progress being made in furtherance of the cause.
 
@@ -471,8 +447,6 @@ democracy in chains.
 
 Conclusion
 ----------
-
-
 In the shock-and-awe-style coordinated push to implement radical change in
 record time, without customary transparency or deliberative process, is it any
 wonder that no one noticed how many of the leading operatives in this vast

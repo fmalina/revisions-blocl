@@ -10,7 +10,6 @@ scammer asks the victim (estate agent, B&B or landlord) to **charge their**
 credit or debit **card** a sum **to cover accommodation costs**. The forged
 identity can be a doctor, lawyer or a business person to add credibility.
 
-
 The **credit card is stolen** from another unsuspecting victim. Another version
 of this scam uses **fake check**. Scammer may ask to charge the full amount in
 smaller batches, so bank is less likely to notice outgoing transactions.

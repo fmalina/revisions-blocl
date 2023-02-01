@@ -10,7 +10,6 @@ singles, 1 double near Liverpool city centre” won’t get the effect you need.
 Giving good information at this point and being enthusiastic about what you’re
 offering will get you the best calibre of tenants viewing your property.
 
-
 * **Adding photos** will give tenants a good insight if the property is right for them and will ultimately get your rooms rented. Some photo tips:
 	+ Take pictures in good daylight and turn on lighting to get the best clear photos. Don’t take photos at nighttime as these tend to come out a lot worse with bad lighting.
 	+ Keep curtains and blinds open to let the daylight in.
@@ -19,10 +18,8 @@ offering will get you the best calibre of tenants viewing your property.
 	+ Upload at least 4 photos, the more the better.
 	+ Add captions to your photos in the relevant box when uploading them i.e. kitchen, double room.
 
-
 Below is a list to give you a head start on what to mention and add. If you need
 more inspiration check out adverts similar to yours.
-
 
 * **Size of the room**
  Is it spacious or is it a small easy to maintain room?

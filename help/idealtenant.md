@@ -9,7 +9,6 @@ Logging on to this site as often as possible is going to give you the best
 chance of finding a tenant, as new tenants are added to our database every
 couple of minutes with some tenants finding rooms within a couple of hours.
 
-
 2. Creating your advert
 -----------------------
 [A well created advert](/help/writeroomtoletad) should give potential tenants an insight in to the
@@ -74,5 +73,4 @@ later, remember not to make a rash decision as you will be living with the
 tenant for the foreseeable future, once you have made your mind up ask the
 potential tenant for their deposit and first month’s rent and you have yourself
 a new tenant.
-
 
