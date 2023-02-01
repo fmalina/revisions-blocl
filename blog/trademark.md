@@ -6,7 +6,7 @@ Office involved a few steps so here comes a little writeup of the process.
 
 Article intended to help those going through a trademark application.
 
-First the easy part: Headed over to [ipo.gov.uk](http://ipo.gov.uk), filled out
+First the easy part: Headed over to [gov.uk](https://www.gov.uk/how-to-register-a-trade-mark), filled out
 the forms, paid and soon received confirmation with trademark
 application attached.
 
@@ -17,11 +17,13 @@ to go with it. So here it goes.
 ---
 
 **JS1 homepage screenshot & JS 2 window sticker**
+
 (Image removed)
 
 ---
 
 **JS 3 hypertext references**
+
 (Links removed)
 
 ### Academic / Universities recommending Blocl
