@@ -69,7 +69,7 @@ the crowd. All that’s necessary to get the right place before others will.
 
 How do I upgrade?
 -----------------
-**[Choose your membership](/rooms/upgrade)** and let our service help find you a
+**[Choose your membership](/subscribe)** and let our service help find you a
 tenant or room quicker and safer.
 
 

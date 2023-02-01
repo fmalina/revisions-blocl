@@ -1,5 +1,12 @@
 Tenancy agreements
 ==================
+
+**Templates**
+
+* [Licence agreement for lodger England & Wales](/rooms/ta/england)
+* [and Scotland](/rooms/ta/scotland)
+* [Assured shorthold tenancy agreement](/rooms/ta/shorthold)
+
 Tenancy agreements are a big part of room and property rental, and are the first
 thing you should have in place before deposit is paid. Tenancy agreements create
 an agreement between the landlord, and the tenant or lodger.
