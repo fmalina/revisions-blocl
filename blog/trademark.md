@@ -10,81 +10,43 @@ First the easy part: Headed over to [ipo.gov.uk](http://ipo.gov.uk), filled out
 the forms, paid and soon received confirmation with trademark
 application attached.
 
-…and then the hard part: Application was **not acceptable.** IPO raised an
+…and then the hard part: Application was **not accepted**. IPO raised an
 objection to discuss. We needed **supporting documents and witness statement**
 to go with it. So here it goes.
 
 ---
 
 **JS1 homepage screenshot & JS 2 window sticker**
-
-![](/media/trademark/JS1_homepage.png)  ![window
-sticker](/media/trademark/JS2_sticker.png)
+(Image removed)
 
 ---
 
 **JS 3 hypertext references**
+(Links removed)
 
 ### Academic / Universities recommending Blocl
-**Richmond university in London**: Independent Housing Options
-[www.richmond.ac.uk/content/student-affairs/accommodation/off-campus-accommodation/independent-housing-options.aspx](http://www.richmond.ac.uk/content/student-affairs/accommodation/off-campus-accommodation/independent-housing-options.aspx)
-
-**Bedford University**: Private rented accommodation
-[www.bedford.ac.uk/International-students/Living-in-Bedford/Accommodation.aspx](http://www.bedford.ac.uk/International-students/Living-in-Bedford/Accommodation.aspx)
-
-**Cambridge University**: Alternative Accommodation in Cambridge
-[www.tyndale.cam.ac.uk/index.php?page=alternative-accommodation](http://www.tyndale.cam.ac.uk/index.php?page=alternative-accommodation)
-
-**Oxford**: What if I can’t get College accommodation?
-[www.gtc.ox.ac.uk/college-life/facilities/accommodation.html](http://www.gtc.ox.ac.uk/college-life/facilities/accommodation.html)
-
-**Buckinghamshire New University**: Accommodation - Useful websites
-[bucks.ac.uk/home\_eu\_students/accommodation/alternative\_sources\_wycombe/](http://bucks.ac.uk/home_eu_students/accommodation/alternative_sources_wycombe/)
-
-**Sanger institute**: Housing
-[www.sanger.ac.uk/workstudy/information/moving.html](http://www.sanger.ac.uk/workstudy/information/moving.html)
-
-**Abertay University**: Private Accommodation - Useful websites
-[www.abertay.ac.uk/studying/accommodation/2013-14/otheraccommodationinformation/privateaccommodation/](http://www.abertay.ac.uk/studying/accommodation/2013-14/otheraccommodationinformation/privateaccommodation/)
+* **Richmond university in London**: Independent Housing Options
+* **Bedford University**: Private rented accommodation
+* **Cambridge University**: Alternative Accommodation in Cambridge
+* **Oxford**: What if I can’t get College accommodation?
+* **Buckinghamshire New University**: Accommodation - Useful websites
+* **Sanger institute**: Housing
+* **Abertay University**: Private Accommodation - Useful websites
 
 ### Local Governments and other Government references
 
-**London Council**: Renting tips - Where do I start?
-[london.gov.uk/rents/london/private/tips.jsp](http://london.gov.uk/rents/london/private/tips.jsp)
-
-**Lincolnshire County Council**: Housing - Links
-[www.lincolnshire.gov.uk/residents/community-and-living/housing?tab=links](http://www.lincolnshire.gov.uk/residents/community-and-living/housing?tab=links)
-
-**Lewisham Council**: Find a private rented home
-[www.lewisham.gov.uk/myservices/housing/find/Pages/Find-a-private-rented-home.aspx](http://www.lewisham.gov.uk/myservices/housing/find/Pages/Find-a-private-rented-home.aspx)
-
-**St Edmundsbury Borough Council**: Housing - Privately renting - Internet
-[stedmundsbury.gov.uk/housing/privately-renting.cfm](http://stedmundsbury.gov.uk/housing/privately-renting.cfm)
-
-**Southampton Council**: Homelessness - Looking for accommodation? - Links
-[www.southampton.gov.uk/living/housing/moneysolutions/homelessadvice/accommodation.aspx](http://www.southampton.gov.uk/living/housing/moneysolutions/homelessadvice/accommodation.aspx)
-
-**Basildon Council**: House Share, Flat Share and Rooms to Rent
-[www.basildon.gov.uk/article/2887/House-Share-Flat-Share-and-Rooms-to-Rent](http://www.basildon.gov.uk/article/2887/House-Share-Flat-Share-and-Rooms-to-Rent)
-
-**Mid Suffolk District Council**: Stay Safe poster available for download,
-reprinted by other councils
-[www.midsuffolk.gov.uk/housing-and-homelessness/homelessness-and-housing-advice/looking-for-a-home/](http://www.midsuffolk.gov.uk/housing-and-homelessness/homelessness-and-housing-advice/looking-for-a-home/)
-
-**Blackburn with Darwen Council**: Homelessness advice and support - external links
-[www.blackburn.gov.uk/Pages/Housing-advice-and-support.aspx](http://www.blackburn.gov.uk/Pages/Housing-advice-and-support.aspx)
-
-**Nuneaton and Bedworth Borough Council**: Renting a private property - Websites
-[www.nuneatonandbedworth.gov.uk/info/200238/housing\_advice/315/renting\_a\_private\_property](http://www.nuneatonandbedworth.gov.uk/info/200238/housing_advice/315/renting_a_private_property)
-
-**DATA.GOV.UK**: Featured app - Blocl
-[data.gov.uk/apps/flatmate-rooms-easy-roommate-and-spare-room-finder-uk-wide](http://data.gov.uk/apps/flatmate-rooms-easy-roommate-and-spare-room-finder-uk-wide)
-
-**Companies house**: Listing
-
-[data.companieshouse.gov.uk/doc/company/12518712](http://data.companieshouse.gov.uk/doc/company/12518712)
-
-
+* **London Council**: Renting tips - Where do I start?
+* **Lincolnshire County Council**: Housing - Links
+* **Lewisham Council**: Find a private rented home 
+* **St Edmundsbury Borough Council**: Housing - Privately renting - Internet
+* **Southampton Council**: Homelessness - Looking for accommodation? - Links
+* **Basildon Council**: House Share, Flat Share and Rooms to Rent
+* **Mid Suffolk District Council**: Stay Safe poster available for download,
+    reprinted by other councils
+* **Blackburn with Darwen Council**: Homelessness advice and support - external links
+* **Nuneaton and Bedworth Borough Council**: Renting a private property - Websites
+* **DATA.GOV.UK**: Featured app - Blocl flatmate finder
+* **Companies house**: Listing
 
 ---
 
