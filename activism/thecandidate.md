@@ -264,7 +264,7 @@ matters to gain wide currency.
 But the Blairites’ biggest problem was ideological. The political programme they
 offered was one designed for the 1990s that had ossified into dogma.
 
-“People want Labour to be the party of Hardie and Attlee. They don’t want the
+“People want Labour to be the party of Hardie and Attlee. They don't want the
 party of Blair and Brown.”
 
 The remarkable thing about the humiliation of the Blairites was that they did

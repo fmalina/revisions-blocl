@@ -10,7 +10,7 @@ constructing a progressive alternative to the destructive and dysfunctional
 politics of the present. David Tyfield, Department of Sociology, Lancaster
 University, UK [\*](#ASIN:B00SI6J9WI;LOC:28)
 
-Unlike in Marx’s day a spectre isn’t haunting Europe; it’s a stumbling,
+Unlike in Marx’s day a spectre isn't haunting Europe; it’s a stumbling,
 rambling, mindless, heartless zombie we call neoliberalism. But is this
 stumbling, incoherent monster really neoliberalism?
 
@@ -210,7 +210,7 @@ economies? These are critical questions, especially as they relate to the
 increasing concentration of economic power in fewer and fewer hands and the
 corresponding emergence of financial institutions that are ‘too-big-to-fail’.
 
-Neoliberalism didn’t promote the rise of corporate monopolies, championed by a
+Neoliberalism didn't promote the rise of corporate monopolies, championed by a
 new wave of radical thinking bubbling up from the offices of economists and
 others at the University of Chicago; instead, existing corporate monopolies led
 neoliberals to seek ways to defend corporate monopoly against attacks by New
@@ -359,7 +359,7 @@ against monopoly, or even where we might mount outright assaults on the bastions
 of corporate power.
 
 What we have here is an inequality that boggles the mind. It’s no wonder that
-people are so angry, although why they weren’t angry before the global financial
+people are so angry, although why they weren't angry before the global financial
 crisis (GFC) is worth thinking about.
 
 We have to ask, what would make governments take notice of a majority rather
@@ -391,7 +391,7 @@ well, until recently.
 What I’m claiming is that inequality is directly tied into rising
 home-ownership.
 
-Sometimes people find it quite threatening when I tell them I don’t want to buy
+Sometimes people find it quite threatening when I tell them I don't want to buy
 a house, especially when I outline why this is so.
 
 To me it’s more than strange that we all buy into the mass hysteria of
@@ -433,7 +433,7 @@ decades who will bear the brunt of the adjustment – on top of which you will
 face possible environmental catastrophe and fossil fuel bubble unless our
 governments get off their collective arses and do something about it, and soon.
 
-Don’t buy into this crap, you don’t have to. On the one hand you can become
+Don't buy into this crap, you don't have to. On the one hand you can become
 willing dupes in the Ponzi scheme that is the housing market, and on the other
 you can become indentured serfs through student loans.
 
@@ -480,12 +480,12 @@ about neoliberalism has missed, ignored or misunderstood the importance of
 corporations, and other business organizations, in the economy.
 [\*](#ASIN:B00SI6J9WI;LOC:2919)
 
-We don’t live in a free market society, let alone a neoliberal one where the
+We don't live in a free market society, let alone a neoliberal one where the
 market mechanism has replaced every other social institution.
 
 Most economic activity actually takes place inside economic organizations and
 not within markets. This is a crucial point when we discuss neoliberalism, yet
-isn’t really considered by critical thinkers.
+isn't really considered by critical thinkers.
 
 What has really characterized the last few decades are rationalities, ideas,
 policies and processes that have been about freeing-the-monopolies, not
@@ -500,7 +500,7 @@ one question worth asking right now is; if we were and are not neoliberal, are
 we going to become [\*](#ASIN:B00SI6J9WI;LOC:2996) neoliberal now as a result of
 the GFC?
 
-What if, accepting that neoliberalism hasn’t taken over the world already, we
+What if, accepting that neoliberalism hasn't taken over the world already, we
 then consider what happens if neoliberalism does actually take over the world
 now. What would the world look like if it was dominated by markets and not large
 corporations? The short answer is not better than now or the recent past.

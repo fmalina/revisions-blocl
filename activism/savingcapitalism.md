@@ -91,7 +91,7 @@ the rules.
 A market—any market—requires that government make and enforce the rules of the
 game.
 
-Government doesn’t “intrude” on the “free market.” It creates the market.
+Government doesn't “intrude” on the “free market.” It creates the market.
 
 The rules reflect who in society has the most power to make or influence them.
 
@@ -254,7 +254,7 @@ from a single corporate workforce.
 Wall Street’s new monopolists rig financial markets for their own benefit. And
 again, the rest of us pick up the tab.
 
-Why isn’t antitrust law as effective at curbing the new monopolists as it was
+Why isn't antitrust law as effective at curbing the new monopolists as it was
 the older forms of monopoly? Partly because antitrust enforcement has lost sight
 of one of its original goals: preventing large aggregations of economic power
 from gaining too much political influence.
@@ -309,7 +309,7 @@ spreading the losses equitably among all creditors, under the watchful eye of a
 bankruptcy judge.
 
 Who gets to use bankruptcy, and for what types of debts? The “free market”
-itself doesn’t offer solutions. Most often, powerful interests do.
+itself doesn't offer solutions. Most often, powerful interests do.
 
 Over the last two decades, every major U.S. airline has been through bankruptcy
 at least once, usually in order to renege on previously agreed-upon labor union
@@ -342,7 +342,7 @@ limited the liability of gun manufacturers, distributors, and dealers for any
 harm caused by the guns they sold.
 
 Defanging laws by hollowing out the agencies charged with implementing them
-works because the public doesn’t know it’s happening. The enactment of a law
+works because the public doesn't know it’s happening. The enactment of a law
 attracts attention.
 
 But the defunding of the agencies supposed to put the law into effect draws no
@@ -424,7 +424,7 @@ skills. So hath the market decreed.
 
 The standard explanation cannot account for much of what has happened. It does
 not explain why the transformation occurred so suddenly and the standard
-explanation doesn’t tell us why the average incomes of the bottom 90 percent
+explanation doesn't tell us why the average incomes of the bottom 90 percent
 actually dropped during the first six years of recovery from the Great
 Recession.
 

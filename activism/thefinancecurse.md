@@ -107,7 +107,7 @@ tax and so on in the long term.
 
 2. Mobile and immobile finance: what will move?   The central threat repeatedly
 made by financiers to justify less financial regulation or lower taxation goes
-along the lines of “don’t tax or regulate us too much or your financial centre
+along the lines of “don't tax or regulate us too much or your financial centre
 will become less ‘competitive’ and we will relocate to Zurich or London or Hong
 Kong.” But every time policy makers and regulators hear this threat they must
 remember: the financial centre is composed roughly of two parts. First is the

@@ -8,7 +8,7 @@ By **Joseph Stiglitz**
 As this book goes to press, large parts of Europe face a lost decade, with GDP
 per capita lower than it was before the global financial crisis.
 
-What has happened? With advances in economic science, aren’t we supposed to
+What has happened? With advances in economic science, aren't we supposed to
 understand better how to manage the economy?
 
 There is a simple answer to this apparent puzzle: a fatal decision, in 1992, to
@@ -87,7 +87,7 @@ has been stuck in the double digits ever since.
 
 On average, more than one out of five youths in the labor force are unemployed,
 but in the worst-hit crisis countries, about one out of two looking for work
-can’t find jobs.
+can't find jobs.
 
 These economic facts have, in turn, deep political ramifications. The
 foundations of post–Cold War Europe are being shaken.
@@ -167,7 +167,7 @@ Europe: the greater the austerity, the greater the economic contraction. Why the
 Troika would have thought that this time in Europe it would be different is
 mystifying.
 
-Countries in crisis couldn’t lower their exchange rate, which would boost their
+Countries in crisis couldn't lower their exchange rate, which would boost their
 trade by making exports cheaper. Thus, in the view of the Troika, to regain
 “competitivity” they had to lower wages and prices.
 
@@ -322,7 +322,7 @@ theory.
 Our point here is simple: it is that there are deep divides across Europe about
 what gives rise to a well-functioning economy.
 
-It is especially troublesome when the policies foisted on the country don’t
+It is especially troublesome when the policies foisted on the country don't
 work—for the very reasons that the citizens of the country thought; the costs of
 the mistake, of course, are borne by the country upon whom they are imposed, not
 by those imposing them. This is the story of the eurozone.
@@ -393,7 +393,7 @@ exchange rate.
 Lowering interest rates leads to a lower exchange rate, making exports more
 competitive and discouraging imports.
 
-Markets on their own don’t ensure full employment or financial and economic
+Markets on their own don't ensure full employment or financial and economic
 stability.
 
 Today, except among a lunatic fringe, the question is not whether there should
@@ -479,7 +479,7 @@ countries borrowed in euros. But though they were borrowing in the currency they
 used, it was a currency that they did not control.
 
 Not only did those countries signing up to the eurozone not fully realize the
-consequences of borrowing in a currency out of one’s control, they also didn’t
+consequences of borrowing in a currency out of one’s control, they also didn't
 realize the implications for their national sovereignty: a transfer of power had
 occurred that could be—and was—abused.
 
@@ -553,7 +553,7 @@ Austerity has exacerbated the outmigration from the poor countries of both
 capital and labor.
 
 The Troika has shown that, no matter what an individual government says, if it
-can’t figure out a better way of saving the banks, it is willing to take actions
+can't figure out a better way of saving the banks, it is willing to take actions
 that force the temporary shutdown of a country’s banks, encouraging money to
 move to stronger banks in Germany and elsewhere.
 
@@ -640,7 +640,7 @@ There are alternative ways of structuring central banks. It is one of the
 essential tasks if the eurozone is to be restored to growth and prosperity.
 
 Those outside of Europe—and many in Europe—have been appalled at the unfolding
-drama in the crisis countries. It wasn’t this way before the euro.
+drama in the crisis countries. It wasn't this way before the euro.
 
 Innocent citizens were being asked, forced actually, to bear the consequences of
 decisions that had been made by politicians.

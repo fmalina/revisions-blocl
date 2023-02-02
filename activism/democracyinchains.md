@@ -455,7 +455,7 @@ Buchanan’s last home, George Mason University?
 
 The acclaimed jurist Louis Brandeis, once warned the American people that as a
 nation, “we must make our choice. We may have democracy, or we may have wealth
-concentrated in the hands of a few, but we can’t have both.”
+concentrated in the hands of a few, but we can't have both.”
 
 I suspect, however, that even Brandeis never imagined that enough wealth could
 be concentrated in the hands of a few to launch such an audacious stealth attack
@@ -505,7 +505,7 @@ budgets that address Zika, Ebola and other ailments,”
 Thom Tillis, a North Carolina state senator elevated to the U.S. Senate in 2014
 with backing from the Koch apparatus, has said that restaurants should be able
 “to opt out of” laws requiring employees to wash their hands after using the
-toilet, “as long as they post a sign that says, ‘We don’t require our employees
+toilet, “as long as they post a sign that says, ‘We don't require our employees
 to wash their hands after leaving the restroom.’ The market will take care of
 that.”
 

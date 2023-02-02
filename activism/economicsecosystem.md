@@ -174,8 +174,8 @@ construct (climate-change denial, anyone?).
 Any society that dissipates/pollutes its host ecosystems faster than they can
 regenerate/assimilate is inherently self-destructive.
 
-“So, let us not be afraid of the truth. We don’t need to avoid our reality… We
-don’t know whether we will survive. We may. But if we do, it will be in an
+“So, let us not be afraid of the truth. We don't need to avoid our reality… We
+don't know whether we will survive. We may. But if we do, it will be in an
 utterly different world, with almost no other living creatures to keep us
 company, poor food, rampant disease and a wildly uncomfortable environment”
 
@@ -206,7 +206,7 @@ expensive “carbon removal” technologies, and fabulist geoengineering schemes
 Everything but the obvious – “deep emissions reductions in all sectors” at
 “unprecedented speed and scale.”
 
-If we don’t organize an emergency industrial shutdown and retrenchment of
+If we don't organize an emergency industrial shutdown and retrenchment of
 unnecessary production, superfluous manufacturing, superfluous electricity
 usage, wasteful over-consumption, nature is going to do it for us in a most
 unpleasant manner.

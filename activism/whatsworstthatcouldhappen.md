@@ -245,7 +245,7 @@ Britain is not able to pay off any more debt, because the economy is actually
 shrinking.
 
 This is the crucial test; no matter how well constructed and rigorous a theory
-is, if it doesn’t work in the real world, it has no practical value.
+is, if it doesn't work in the real world, it has no practical value.
 
 Wealth through austerity has the same reek of irrationality as trickle-down
 theory, which was, “make the rich richer and everyone else worse off, and then
@@ -456,7 +456,7 @@ A large part of the problem is that America’s politics have become increasingl
 dominated by big business.
 
 As Justice Louis Brandeis said, “We can have concentrated wealth in the hands of
-a few or we can have democracy, but we can’t have both.”
+a few or we can have democracy, but we can't have both.”
 
 So the crisis was partly due to the policies of George W. Bush. Dubya, named
 after the Texas pronunciation of his middle initial, was probably the most
@@ -525,8 +525,8 @@ choices and deliberately ignored outside advice.
 
 But if policy-making is responsive to neither the needs nor the demands of the
 voters, then how do we know that policies would benefit the ordinary person? The
-answer is, that we don’t. And increasingly, they don’t. Elections are a charade
-in which politicians make promises that they don’t keep and if Cameron and
+answer is, that we don't. And increasingly, they don't. Elections are a charade
+in which politicians make promises that they don't keep and if Cameron and
 Osborne are anything to go by, if they win the votes, they can then do exactly
 what they like.
 

@@ -346,7 +346,7 @@ In a landscape in which politics is being reduced to a (broken) mirror
 reflecting finance, and in which producing and saving have been superseded by
 consuming, something systemic comes into view.
 
-“the center cannot hold”—and it won’t either.
+“the center cannot hold”—and it won't either.
 
 Capitalism was “civilized” thanks to the unrelenting pressure of gritty
 working-class movements and the ever-present threat of strikes and even
@@ -362,7 +362,7 @@ If neoliberalism is the victor for now, it’s because no realist, alternative
 developmental model exists, and yet what it has won is ever more in question.
 
 Though the West unified the world—from neocolonialism to globalization—that
-shouldn’t imply it’s bound to rule forever in material or intellectual terms.
+shouldn't imply it’s bound to rule forever in material or intellectual terms.
 
 \*\*\*
 
@@ -462,7 +462,7 @@ finance.
 Increasingly, the BRICS are betting on the yuan as their monetary alternative to
 a devalued US dollar.
 
-Washington won’t apply its sanctions to BRICS members because these days,
+Washington won't apply its sanctions to BRICS members because these days,
 economically speaking, the US needs them more than they need the U.S.
 
 Which brings us to the dragon in the room: China.
@@ -839,7 +839,7 @@ For Beijing especially, it’s a win-win situation. After all, between energy
 supplied across seas policed and controlled by the US Navy and steady, stable
 land routes out of Siberia, it’s no contest.
 
-Don’t think that this is the death knell of Western capitalism, however, just
+Don't think that this is the death knell of Western capitalism, however, just
 the faltering of that reigning economic faith, neoliberalism, still the official
 ideology of the United States, the overwhelming majority of the European Union,
 and parts of Asia and South America.
@@ -850,7 +850,7 @@ China has proven that there is a result-oriented alternative to the Western
 Keep in mind that China is about to become and remain the number one global
 economic power, a position it enjoyed for 18 of the past 20 centuries.
 
-But don’t tell London, they still believe that US hegemony will last, well,
+But don't tell London, they still believe that US hegemony will last, well,
 forever.
 
 The recent flurry of China-Russia energy and trade agreements, an essential part

@@ -212,7 +212,7 @@ An alternative assessment came from Crossman as he contemplated the funeral
 gathering for Sir Winston Churchill in   Westminster Hall at the end of January
 1965: ‘But, oh, what a faded, declining establishment surrounded me. Aged
 marshals, grey, dreary ladies, decadent Marlboroughs and Churchills. It was a
-dying congregation gathered there and   I am afraid the Labour Cabinet didn’t
+dying congregation gathered there and   I am afraid the Labour Cabinet didn't
 look too distinguished, either. It felt like the end of an epoch, possibly
 even the end of a nation.’
 
@@ -363,7 +363,7 @@ and participants, to almost everybody in the land.
 As the eighties’ economy revived, the sixties’ basic preoccupations – escapism,
 personal fulfilment, and shopping –   returned with full force.
 
-If you weren’t listening in the Cavern Club in the early days, or at the Isle of
+If you weren't listening in the Cavern Club in the early days, or at the Isle of
 Wight when Dylan went electric, if   you never dodged the police horses at
 Grosvenor Square, or heard Adrian Mitchell and Allen Ginsberg in the Albert
 Hall, or sashayed out of Bazaar with a bright bag of swirly-patterned clothes .
@@ -877,7 +877,7 @@ Sir Nicholas Goodison, later Chairman of the Stock Exchange in the Thatcher
 years, looked back on the mood by the   late seventies: ‘We still had exchange
 controls. We had a Labour government intent on controlling everything, and no
 freedom of capital movement. British people were not allowed to take capital
-abroad; British institutions weren’t   allowed to invest capital abroad except
+abroad; British institutions weren't   allowed to invest capital abroad except
 by special Treasury permissions . . . we were an insulated market.’12 It was
 this world which was swept away on 23 October 1979 when Geoffrey Howe, to
 general shock, abolished exchange   controls.

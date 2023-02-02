@@ -126,7 +126,7 @@ care for the elderly and disabled, to protect the natural environment, including
 now the globe’s atmosphere, and above all, to provide for growth and employment
 – to take care of the economy. This commitment – and its consequence – are
 almost never explicitly stated: government will take care of these problems, so
-we don’t have to.
+we don't have to.
 
 For most of us, politics is a spectator sport – we observe, they do.
 

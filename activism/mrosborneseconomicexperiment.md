@@ -120,7 +120,7 @@ economies can and often do suffer from an overall lack of demand, which leads to
 involuntary unemployment. Secondly, the economy’s automatic tendency to correct
 shortfalls in demand, if it exists at all, operates slowly and painfully.
 Thirdly, Government policies to increase demand, by contrast, can reduce
-unemployment quickly. Fourthly, sometimes increasing the money supply won’t be
+unemployment quickly. Fourthly, sometimes increasing the money supply won't be
 enough to persuade the private sector to spend more, and government spending
 must step into the breach.” Of course, under Mr Osborne’s strategy of deficit
 reduction during a depression everything was being done to prevent government

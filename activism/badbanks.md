@@ -39,7 +39,7 @@ One might have thought that the banking sector would have put its house in order
 in the aftermath of the meltdown of 2007 and 2008, but recent years have seen
 scandals that range from efforts to rig the Libor interest-rate market, money
 laundering and wrongfully selling retail customers insurance products that they
-didn’t need to massive losses run up by individual rogue traders. Every day, in
+didn't need to massive losses run up by individual rogue traders. Every day, in
 fact, seems to bring news of a new crisis or instance of questionable behaviour.
 
 Seven years after the credit crunch that brought down Northern Rock and more
@@ -295,7 +295,7 @@ demonstrate and ensure that the UK had the ‘toughest and most transparent rule
 of any major financial sector’.
 
 All too often governments set up commissions to kick awkward issues into touch.
-If that was the hope here, it certainly didn’t work.
+If that was the hope here, it certainly didn't work.
 
 The commission’s 600-page report, published 11 months later in June 2013, looked
 closely at the events and personalities involved in the Libor scandal, and came
@@ -331,12 +331,12 @@ Even so, although the Bank of England was aware that Libor had become a
 meaningless number, no one had reported to it on what were later deemed to be
 illegal actions.
 
-What emerges from all this is a sense that key people knew that Libor wasn’t
+What emerges from all this is a sense that key people knew that Libor wasn't
 working, but that no one thought to look under the bonnet to see just what was
 going on.
 
 In other words, people in authority might have been suspicious but they also
-didn’t want to know. And those who were perpetrating the manipulation of Libor
+didn't want to know. And those who were perpetrating the manipulation of Libor
 must have known that what they were doing was at the very least questionable,
 but they carried on doing it anyway.
 
@@ -381,7 +381,7 @@ completely different set. In Mexico the challenge was drug trafficking. In Saudi
 Arabia and Iran the challenge was terrorism.
 
 As if Mexico with its drugs cartels and the Middle East with its political
-turmoil weren’t enough of a headache for HSBC, it also found itself in hot water
+turmoil weren't enough of a headache for HSBC, it also found itself in hot water
 in the unlikeliest of countries: Japan.
 
 Senate subcommittee had no doubts about what had been going on. HBUS, it

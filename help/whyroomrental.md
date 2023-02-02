@@ -56,7 +56,7 @@ New to the UK
 If you're spending some time in the UK or emigrating to the UK then room rental is
 perfect as a first step on to the property ladder as it will save you a lot of
 money, and give you time to get your bearings and to work out fully where you
-want to live, the last thing you want to do is buy a house to find out you don’t
+want to live, the last thing you want to do is buy a house to find out you don't
 like the area.
 
 Leaving home

@@ -54,7 +54,7 @@ of economic, or any other, theory. Rather, it is derivative of a wider set of
 beliefs about the appropriate role of the state in the economy that lie
 scattered around classical and contemporary economic theory.
 
-Austerity doesn’t work but the fact that we are still being told that it does
+Austerity doesn't work but the fact that we are still being told that it does
 shows us one thing: facts never disconfirm a good ideology, which is why
 austerity remains a very dangerous idea.
 
@@ -95,7 +95,7 @@ from the premise that individuals were not the shortsighted, animal-sprit,
 driven businessmen lampooned by Keynes, but were instead supersmart processors
 of information.
 
-Consequently, government can’t do much at all except screw things up by getting
+Consequently, government can't do much at all except screw things up by getting
 in the way. Left alone with common and accurate information, such individuals’
 expectations about possible future states of the economy will converge and
 promote a stable and self-enforcing equilibrium.
@@ -136,8 +136,8 @@ shortsighted and bubble chasing, as irrational exuberance on the upside gave way
 to runaway pessimism on the downside, just as Keynes had warned about eighty
 years ago.
 
-But most of all, what we couldn’t see coming was something that the instruction
-sheet said was irrelevant, a form of risk that wasn’t reducible to the sum of
+But most of all, what we couldn't see coming was something that the instruction
+sheet said was irrelevant, a form of risk that wasn't reducible to the sum of
 individual risks: systemic risk.
 
 Systemic risk, the risk that cannot be foreseen, is what the different elements
@@ -151,7 +151,7 @@ included, as much as $13 trillion and, on average, a 40 percent to 50 percent
 increase in the debt of the states hit by the crisis.
 
 That seems to be a very large price to pay to save something that was too big to
-fail and that wasn’t meant to fail in the first place, especially when you and I
+fail and that wasn't meant to fail in the first place, especially when you and I
 are expected to pay for it.
 
 \*\*\*
@@ -297,7 +297,7 @@ Keynes, with Hubert Henderson, produced the pamphlet “Can Lloyd George Do It?�
 This view was extremely threatening to the Treasury since it implied that
 supply-side factors were insufficient to drive the economy to full employment.
 
-But the Treasury wasn’t just fighting Keynes and Lloyd George. It was also
+But the Treasury wasn't just fighting Keynes and Lloyd George. It was also
 pandering to orthodox business opinion.
 
 British austerity thinking, like its American cousin, proved remarkably immune
@@ -392,7 +392,7 @@ Friedman assumed that unemployment was voluntary and was not due to a deficiency
 of demand. People choose labor or leisure at the prevailing wage.
 
 In other words, the 25 percent of Spaniards who are presently without work
-simply don’t want to work at the prevailing wage and are on vacation.
+simply don't want to work at the prevailing wage and are on vacation.
 
 By giving us a new set of reasons why state intervention to compensate economic
 downturns can only end up producing inflation, monetarism helped naturalize
@@ -440,7 +440,7 @@ principles.
 
 The question of how the presumed preference for low inflation over all other
 goals becomes the preference of all society, especially when those enforcing
-that preference as policy don’t want to ask the voters, remains conspicuous by
+that preference as policy don't want to ask the voters, remains conspicuous by
 its absence.
 
 Once the United States shut down gold convertibility in 1971, the world’s major
@@ -487,7 +487,7 @@ history has been even shorter. It’s not until the early twentieth century that
 we encounter states that are both big enough to cut, and democratic enough to
 cause problems for austerity policy.
 
-Austerity was tried, and tried again and it simply didn’t work.
+Austerity was tried, and tried again and it simply didn't work.
 
 \*\*\*
 
@@ -528,17 +528,17 @@ Repeated attempts to get back on gold and stay on it in round after round of
 austerity in the 1920s made the already unbearable simply impossible, and the
 system fell apart in the early 1930s.
 
-Austerity simply doesn’t work, no matter how many times you do it. Eventually it
+Austerity simply doesn't work, no matter how many times you do it. Eventually it
 will fall apart because there are only so many rounds of austerity people will
 vote for before the system breaks down.
 
-The parallel to the Eurozone as a gold standard without gold (you can’t devalue,
+The parallel to the Eurozone as a gold standard without gold (you can't devalue,
 inflate, or default there either) is both obvious and vitally important.
 
 The Roaring Twenties began with a bump in Europe but not the United States,
 precisely because the Americans were not on gold.
 
-Austerity not only didn’t work in Japan. It created the worst depression in
+Austerity not only didn't work in Japan. It created the worst depression in
 Japanese history, provoked an assassination campaign against bankers, and
 empowered “the wonderful folks that brought you Pearl Harbor.”
 
@@ -553,7 +553,7 @@ France, that was another matter entirely.
 
 The interwar period taught us some valuable lessons about why austerity does not
 work and why its application is a dangerous idea. Building an entire
-international monetary order with an inherent deflationary bias that can’t work
+international monetary order with an inherent deflationary bias that can't work
 in a democracy is bad idea.
 
 Repeated rounds of austerity in country after country was madness.
@@ -561,7 +561,7 @@ Repeated rounds of austerity in country after country was madness.
 It made the depression deeper, longer, and, arguably, laid the foundations for
 the war that would engulf the world in the 1940s.
 
-Austerity didn’t just fail—it helped blow up the world. That’s the definition of
+Austerity didn't just fail—it helped blow up the world. That’s the definition of
 a very dangerous idea.
 
 \*\*\* But even if the IMF has lost faith in austerity, it does not mean that
@@ -575,7 +575,7 @@ very dangerous idea.
 
 This book has examined the case for austerity as both a sensible economic policy
 and as a coherent set of economic ideas, and it has found austerity to be
-lacking in both respects. Austerity doesn’t work. Period.
+lacking in both respects. Austerity doesn't work. Period.
 
 It has instead brought us class politics, riots, political instability, more
 rather than less debt, assassinations, and war. It has never once “done what it
@@ -610,7 +610,7 @@ taxes on top earners can pay for debt reduction. Apparently, there is no need
 for austerity, after all.
 
 Austerity has been tried and will keep being tried, at least in the Eurozone,
-until it’s either abandoned or voted out. It doesn’t work.
+until it’s either abandoned or voted out. It doesn't work.
 
 Given that forgiveness is unlikely, and the other options, inflation and
 default, are even worse, it is pretty much inevitable that higher taxes on top
@@ -619,5 +619,5 @@ earners will become a part of the landscape.
 This is how we are going to deal with our debts—through taxes and not through
 austerity. Not because austerity is unfair, which it is, not because there are
 more debtors than creditors, which there are, and not because democracy has an
-inflationary bias, which it doesn’t, but because austerity simply doesn’t work.
+inflationary bias, which it doesn't, but because austerity simply doesn't work.
 

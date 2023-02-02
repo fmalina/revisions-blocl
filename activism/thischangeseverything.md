@@ -38,14 +38,14 @@ Climate change has never received the crisis treatment from our leaders, despite
 the fact that it carries the risk of destroying lives on a vastly greater scale
 than collapsed banks or collapsed buildings.
 
-But we need not be spectators in all this: politicians aren’t the only one with
+But we need not be spectators in all this: politicians aren't the only one with
 the power to declare a crisis. Mass movements of regular people can declare one
 too.
 
-Slavery wasn’t a crisis for British and American elites until abolitionism
-turned it into one. Racial discrimination wasn’t a crisis until the civil rights
-movement turned it into one. Sex discrimination wasn’t a crisis until feminism
-turned it into one. Apartheid wasn’t a crisis until the anti-apartheid movement
+Slavery wasn't a crisis for British and American elites until abolitionism
+turned it into one. Racial discrimination wasn't a crisis until the civil rights
+movement turned it into one. Sex discrimination wasn't a crisis until feminism
+turned it into one. Apartheid wasn't a crisis until the anti-apartheid movement
 turned it into one. In the very same way, if enough of us stop looking away and
 decide that climate change is a crisis worthy of Marshall Plan levels of
 response, then it will become one, and the political class will have to respond,
@@ -223,8 +223,8 @@ In short, we have not responded to this challenge because we are locked
 in—politically, physically, and culturally. Only when we identify these chains
 do we have a chance of breaking free.
 
-“If the trade rules don’t permit all kinds of important measures to deal with
-climate change—and they don’t—then the trade rules obviously have to be
+“If the trade rules don't permit all kinds of important measures to deal with
+climate change—and they don't—then the trade rules obviously have to be
 rewritten. Because there is no way in the world that we can have a sustainable
 economy and maintain international trade rules as they are. There’s no way at
 all.”
@@ -239,7 +239,7 @@ president Lyndon B. Johnson was given a report from his Science Advisory
 Committee warning that, “Through his worldwide industrial civilization, Man is
 unwittingly conducting a vast geophysical experiment. … The climatic changes
 that may be produced by the increased CO2 content could be deleterious from the
-point of view of human beings.”22 But it wasn’t until James Hansen, then
+point of view of human beings.”22 But it wasn't until James Hansen, then
 director of NASA’s Goddard Institute for Space Studies, testified before a
 packed congressional hearing on June 23, 1988, that global warming became the
 stuff of chat shows and political speeches.
@@ -350,11 +350,11 @@ fragile global climate change consensus.
 
 The errors of this period cannot be undone, but it is not too late for a new
 kind of climate movement to take up the fight against so-called free trade and
-build this needed architecture now. That doesn’t—and never did—mean an end to
+build this needed architecture now. That doesn't—and never did—mean an end to
 economic exchange across borders. It does, however, mean a far more thoughtful
 and deliberate approach to why we trade and whom it serves.
 
-If we don’t think about how the economy is structured, then we’re actually never
+If we don't think about how the economy is structured, then we’re actually never
 going to the real root of the problem.
 
 And all of these constituencies would be needed to fight for these policies,
@@ -384,7 +384,7 @@ tough regulation of business, higher levels of taxation for the affluent, big
 public sector expenditure, and in many cases reversals of core privatizations in
 order to give communities the power to make the changes they desire. In short,
 it means changing everything about how we think about the economy so that our
-pollution doesn’t change everything about our physical world.
+pollution doesn't change everything about our physical world.
 
 But the floods were particularly awkward for the coalition government led by
 Conservative prime minister David Cameron because, in the three years prior, it
@@ -419,7 +419,7 @@ the visionary transit systems, the urban redesigns to keep us from spending half
 our lives in traffic jams. The private sector is ill suited to taking on most of
 these large infrastructure investments: if the services are to be accessible,
 which they must be in order to be effective, the profit margins that attract
-private players simply aren’t there.
+private players simply aren't there.
 
 The U.K. under David Cameron has also cut supports for renewable energy.
 
@@ -469,7 +469,7 @@ are broke or that we lack options. It is that our political class is utterly
 unwilling to go where the money is (unless it’s for a campaign contribution),
 and the corporate class is dead set against paying its fair share.
 
-And that won’t happen until the corporate liberation project that has shaped our
+And that won't happen until the corporate liberation project that has shaped our
 political culture for three and a half decades is buried for good.
 
 If we are to rise to a challenge that involves altering the very foundation our
@@ -496,7 +496,7 @@ One report found airline companies raked in a windfall of up to $1.8 billion in
 their first year on the market in 2012. In short, rather than getting the
 polluters to pay for the mess they have created—a basic principle of
 environmental justice—taxpayers and ratepayers have heaped cash on them and for
-a scheme that hasn’t even worked.
+a scheme that hasn't even worked.
 
 At the very least, they demonstrate that seeing the risks climate change poses
 to financial markets in the long term may not be enough to curtail the
@@ -530,7 +530,7 @@ Richard Branson got at least one thing right. He showed us the kind of bold
 model that has a chance of working in the tight time frame left: the profits
 from our dirtiest industries must be diverted into the grand and hopeful project
 of cleaning up their mess. But if there is one thing Branson has demonstrated,
-it is that it won’t happen on a voluntary basis or on the honor system. It will
+it is that it won't happen on a voluntary basis or on the honor system. It will
 have to be legislated—using the kinds of tough regulations, higher taxes, and
 steeper royalty rates these sectors have resisted all along.
 
@@ -550,7 +550,7 @@ engineering frontier, another triumph to commemorate on the walls of the Royal
 Society, but the last tragic act in this centuries-long fairy tale of control.
 
 “You can test a vaccine on one person, putting that person at risk, without
-putting everyone else at risk.” But with geoengineering, “You can’t build a
+putting everyone else at risk.” But with geoengineering, “You can't build a
 scale model of the atmosphere or tent off part of the atmosphere. As such you
 are stuck going directly from a model to full scale planetary-wide
 implementation.” In short, you could not conduct meaningful tests of these
@@ -584,14 +584,14 @@ the prospect of ever being healthy again. The earth—our life support
 system—would itself be put on life support, hooked up to machines 24/7 to
 prevent it from going full-tilt monster on us.
 
-Building a livable world isn’t rocket science; it’s far more complex than that.”
+Building a livable world isn't rocket science; it’s far more complex than that.”
 
 Corporations that either dig up fossil fuels or that, like car companies, are
 responsible for a disproportionate share of their combustion, have a long track
 record of promoting geoengineering as a response to climate change, one that
 they clearly see as preferable to stopping their pollution.
 
-We don’t need to concern ourselves too much with geo-engineering for the future,
+We don't need to concern ourselves too much with geo-engineering for the future,
 we just need to stop getting fossil fuels out of the ground today.”
 
 To fail to exercise those options—which is exactly what we are collectively
@@ -707,7 +707,7 @@ be met with similar legal challenges, since imposing “quantitative restriction
 on the free flow of goods across borders violates a fundamental tenet of trade
 law.
 
-And it certainly doesn’t help that many of our governments seem determined to
+And it certainly doesn't help that many of our governments seem determined to
 hand out even more lethal legal weapons in the form of new and expanded trade
 deals, which companies, in turn, will use against governments’ own domestic
 laws.
@@ -835,7 +835,7 @@ how devastating the consequences may be. Climate change is our chance to right
 those festering wrongs at last—the unfinished business of liberation.
 
 It must always be remembered that the greatest barrier to humanity rising to
-meet the climate crisis is not that it is too late or that we don’t know what to
+meet the climate crisis is not that it is too late or that we don't know what to
 do. It is that we are afraid—with good reason—that our political class is wholly
 incapable of seizing those tools and implementing those plans, since doing so
 involves unlearning the core tenets of the stifling free-market ideology that

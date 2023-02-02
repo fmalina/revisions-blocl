@@ -274,7 +274,7 @@ A growing number of economists are thinking in systems, making complexity
 economics, network theory, and evolutionary economics among the most dynamic
 fields of economic research.
 
-We all pay a high price when we don’t understand the dynamic systems on which
+We all pay a high price when we don't understand the dynamic systems on which
 our lives and livelihoods depend.
 
 ‘Trying to analyse capitalism while leaving out banks, debt, and money is like
@@ -345,7 +345,7 @@ until recently seen as no cause for alarm.
 More equal societies, be they rich or poor, turn out to be healthier and
 happier.
 
-Don’t wait for economic growth to reduce inequality – because it won’t. Instead,
+Don't wait for economic growth to reduce inequality – because it won't. Instead,
 create an economy that is distributive by design.
 
 To do so, however, it must alter the distribution not only of income but also of
@@ -385,7 +385,7 @@ narrow interest of maximising profits comes before all.
 
 But this set-up is, of course, just one among many possible enterprise designs.
 It happens to have dominated the nineteenth and twentieth centuries but that
-doesn’t mean it has to dominate the twenty-first.
+doesn't mean it has to dominate the twenty-first.
 
 Imagine if labour ceased to be the expendable outsider and became, instead, the
 ultimate insider, rooted in employee-owned firms.

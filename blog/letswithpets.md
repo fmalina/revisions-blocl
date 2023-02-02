@@ -54,7 +54,8 @@ homeless.
 
 In a recent survey\* by Dogs Trust:
 
-* 78% of pet owners reported that they had experienced difficulties finding privately rented accommodation that would allow their pets
+* 78% of pet owners reported that they had experienced difficulties finding
+  privately rented accommodation that would allow their pets
 * 54% of pet owners were never able to find a suitable property that accepted pets
 * 8% of people had to rehome their pet
 
@@ -116,12 +117,12 @@ and allowed me to keep a good long term tenant.
 
 **Sheila**, Wiltshire
 
-When I bought a buy-to-let property I decided I wasn’t going to miss out on
+When I bought a buy-to-let property I decided I wasn't going to miss out on
 potentially good tenants by rejecting pet owners. I have had tenants with cats
 and have happily allowed them to install a cat flap.
 
 In today’s economy there are so many rental houses on the market that tenants
-can afford to be choosy. As many of them are pet owners it doesn’t make sense to
+can afford to be choosy. As many of them are pet owners it doesn't make sense to
 rule them out, particularly when you can cover any accidental damage with an
 extra deposit or a clause in the tenancy agreement.
 
@@ -129,9 +130,6 @@ extra deposit or a clause in the tenancy agreement.
 
 
 ---
-
-![kitteh](/media/images/kitteh.jpg)     [Download the full
-guide](/media/renting-to-pet-owners.pdf) as provided by letswithpets.org.uk
 
 If you posted an ad already don't forget to [edit your ad](/rooms/ads) to leave the
 pets option for discussion instead of ruling out a massive chunk of the market

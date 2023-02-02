@@ -32,13 +32,13 @@ the listings.
 
 5. Reading tenant adverts
 -------------------------
-Don’t just let the tenants come to you, [search](/search) through our database
+Don't just let the tenants come to you, [search](/rooms/search) through our database
 of tenant adverts, make sure you read the adverts carefully spotting the one you
 really like.
 
 6. Save your favourite tenant adverts
 -------------------------------------
-Remember to save your favourite advert so you don’t have to go trawling right
+Remember to save your favourite advert so you don't have to go trawling right
 down the list again.
 
 7. Contact by phone or email

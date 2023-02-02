@@ -100,7 +100,7 @@ it. Democracy by its nature is very fragile and the antipathy towards it by the
 establishment is always extremely pronounced and the establishment has always
 sought to undo it.
 
-Whenever the ballot box produces a result the establishment doesn’t like, the
+Whenever the ballot box produces a result the establishment doesn't like, the
 democratic process is either overturned or threatened with being overturned.
 [\*](#ASIN:B01BW2ZY6O;LOC:277)
 
@@ -120,11 +120,11 @@ Brussels is based on a process of depoliticising politics, of taking what are
 essentially profoundly, irrevocably political decisions and pushing them into
 the realm of a rules-bound technocracy, an algorithmic approach.
 
-The European Parliament is a cruel joke, it doesn’t function as a proper
+The European Parliament is a cruel joke, it doesn't function as a proper
 Parliament. It is, at best, a simulation of parliament, not a real parliament.
 
 Now, the British Conservatives that are supporting exit from the EU argue that
-they don’t need the European Union; that they can have the Single Market without
+they don't need the European Union; that they can have the Single Market without
 the straitjacket of Brussels.
 
 So if you reject the possibility of a democratised European Union, you reject
@@ -145,8 +145,8 @@ the European Union turns against itself.
 But I think with issues of society and politics, we have a moral and political
 duty to be optimistic and to say okay, of all the options available to us, which
 is the one least likely to cause catastrophe? For me, that is an attempt to
-democratise the European Union. Do I believe we will succeed? I don’t know, but
-unless I have hope that we can I can’t get out of bed in the morning and go
+democratise the European Union. Do I believe we will succeed? I don't know, but
+unless I have hope that we can I can't get out of bed in the morning and go
 around do stuff.
 
 The sovereignty of parliaments has been dissolved by the Eurozone and the
@@ -160,7 +160,7 @@ that space to identify common policies to tackle common problems, and once we
 have a consensus on common Europe-wide strategies, this consensus can find
 expression of that at the nation-state and regional and municipal levels.
 
-If we fail by 2025 then I don’t think there will be a European Union to save or
+If we fail by 2025 then I don't think there will be a European Union to save or
 even talk about. To those who want to know what we want now the answer is:
 Transparency!
 

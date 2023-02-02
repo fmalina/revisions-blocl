@@ -27,7 +27,7 @@ pollution, corruption, crime, and inequality. [\*](#ASIN:B005GKIXX0;LOC:289)
 
 Above all, we see it in entire sectors of the economy that ignore the poor,
 writing off half the world’s population. Instead, businesses in these sectors
-focus on selling luxury items to people who don’t need them, because that is
+focus on selling luxury items to people who don't need them, because that is
 where the biggest profits are.
 
 The developed world, governments usually perform their regulatory tasks
@@ -103,7 +103,7 @@ entities were recognized by the economic system. It is a major failure of the
 current economic system that it cannot accommodate this basic human urge.
 
 Who has given the ultimate verdict that people are motivated only by money—that
-the desire to do great things for the world can’t be just as powerful a driving
+the desire to do great things for the world can't be just as powerful a driving
 force in human behavior?
 
 I’m convinced that most people, particularly young people, will become

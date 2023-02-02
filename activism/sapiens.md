@@ -34,7 +34,7 @@ inter-subjective: law, money, gods, nations.
 Similarly, the dollar, human rights and the United States of America exist in
 the shared imagination of billions, and no single individual can threaten their
 existence. If I alone were to stop believing in the dollar, in human rights or
-in the United States, it wouldn’t much matter. These imagined orders are
+in the United States, it wouldn't much matter. These imagined orders are
 inter-subjective, so in order to change them we must simultaneously change the
 consciousness of billions of people, which is not easy. A change of such
 magnitude can be accomplished only with the help of a complex organisation, such
@@ -74,7 +74,7 @@ means you can exchange money for whatever you want or need.
 
 Cowry shells and dollars have value only in our common imagination. Their worth
 is not inherent in the chemical structure of the shells and paper, or their
-colour, or their shape. In other words, money isn’t a material reality – it is a
+colour, or their shape. In other words, money isn't a material reality – it is a
 psychological construct.
 
 Why are you willing to flip hamburgers, sell health insurance or babysit three
@@ -87,7 +87,7 @@ Money is accordingly a system of mutual trust, and not just any system of mutual
 trust: money is the most universal and most efficient system of mutual trust
 ever devised.
 
-Initially, when the first versions of money were created, people didn’t have
+Initially, when the first versions of money were created, people didn't have
 this sort of trust, so it was necessary to define as ‘money’ things that had
 real intrinsic value.History’s first known money – Sumerian barley money – is a
 good example.
@@ -127,7 +127,7 @@ apogee of human tolerance. Money is more open-minded than language, state laws,
 cultural codes, religious beliefs and social habits. Money is the only trust
 system created by humans that can bridge almost any cultural gap, and that does
 not discriminate on the basis of religion, gender, race, age or sexual
-orientation. Thanks to money, even people who don’t know each other and don’t
+orientation. Thanks to money, even people who don't know each other and don't
 trust each other can nevertheless cooperate effectively.
 
 When everything is convertible, and when trust depends on anonymous coins and
@@ -470,7 +470,7 @@ In laboratories throughout the world, scientists are engineering living beings.
 
 It’s unclear whether bioengineering could really resurrect the Neanderthals, but
 it would very likely bring down the curtain on Homo sapiens. Tinkering with our
-genes won’t necessarily kill us. But we might fiddle with Homo sapiens to such
+genes won't necessarily kill us. But we might fiddle with Homo sapiens to such
 an extent that we would no longer be Homo sapiens.
 
 Throughout history, the upper classes always claimed to be smarter, stronger and

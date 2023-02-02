@@ -38,7 +38,7 @@ tick off to see if most of your requirements are met.
 
 8. **Commuting**  
 
- Is it easy to travel to work, town, Uni etc? If you don’t have a car, are the transport links good? Do you have a bus stop or train station nearby?
+ Is it easy to travel to work, town, Uni etc? If you don't have a car, are the transport links good? Do you have a bus stop or train station nearby?
 
 9. **Local shops**  
 

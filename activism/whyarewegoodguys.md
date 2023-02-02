@@ -41,7 +41,7 @@ doublethink is impressive.
 The depiction of reality presented in this book is such a disturbing notion that
 many would rather reject it outright than question the patriotic propaganda we
 are fed daily by the media. But then George Orwell once wrote, ‘If liberty means
-anything at all, it means the right the tell people what they don’t want to
+anything at all, it means the right the tell people what they don't want to
 hear.’
 
 This is all part of a bigger picture of the West’s role in condoning and
@@ -98,8 +98,8 @@ London.
 
 Rageh Omarr reported on the war for BBC News from Baghdad, where he described
 the arrival of the invading troops as ‘a liberation.’ In 2010, four years after
-he left the BBC, he told John Pilger: “I didn’t really do my job properly. I’d
-hold my hand up and say that one didn’t press the most uncomfortable buttons
+he left the BBC, he told John Pilger: “I didn't really do my job properly. I’d
+hold my hand up and say that one didn't press the most uncomfortable buttons
 hard enough.” With admirable frankness, he described BBC news coverage as ‘a
 giant echo chamber’ for military propaganda.
 
@@ -144,7 +144,7 @@ disguises it assumes.’
 
 Fear of genuine democracy, at home and abroad, is a familiar theme in
 establishment circles everywhere. Sometimes it slips out into the open. In the
-year after the Iraq invasion, Tony Blair said bluntly; “We can’t end up having
+year after the Iraq invasion, Tony Blair said bluntly; “We can't end up having
 public inquiry into whether the war was right or wrong. That is something we
 have to decide. We are the politicians.”
 

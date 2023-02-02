@@ -79,6 +79,3 @@ grateful." J.M. from Banbury
 
 "Many thanks, I have had a great response and will be using this method again
 when needed" L.A. from Bracknell
-
-![Just rent a room](/media/images/justrentaroom-picturehouses.jpg)
-

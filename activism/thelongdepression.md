@@ -51,9 +51,9 @@ It is foolish to think that the currency of the world’s largest economic block
 can chaotically break apart with anything other than a calamitous impact on the
 financial markets and global trade.
 
-There have been many telling criticisms of GDP. It doesn’t measure quality very
+There have been many telling criticisms of GDP. It doesn't measure quality very
 well: the mobile phone you buy today for £50 for example is a lot better than
-the one you paid the same money for five years ago. It doesn’t capture all the
+the one you paid the same money for five years ago. It doesn't capture all the
 unpaid work that parents and other carers do. It pays no attention to the
 environment, or to how satisfied we are with our lives. Those are all perfectly
 reasonable criticisms. But perhaps the most telling is that it pays no attention
@@ -86,7 +86,7 @@ like that will happen sometime between 2015 and 2020, but it could well be
 sooner.
 
 The journey to a new monetary system is likely to be long and painful. There is
-no simple alternative, and yet what we have now clearly isn’t working. Once a
+no simple alternative, and yet what we have now clearly isn't working. Once a
 new system is agreed, the global economy will have a new anchor. It will be more
 stable, and should be able to start growing faster again. But it may take a
 decade or more to get there. [\*](#ASIN:B006JY45ZC;LOC:922)
@@ -99,7 +99,7 @@ The euro will be gone by 2015. A new global reserve currency to replace the
 dollar will have emerged by 2020. And the debt crisis will have been resolved by
 2030.
 
-As the euro descends into chaos, don’t be surprised if vicious, extremist
+As the euro descends into chaos, don't be surprised if vicious, extremist
 conspiracy theories, which are such a large part of the continent’s past, come
 back to the fore.
 

@@ -88,7 +88,7 @@ cheaply looks like a mystery (but is in fact explained simply by the corporate
 capture of tax lawmaking).
 
 The cost of this capitulation will of course be passed on to other taxpayers,
-both individuals and the small businesses that can’t afford the lawyers and
+both individuals and the small businesses that can't afford the lawyers and
 accountants to run offshore outposts. By massively reducing their tax bills,
 large companies will win yet another competitive advantage over the smaller
 enterprises that ought to be the engine of economic recovery.
@@ -215,7 +215,7 @@ finance to a level that dwarfs productive industry, creating the conditions for
 the 2008 financial crisis.
 
 ‘Any commonsense person would say that a highly paid private equity executive
-paying less tax than a cleaning lady or other low-paid workers can’t be right,’
+paying less tax than a cleaning lady or other low-paid workers can't be right,’
 admitted chairman of the SVG private equity group, Nicholas Ferguson, in June
 2007.
 
@@ -283,7 +283,7 @@ wanted them applied, not as parliament had decided they should be.
 
 \*\*\*
 
-It doesn’t take a degree in constitutional theory to appreciate that parliament
+It doesn't take a degree in constitutional theory to appreciate that parliament
 makes laws and the executive arms of government, such as HM Revenue and Customs,
 implement them. But this centuries-old principle came under severe strain
 towards the end of the twenty-first century’s first decade through the corporate
@@ -338,7 +338,7 @@ Treasury estimated.
 It would now be straightforward for a company to fund its overseas operations by
 borrowing in the UK, generating tax-deductible interest expenses to reduce its
 taxable profits here, while ensuring that the profits from using this money
-aren’t taxed here – or anywhere else for that matter.
+aren't taxed here – or anywhere else for that matter.
 [\*](#ASIN:B00BEUR7OW;LOC:3019)
 
 One well-informed tax specialist blogged, under the heading ‘Corporate tax
@@ -354,7 +354,7 @@ avoidance.
 
 Chancellor Osborne and his junior minister David Gauke could ease the offshore
 tax rules to the point that Britain would become a corporate tax haven where
-contrived avoidance schemes aren’t needed anyway.
+contrived avoidance schemes aren't needed anyway.
 
 And when it came to piloting their new rules through parliament in the 2011 and
 2012 Finance Bills, there was never going to be any meaningful scrutiny as the
@@ -363,7 +363,7 @@ the accountancy firm probably standing to gain most from advising on the
 offshore opportunities opened up.
 
 The implications go beyond immediate tax loss. Tax breaks available only to the
-largest multinationals hamper the competiveness of smaller ones that can’t cut
+largest multinationals hamper the competiveness of smaller ones that can't cut
 their tax bills with an offshore finance company or by shifting their brand
 names into a tax haven. What’s more, tax concessions for diverting profits into
 tax havens will take jobs out of the country.
@@ -376,7 +376,7 @@ By 2012, the richest multinational corporations had put themselves beyond what
 was officially considered tax avoidance. Writing their own laws, they had
 created the offshore opportunities to reduce their tax bills way below headline
 rates, but now with a parliamentary seal of approval. And if parliament
-approves, on the official definition it can’t be tax avoidance.
+approves, on the official definition it can't be tax avoidance.
 
 Big business, tax avoidance advisers, and the government they had captured had
 got what they wanted: Britain, the premier twenty-first-century tax haven for
@@ -391,7 +391,7 @@ to the feral financial classes who were looting the economy of billions.
 
 The British government remains content to feed the PFI industry contracts that
 will cost public service budgets over £250bn on the understanding that it would
-make a commensurate tax contribution. When it was shown that this simply doesn’t
+make a commensurate tax contribution. When it was shown that this simply doesn't
 happen, the government looked the other way. It accepted public services as tax
 avoidance schemes.
 
@@ -432,7 +432,7 @@ significant.
 
 Like many others, Shell was happy to fill my inbox with claims of corporate
 social responsibility, but not hard facts and figures about tax arrangements.
-And I couldn’t help feeling that, by paying no corporate tax but doing some good
+And I couldn't help feeling that, by paying no corporate tax but doing some good
 deeds, the world’s second biggest company was saying politely but firmly: ‘We’ll
 decide how we contribute to the societies we operate in, thank you very much,
 not their elected governments.
@@ -472,7 +472,7 @@ pounds off their tax bill without finding a loophole or even getting a cosy
 deal. They just follow the very laws they themselves drafted.
 
 The capture of tax administration by the tax avoidance industry has been
-exposed, too. But it certainly hasn’t been remedied. Too much tax law remains at
+exposed, too. But it certainly hasn't been remedied. Too much tax law remains at
 the service of tax avoidance. If the British tax system is ever to be fair, if
 we really are all to be in it together, the scandals of recent years must
 translate into radical action.

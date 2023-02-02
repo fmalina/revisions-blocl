@@ -133,7 +133,7 @@ Uranium became a resource with technological advances in nuclear physics, and
 people become resources when they are forced to sell their labour on the market
 in order to survive.
 
-If we ‘urban renew’, we merely move the poverty around; if we don’t, we merely
+If we ‘urban renew’, we merely move the poverty around; if we don't, we merely
 sit by and watch decay.
 
 Although all serious analysts concede the seriousness of the ghetto problem, few

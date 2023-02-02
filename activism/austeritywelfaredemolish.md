@@ -244,7 +244,7 @@ hammer to it.
 Someone who finds themselves unemployed today must work up to 30 hours a week,
 for up to six months at a time, stacking shelves for Tesco or Poundland simply
 to receive as little as the £53 per week to which they are already entitled as
-part of Britain’s social contract.4 In addition, Tesco isn’t paying the £53; the
+part of Britain’s social contract.4 In addition, Tesco isn't paying the £53; the
 public are, through their taxes.
 
 The UK developed its social housing policy as part of the post-War move to
@@ -338,7 +338,7 @@ Austerity.
 
 The elderly have now joined the ranks of the sick, the disabled, the young and
 the unemployed as a ‘problem’ demographic for our government. Essentially,
-anyone who isn’t in full-time work and earning a taxable income is considered a
+anyone who isn't in full-time work and earning a taxable income is considered a
 burden – a drain on the system in these times of Austerity.
 
 This entire line of argument is simply absurd. Our economy needs to fit the
@@ -502,7 +502,7 @@ economic policies.
 
 In the UK today, corporate criminals receive greater dismissal payments than
 regular working people who have been mistreated by their employers. But it
-doesn’t stop there.
+doesn't stop there.
 
 The net result of three decades of so-called ‘liberalization’ of employment
 protections has been a devastating reduction in wages. Increased access to

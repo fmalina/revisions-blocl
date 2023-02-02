@@ -28,7 +28,7 @@ sometimes shy away from thinking about such things.
 Economics is not actually about numbers. Economics is about human behaviour too.
 
 “In evaluating people you look for three qualities: integrity, intelligence and
-energy. And if you don’t have the first the other two will kill you.”
+energy. And if you don't have the first the other two will kill you.”
 
 Still, there are always those who long to “check out” of the world economy. This
 instinct underpins all those who rail against globalisation and the market
@@ -67,9 +67,9 @@ political question.
 But, in the end, managing the risks in the markets cannot be devolved to some
 third party, like the state, who can make the future safe. Risk and opportunity
 are our own responsibility. This is an uncomfortable thought and a lot of people
-won’t like it.
+won't like it.
 
-The Queen asked, “Why didn’t anybody see it coming?” in 2007. The answer is,
+The Queen asked, “Why didn't anybody see it coming?” in 2007. The answer is,
 they did. The most popular topic of discussion that year was the imminent
 disaster in the credit markets. Most of my clients spent hours hypothesising
 about how the inevitable would play out and indeed how to profit from the coming
@@ -111,7 +111,7 @@ divulge stories makes you a target. In general, targets get bad press and
 sources get good press.
 
 Policymakers and politicians know that they have the power to deny access to the
-media. So, those who write stories that policymakers don’t like find that they
+media. So, those who write stories that policymakers don't like find that they
 cannot get a meeting.
 
 When you think about it, the purpose of the news is not to educate the public.
@@ -152,7 +152,7 @@ Democracies and modern forms of government tend to promise that you will be
 given something valuable in exchange for your tax payment.
 
 But, when governments ask for too much of the citizen’s hard earned cash, and
-don’t deliver on their promises, protests arise. There are always signals that
+don't deliver on their promises, protests arise. There are always signals that
 such events are unfolding.
 
 The current state of the world economy is causing social contracts around the
@@ -212,7 +212,7 @@ Someone has to pay for the loss. The social contract has to break. The only
 question is who will bear the loss and the pain? This depends on how the debt
 will be defaulted upon and therefore how the social contract will be broken.
 
-It is hard for people to understand the debt problem because many don’t realise
+It is hard for people to understand the debt problem because many don't realise
 they have borrowed any money.
 
 Therefore, it is hard to be surprised that people are surprised by the magnitude
@@ -270,7 +270,7 @@ greater sway.
 There are those in Brussels and European capitals who believe that the old
 social contract may have evolved around democracy, but the new social contract
 in Europe may have to be imposed on the people. After all, according to these
-elites, the public doesn’t know that this is in their best interest.
+elites, the public doesn't know that this is in their best interest.
 
 The social contract is also being renegotiated in Britain. The government has
 chosen to rely on lower interest rates, devaluation of the currency, and
@@ -287,7 +287,7 @@ social contract beats the one they have at home.
 
 All over the world, as the social contract breaks or changes, the public begins
 to ask that simple question. “Why is the state making decisions about how to
-distribute wealth and power in my society in ways that don’t benefit me?” This
+distribute wealth and power in my society in ways that don't benefit me?” This
 pits the government against the citizens and the citizens against each other,
 which is something that will affect everyone.
 
@@ -306,7 +306,7 @@ It is going to generate conflicts. It is in these ways that the world economy
 transforms the peace dividend into a conflict premium.
 
 China and Russia and every other nation is now propelled into a fight for assets
-by economic forces. When there isn’t enough cash to go around and the value of
+by economic forces. When there isn't enough cash to go around and the value of
 these assets is rising every day, it is not surprising to see nations pursue
 control over commodities and assets with ever more vigor.
 

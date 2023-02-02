@@ -68,7 +68,7 @@ be Alan Sugar or Bill Gates…The Selfish Capitalist toxins that are most
 poisonous to well-being are the systematic encouragement of the ideas that
 material affluence is the key to fulfilment, that only the affluent are winners
 and that access to the top is open to anyone willing to work hard enough,
-regardless of their family, ethical or social background – if you don’t succeed
+regardless of their family, ethical or social background – if you don't succeed
 there is only one person to blame.
 
 Initially, it might appear to be a mystery that bureaucratic measures should

@@ -11,7 +11,7 @@ Though we’re assured our status quo offers equal opportunity to all, the reali
 is our status quo exists to protect  the privileges of the few at the expense of
 the many.
 
-Why can’t our status quo be reformed? There are two primary reasons: 1) those
+Why can't our status quo be reformed? There are two primary reasons: 1) those
 benefiting from the current arrangement  will resist any reforms that threaten
 their share of the pie—and 2) reforms that actually address the structural
 flaws will bring the system down.
@@ -107,7 +107,7 @@ no longer make financial sense.
 The current era of low energy costs will end, as demand soars when prices are
 low and expanding production depletes  what is left of the cheap-to-access oil.
 
-Central banks can print limitless sums of money, but they can’t print limitless
+Central banks can print limitless sums of money, but they can't print limitless
 amounts of energy, phosphate,  lithium, wild fish, etc.
 
 The status quo model that makes expanding consumption the foundation of
@@ -232,7 +232,7 @@ which flows only to private banks and  financiers.
 
 All the income-producing assets end up in the hands of the wealthy.
 
-If we don’t change the way we create and distribute money, we change nothing.
+If we don't change the way we create and distribute money, we change nothing.
 
 None of the existing money systems address the root causes of inequality and
 poverty. This is because money is  considered to be apolitical.
@@ -254,13 +254,13 @@ distribute money away from them.
 \*\*\*
 
 The status quo has two solutions for every problem: the market and the state.
-Whatever the market can’t fix, the  state can fix.  These are the only
+Whatever the market can't fix, the  state can fix.  These are the only
 recognized systems and the only recognized solutions.
 
 Attempting to solve every problem with the market and the state destroys the
 planet and the economy.
 
-Since the status quo doesn’t measure life-cycle costs, the future value of
+Since the status quo doesn't measure life-cycle costs, the future value of
 what’s been destroyed to reap short-term  profits, well-being or sustainability,
 the result is a destructive tyranny of maximizing profit today.
 
@@ -398,7 +398,7 @@ human existence to a  speculative drive for private gain.
 No sense can be made of anything except as the workings of a speculative market
 that places a premium on maximizing  private gain.
 
-Neoliberalism doesn’t simply make room for markets; the end-point of this system
+Neoliberalism doesn't simply make room for markets; the end-point of this system
 is concentrated wealth and power  that rigs the market to benefit the few at the
 expense of the many.
 

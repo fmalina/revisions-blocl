@@ -6,15 +6,13 @@ harder thanks to the government banning large stores from displaying cigarettes,
 just how are landlords and tenants getting on with the ‘smoke or not to smoke’
 debate?
 
-![Landlords say no smoking](/media/images/passive-smoking-image.jpg)
-
 From recent research we carried out the situation can only be
 described as ‘fuming’ for tenants as growing numbers of landlords ban those who
 smoke. In 2010 31% of members would tolerate a smoking tenant, a figure which
 has dropped to just 18% today from 15,174 landlord adverts surveyed. With 80,000
 smoking-related deaths annually, the government’s campaign seems finally to be
-taking effect but views are polarised between landlords who won’t allow smoking
-and tenants who can’t give up cigarettes but who don’t want it to affect their
+taking effect but views are polarised between landlords who won't allow smoking
+and tenants who can't give up cigarettes but who don't want it to affect their
 chances of finding somewhere to live.
 
 ### Cigarette burns
@@ -41,7 +39,7 @@ yet Angie who rents a two-bedroom flat in Rusholme finds her health and her
 sanity affected by smokers despite her own flat being a smoke-free zone: “The
 landlord next door doesn't allow smoking so his tenants smoke outside on the
 balcony which is right next to my bedroom. As well as smoke drifting in through
-my windows they chat and laugh late into the night, so I can’t sleep. It’s
+my windows they chat and laugh late into the night, so I can't sleep. It’s
 driving me mad!”
 
 With flat sharing being massively popular in these cash strapped times then
@@ -50,4 +48,4 @@ thing says Flatshare website advising smokers to carefully read their tenancy
 agreements, not to inflict passive smoking on their long-suffering flatmates
 and, if they must indulge themselves, advises donning an extra pair of long
 johns and heading outside: “Just have a smoke outside the back door but dispose
-of your cigarette butt properly. Don’t get temped to flick it in the garden!”
+of your cigarette butt properly. Don't get temped to flick it in the garden!”

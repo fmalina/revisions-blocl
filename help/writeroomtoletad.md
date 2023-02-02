@@ -5,13 +5,13 @@ Writing your room to let advert
 
 Your advert needs to give the potential tenants a good initial insight into the
 room and the property. Short description like “got three rooms available, 2
-singles, 1 double near Liverpool city centre” won’t get the effect you need.
+singles, 1 double near Liverpool city centre” won't get the effect you need.
 
 Giving good information at this point and being enthusiastic about what you’re
 offering will get you the best calibre of tenants viewing your property.
 
 * **Adding photos** will give tenants a good insight if the property is right for them and will ultimately get your rooms rented. Some photo tips:
-	+ Take pictures in good daylight and turn on lighting to get the best clear photos. Don’t take photos at nighttime as these tend to come out a lot worse with bad lighting.
+	+ Take pictures in good daylight and turn on lighting to get the best clear photos. Don't take photos at nighttime as these tend to come out a lot worse with bad lighting.
 	+ Keep curtains and blinds open to let the daylight in.
 	+ Give the room and house a tidy and remove clutter before taking photos.
 	+ Shoot multiple pictures of your property and choose the pictures that show your property off the best.
@@ -46,7 +46,7 @@ more inspiration check out adverts similar to yours.
  Are you near bus routes, near the train station etc.?
 
 * **Do you have any pets?**
- If so what, you don’t have to mention molly the goldfish, but definitely mention any other pets.
+ If so what, you don't have to mention molly the goldfish, but definitely mention any other pets.
 
 * **Socialising**
  Do you like to chat, or maybe want to go for a drink with your future flatmates?

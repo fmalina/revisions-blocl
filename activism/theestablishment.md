@@ -105,7 +105,7 @@ its own accord, but because it has been removed by a movement with a credible
 alternative that inspires. For those of us who want a different sort of society,
 it is surely time to get our act together.
 
-We don’t really know who or what ‘the Establishment’ is, or what it looks like –
+We don't really know who or what ‘the Establishment’ is, or what it looks like –
 which suits its members rather well.
 
 ‘The Establishment’ is a term that is often loosely used to mean ‘those with
@@ -280,7 +280,7 @@ national political conversation is kept relentlessly on the terms favourable to
 those with wealth and power.
 
 Politicians are clearly in awe of the impact their policies have had on people’s
-ability to get filthy rich – and they couldn’t miss the contrast with their own
+ability to get filthy rich – and they couldn't miss the contrast with their own
 pay cheques. The ‘because I’m worth it’ mentality.
 
 It is hardly stretching a point to say that many MPs now see their role not as a
@@ -664,7 +664,7 @@ there were 20,000 fewer nurses than the NHS needed, while the service was
 expected to find £20 billion of so-called ‘efficiency savings’ by 2015.
 
 None of this is accident: it is design. The NHS has been left in the grip of
-free-market ideologues.If it doesn’t generate profit, it doesn’t want to know.
+free-market ideologues.If it doesn't generate profit, it doesn't want to know.
 The market literally wants to make money, profit, that’s their philosophy,
 simple as that. It will end with a two-tier health-care system.
 

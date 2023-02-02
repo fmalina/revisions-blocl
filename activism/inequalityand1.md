@@ -23,7 +23,7 @@ The British top 1 per cent last secured a share of UK national income as large
 as they do today back in 1937.
 
 It is because of the growing divide between the 1 per cent and the 99 per cent
-that those at the bottom of the 1 per cent don’t often look down. A financial
+that those at the bottom of the 1 per cent don't often look down. A financial
 chasm is opening up between them and the best-off of the rest – the best-off of
 the 99 per cent.
 
@@ -302,7 +302,7 @@ of markets. And the UK’s banks are still by far the most indebted in Europe. S
 much for paying the most to get the best.
 
 The greedy used the crash to become richer, to buy assets cheaply, and to make
-new profits out of others’ impoverishment. But it doesn’t have to be this way.
+new profits out of others’ impoverishment. But it doesn't have to be this way.
 
 Increasingly, the rich feel that they are entitled to as much as they can
 possibly get away with – that they are entitled to say outrageous things and

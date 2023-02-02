@@ -9,7 +9,7 @@ make things better where they live, and what they use to do so, despite the
 challenges they face.
 
 There’s power because you’ve got a lot of money and there’s power because you
-have a lot of people. And we don’t have a lot of money in this neighbourhood but
+have a lot of people. And we don't have a lot of money in this neighbourhood but
 we do have a lot of people – they’re just not organised to be powerful....yet!
 
 If you let institutions grow, become big and powerful through time, then these
@@ -38,8 +38,8 @@ system, the hospital system - is now out of their control and is controlled by
 people who understand systems and making money.
 
 The progressives, the institutional reformers are the final defenders of keeping
-what doesn’t work going – or as Mike Green would say, “They’ve never figured out
-that doing more of what doesn’t work won’t finally work.”
+what doesn't work going – or as Mike Green would say, “They’ve never figured out
+that doing more of what doesn't work won't finally work.”
 
 You never make a plan, because that in itself will stop you. Those in power –
 officials, professionals, unions, will learn what you’re going to do when they
@@ -84,7 +84,7 @@ The people of Greece have dissented en masse against a centralised global
 economic system that has hyper-accelerated worldwide corporate economic growth
 at the expense of the world’s poorest populations and the planet.
 
-Perhaps we don’t need more start-ups; we need more upstarts, heretics and
+Perhaps we don't need more start-ups; we need more upstarts, heretics and
 genuine radicals.
 
 Perhaps the Left thinks the Right is wrong, and the Right thinks the Left is

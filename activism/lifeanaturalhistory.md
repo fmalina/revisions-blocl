@@ -90,7 +90,7 @@ abolition of slavery: the prevention of irreversible losses of planetary
 capacity to support life.  The arguments against the abolition of slavery that
 were proffered in the Houses of Parliament at the end of the eighteenth century
 are almost exactly the same as the arguments put forward today about why our
-economy can’t move away from fossil fuels to renewable energy, provide
+economy can't move away from fossil fuels to renewable energy, provide
 living-wage jobs for all, or defend the skies, forests and water. If we are to
 survive, every citizen must be enlisted to accomplish this task and that will
 not be possible unless we cease the worldwide war on the poor and mark a road to
@@ -103,7 +103,7 @@ history…Two days later in the New York Times, Patrick Tyler wrote that the
 demonstrations were “reminders that there still may be two superpowers on the
 planet:  United States and world public opinion.”
 
-What would a democracy look like that wasn’t ruled by a dominant minority?  What
+What would a democracy look like that wasn't ruled by a dominant minority?  What
 would a world feel line that created solutions to our problems from the ground
 up…What if some very basic values are being reinstalled worldwide and are
 fostering complex social webs of meaning that represent the future of
@@ -121,7 +121,7 @@ abandoned to fend for itself.
 
 Before Silent Spring, corporations were attacked by reformers and social critics
 primarily for their rapaciousness and inhuman working conditions. In Carson they
-were faced with softly spoken critic who alleged that their products shouldn’t
+were faced with softly spoken critic who alleged that their products shouldn't
 be made at all… For the first time, modern industry had been outflanked by an
 environmentalist.  Shocked and infuriated it reacted with condemnation, assaults
 and mockery.  Food giants…the pest control industry, agribusiness, chemical
@@ -211,7 +211,7 @@ who have not forgotten the land.
 Extinction of species and cultures is driven by globalisation, the pursuit of
 progress through resource extraction and economic expansion…Native people have
 remarked that, of the many promises made by white men, the only one they kept
-was the vow to take their land. But invaders haven’t succeeded in taking it all
+was the vow to take their land. But invaders haven't succeeded in taking it all
 and today approximately five thousand indigenous cultures are seeking to protect
 their homelands, which constitute one-fifth of the land surfaces on earth.  In
 many cases these are the least corrupted forests, mountains and grasslands
@@ -233,7 +233,7 @@ democracies, where no one person has all or much power…Computers, cell-phones,
 broadband and the Internet have created perfect conditions for the margins to
 unify.
 
-Large organisations don’t need networks; small ones thrive on them…At the heart
+Large organisations don't need networks; small ones thrive on them…At the heart
 of all this is not technology but relationships, tens of millions of people
 working towards restoration and social justice.
 

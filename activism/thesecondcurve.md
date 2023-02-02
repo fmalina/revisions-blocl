@@ -154,7 +154,7 @@ wealth and work are as fairly distributed as they should be, whether the
 single-minded pursuit of wealth is not only leaching our societies but also
 putting power beyond the reach of the people and their politicians.
 
-Perhaps the real problem is that too many people don’t think that much about it,
+Perhaps the real problem is that too many people don't think that much about it,
 that they just assume it is the way it was ordained to be – just like slavery of
 old.
 

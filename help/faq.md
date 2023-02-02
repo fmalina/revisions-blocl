@@ -21,17 +21,17 @@ multiple adverts. 3 of your last updated adverts will also be featured.
 When signing up or updating your profile enter your company name in the first
 name field and a fullstop "." for last name.
 
-My photos won’t upload
+My photos won't upload
 ----------------------
 Only JPEG/JPG, PNG and GIF images will go through.
 
-**The browser is stuck for a long time:** Be patient and don’t close the browser
+**The browser is stuck for a long time:** Be patient and don't close the browser
 window while it’s "stuck", it’s actually uploading in the background. It does
 take a while as your upload speed is usually much slower than the download
 speed. If you get a good web browser, you will enjoy better upload experience on
 our site.
 
-Plus members: If you are on a device that can’t upload, you can email images to
+Plus members: If you are on a device that can't upload, you can email images to
 **hi@blocl.com** from the email address you signed up with. Support staff
 check it for email spoofing, upload images on your latest advert and send you a
 confirmation.
@@ -53,7 +53,7 @@ They type a message in the message box on your advert, or give you call or text
 if you are a premium member.
 
 Sending a message will also signup users to receive replies if needed. If they
-didn’t do so already, they are asked to post an advert for you to check out and
+didn't do so already, they are asked to post an advert for you to check out and
 offered a premium membership.
 
 If you see a sender with an empty profile, they are still probably working on
@@ -67,11 +67,11 @@ still put it back on, if needed again. When your add is off, you can also delete
 it for good. This will obliterate your ad, any related messages and pictures
 completely from the system. Yay!
 
-I put my advert in my town, but I can’t find it if I use the search filter
+I put my advert in my town, but I can't find it if I use the search filter
 ----------------------------------------------------------------------------
 Often saving the advert again or turning it off and back on will clear out
 issues, plus it will put you back on top of search results in your town and
-county. Don’t leave your maximum age as 99 years, unless off course you or
+county. Don't leave your maximum age as 99 years, unless off course you or
 someone in your group is that age :). It is encouraged to leave the top age high
 and welcoming in the preferences though.
 
@@ -90,7 +90,7 @@ the case. Tenants can state more areas in their description.
 I forgot my password/username. Help!
 ------------------------------------
 If you cannot remember your password, [send yourself a link to set a new
-one](/account/password/reset/). If it doesn’t work, contact us stating your
+one](/accounts/password/reset/). If it doesn't work, contact us stating your
 name, full surname, correct email (double check) and any other email addresses
 you might have used. We’ll get you sorted.
 
@@ -99,10 +99,10 @@ How do I get more responses?
 We advertise the site heavily and cleverly, getting you the enquiries you need
 or a place you want.
 
-1. Improve your advert. Upload at least 1 or more pictures. This will give users a better idea of you or your property, so they don’t shy away contacting you.
+1. Improve your advert. Upload at least 1 or more pictures. This will give users a better idea of you or your property, so they don't shy away contacting you.
 2. Consider [plus membership](/help/plus). This gives your ad the best exposure, keeping your ad at the top of search results and enables basic members to phone or text you.
 3. Check the site regularly, be proactive. This will keep your ad near the top of listings gaining you the best exposure.
-4. Actively look for rooms or tenants and contact them, don’t just expect them to fall on your lap.
+4. Actively look for rooms or tenants and contact them, don't just expect them to fall on your lap.
 
 How do I post more adverts?
 ---------------------------
@@ -127,7 +127,7 @@ correct position and **save**.
 Sometimes the aerial and street view imagery is out of date or not available at
 all. Keeping this data updated is up to the companies who deliver the service.
 
-I am new to flatsharing / foreigner / I don’t have experience renting. How do I get some professional advice?
+I am new to flatsharing / foreigner / I don't have experience renting. How do I get some professional advice?
 -------------------------------------------------------------------------------------------------------------
 We have a full advice centre covering over 40 subjects, just visit our [help section](/help).
 

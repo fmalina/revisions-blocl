@@ -20,7 +20,7 @@ Issues and disputes with your landlord
 --------------------------------------
 If you have any issues or disputes it’s always best to discuss these as soon as
 possible to help resolve the problem. i.e.: If your rent is due on Monday and
-you don’t have the money till Friday, then tell the landlord beforehand. Don’t
+you don't have the money till Friday, then tell the landlord beforehand. Don't
 stay quiet and have the landlord ring you asking where's the money.
 
 If issues are more serious than have another conversation and if there is no

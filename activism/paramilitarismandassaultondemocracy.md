@@ -22,7 +22,7 @@ because at least with slavery you were  offered some fringe benefits, as far as
 housing. In this situation you are offered hard labour and that’s it. If  you
 get enough money to buy a machete so you can chop down a few trees and weave
 together a hut and pack mud on  the side of it, good for you. If not, tough
-luck. They don’t provide housing, they don’t provide food; they just  use them
+luck. They don't provide housing, they don't provide food; they just  use them
 for labour.
 
 This country is dying. It is running out for fresh water. Less than 2% of its

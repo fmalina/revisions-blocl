@@ -40,7 +40,7 @@ averaging around -30°C during the frigid polar nights of December.
 Scientists studying the event called it ‘unheard of’ and ‘super-extreme’ – but
 the following December it happened again.
 
-What happens in the Arctic doesn’t stay in the Arctic. By upsetting the energy
+What happens in the Arctic doesn't stay in the Arctic. By upsetting the energy
 balance of the planet we are changing the temperature gradient between the
 equator and the pole. This in turn sets in motion major reorganisations of the
 flow patterns of the atmosphere and ocean. The consequences are emerging and

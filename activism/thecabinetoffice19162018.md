@@ -1122,7 +1122,7 @@ Initially, he was very focused on delivering coalition policy and helping the
 coalition resolve its difficulties.
 
 ‘Heywood helped to create the conditions that allowed the government to last
-five years when the general belief was it wouldn’t last the course.’
+five years when the general belief was it wouldn't last the course.’
 
 In the run-up to the 2015 general election, the Cabinet Office engaged in
 preparatory work in the event of a hung parliament, as in 2010.

@@ -5,7 +5,7 @@ By **Noam Chomsky**
 
 ![](/bookimg/occupy.jpg)
 
-People are waking up to the fact that we won’t get the necessary change from
+People are waking up to the fact that we won't get the necessary change from
 someone else, from somewhere else, from corporate-financed politicians or simply
 by voting.
 
@@ -14,15 +14,15 @@ of the lemming. No one is going to do it for us. As the black feminist poet June
 Jordan said, “We are the ones we have been waiting for.”
 
 If you want to change the world in a constructive direction, you better try to
-understand it first. And understanding it doesn’t mean just listening to a talk
+understand it first. And understanding it doesn't mean just listening to a talk
 or reading a book, although that’s helpful sometimes. It means learning. And you
 learn through participation. You learn from others. You learn from the people
 you are trying to organize. And you have to gain the experience and
 understanding which will make it possible to maybe implement ideas like that as
-a tactic. But there is a long way to go, and you don’t get there by a flick of
+a tactic. But there is a long way to go, and you don't get there by a flick of
 the wrist. That happens by hard, long-term, dedicated work.
 
-People with power don’t give it up unless they have to. And that takes work.
+People with power don't give it up unless they have to. And that takes work.
 
 Primarily, I think this should be regarded as a response, the first major public
 response, in fact, to about thirty years of a really quite bitter class war that
@@ -50,7 +50,7 @@ the extent that they have been implemented everywhere; they have been harmful to
 the general population and beneficial to a very small sector. And that’s not
 accidental.
 
-These things don’t happen by the laws of nature or by principles of economics,
+These things don't happen by the laws of nature or by principles of economics,
 to the extent they exist. They’re choices. And they are choices made by the
 wealthy and powerful elements to create a society that answers to their needs.
 

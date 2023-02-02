@@ -43,11 +43,11 @@ Do I need to pay tax?
 The great news is, if you are an owner-occupier of the property where furnished
 rooms are being rented, then you can earn £4250 of rental income per annum tax
 free. That’s £354 a month and you automatically join the [rent a room
-scheme](/help/rentaroomscheme) and you don’t even have to tell the
+scheme](/help/rentaroomscheme) and you don't even have to tell the
 inland revenue about the rent, unless you receive a tax return over this amount
 or the rent is over £4250.
 
-If you don’t live in the property and you are letting the rooms, it would be
+If you don't live in the property and you are letting the rooms, it would be
 considered as a business and you would pay tax as normal by contacting your
 local tax office and completing a tax return and you would not join the rent a
 room scheme.
@@ -74,7 +74,7 @@ what to do with the deposit if you’re not an owner-occupier.
 
 Think safety
 ------------
-Remember that when choosing a lodger always be aware as you don’t fully know
+Remember that when choosing a lodger always be aware as you don't fully know
 them yet so keep any valuables such as handbags, wallets, personal information
 out of sight. Set up a password-protected accounts on your home computer.
 

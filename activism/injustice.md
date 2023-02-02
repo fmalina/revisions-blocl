@@ -79,7 +79,7 @@ towards the bottom.  Many losers are required to pay for (and service) every new
 winner high up at the top, and winners are expensive to support. 
 
 The homogenising myth of our times is that people fall to the bottom because
-they are undeserving, that they probably didn’t have the inherent ability to
+they are undeserving, that they probably didn't have the inherent ability to
 ever do much better than they did.
 
 Although the Conservatives in 1979 in Britain and the Republicans in 1980 in the
@@ -124,7 +124,7 @@ changed.
 
 Now the wider racism is much more enacted in boardrooms by businesspeople who
 consider their target groups of customers – as groups – as inferior, the kind of
-people (they say) you need to know in order to exploit, but you wouldn’t want to
+people (they say) you need to know in order to exploit, but you wouldn't want to
 live near or mix with.
 
 People are now trying to run businesses knowing they are increasingly despised

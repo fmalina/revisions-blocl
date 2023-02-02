@@ -156,7 +156,7 @@ on 9 August 2007 when the French bank BNP Paribas announced that it was
 stopping, temporarily, further redemptions from three of its funds that were
 invested in so-called asset-backed securities.
 
-From the start of the crisis, central banks provided emergency loans. It didn’t
+From the start of the crisis, central banks provided emergency loans. It didn't
 solve the underlying problem.
 
 The system staggered on for a year. But on 15 September the long-established
@@ -325,7 +325,7 @@ banking system safer.
 
 The strength of economics as a social science is the belief that people will
 attempt to behave rationally. The challenge is to work out how a rational person
-might cope with radical uncertainty. People aren’t dumb. It is just that in a
+might cope with radical uncertainty. People aren't dumb. It is just that in a
 world of radical uncertainty even smart people do not find it easy to know what
 it means to behave in a smart manner.
 

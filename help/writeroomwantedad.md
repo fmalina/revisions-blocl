@@ -1,6 +1,6 @@
 Writing your room wanted advert
 ===============================
-When registering we recommend you place a room wanted advert as landlords don’t
+When registering we recommend you place a room wanted advert as landlords don't
 just sit there waiting for e-mails or calls, they use our tenant database
 searching for tenants looking for rooms in their area.
 
@@ -43,7 +43,7 @@ Demo ad
 > and the area so if you have a good-sized room preferably en-suite, contact me.
 > 
 > I’m a normal guy, stay in quite a lot but go out for one good night once a
-> month, work different shifts, but I am very quiet, so I won’t disturb at night. I
+> month, work different shifts, but I am very quiet, so I won't disturb at night. I
 > definitely need wireless internet and a dryer would be handy. I have a car so
 > somewhere to park is essential. If you're an easy-going person looking for a
 > lodger I may have filled your vacancy. Give me a call or email.    Last one: I’m

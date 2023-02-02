@@ -13,7 +13,7 @@ In the poorest countries of the world, though, more than 10 per cent of children
 never make it to the age of five because of a lack of food and medicine.
 
 A central question of economics, then, is how societies overcome the worst
-effects of scarcity – and why some don’t do it nearly as rapidly.
+effects of scarcity – and why some don't do it nearly as rapidly.
 
 Meeting history’s economic thinkers in this book is a great starting point;
 their ideas show how wonderfully varied economists’ attempts have been.
@@ -21,7 +21,7 @@ their ideas show how wonderfully varied economists’ attempts have been.
 \*\*\*
 
 To stop global warming it’s not enough for us all to agree that it’s bad. That
-on its own won’t change our behaviour. To deal with the problem we need a dose
+on its own won't change our behaviour. To deal with the problem we need a dose
 of economics.
 
 William Nordhaus (b. 1941) considers the emission of carbon dioxide a special

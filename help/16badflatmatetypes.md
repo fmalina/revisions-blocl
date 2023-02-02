@@ -13,7 +13,7 @@ Have a look at our list, which one are you?
 ### 1. The Untidy One
 
 This is one of the most encountered and complained about type of flatmate. A lot
-of the time these flatmates won’t even realise they're being messy, leaving
+of the time these flatmates won't even realise they're being messy, leaving
 plates on the side or living room floor with dried up food on or not cleaning
 the bathroom is just normal to them. These manage to make a mess everywhere they
 go. Venturing in to their bedroom is a big no no.
@@ -92,7 +92,7 @@ feel bad to say no.
 It’s like blind date when they walk through the door, revealing their next
 conquest. Usually followed by ‘I'm just going to my room’. You’ll soon be
 shopping for a new pair of beats headphones. Some people in flatshares have a
-‘what's mine is yours and what’s yours is mine’ rule. This doesn’t apply here,
+‘what's mine is yours and what’s yours is mine’ rule. This doesn't apply here,
 dating another flatmate's girl is a big no no.
 
 ### 10. The Bathroom Hogger
@@ -137,7 +137,7 @@ some milk’.
 
 This flatmate will always like the stuff you have and will always be asking to
 borrow things to the point you feel bad and awkward asking for it back, hmm!! my
-dress didn’t have this ketchup stain the other day!!
+dress didn't have this ketchup stain the other day!!
 
 
 
@@ -168,7 +168,7 @@ night out, this flatmate will always find a reason to stay in and watch TV.
 
 You’re just stirring your cup of cocoa, then boom boom boom! Your flatmates
 stereo goes on to the only volume setting they know ‘Party’. As your night ends,
-theirs is just getting started. Don’t be surprised in the morning if
+theirs is just getting started. Don't be surprised in the morning if
 they're asleep on the landing with a box of pizza.
 
 
@@ -178,5 +178,5 @@ they're asleep on the landing with a box of pizza.
 The people we meet is what makes flatsharing fun, if we were all the same it
 would be pretty boring. If you do have any issues with another flatmate having a
 friendly word sooner rather than later can clear the air and bring you closer.
-Just don’t use a post-it note.
+Just don't use a post-it note.
 

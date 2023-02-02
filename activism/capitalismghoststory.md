@@ -16,7 +16,7 @@ According to the rules of the Gush-Up Gospel, the more you have, the more you
 can have. The era of the Privatization of Everything has made the Indian economy
 one of the fastest growing in the world.
 
-It’s a dream come true for businessmen—to be able to sell what they don’t have
+It’s a dream come true for businessmen—to be able to sell what they don't have
 to buy.
 
 In India the land of millions of people is being acquired and handed over to
@@ -65,7 +65,7 @@ confrontation, ushering them in the direction of multiculturalism, gender
 equity, community development—the discourse couched in the language of identity
 politics and human rights.
 
-This is not to suggest that human rights don’t matter. They do, but they are not
+This is not to suggest that human rights don't matter. They do, but they are not
 a good enough prism through which to view or remotely understand the great
 injustices in the world we live in.
 

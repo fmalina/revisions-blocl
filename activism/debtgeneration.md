@@ -6,15 +6,15 @@ By **David Malone**
 Most of the people we are bailing out are those who have long argued for massive
 cuts in public spending and welfare. They have not been able to achieve these
 goals through the ballet box, but now they will have achieved exactly what the
-want through economic blackmail. Bankers don’t need state schools: Their
-children go to private schools. Bankers don’t need the NHS: they go to private
-hospitals. Bankers don’t need social services: they have bonuses and enormous
+want through economic blackmail. Bankers don't need state schools: Their
+children go to private schools. Bankers don't need the NHS: they go to private
+hospitals. Bankers don't need social services: they have bonuses and enormous
 pensions to cover all that. 
 
 It was said that in the Great Depression the market was sacrificed to save the
 country.  Today we risk sacrificing the country to save the market.
 
-Our governments will make ordinary people pay because the politicians don’t have
+Our governments will make ordinary people pay because the politicians don't have
 the courage or understanding to tackle the underlying problems. What all our
 governments will be quite ready to do, though, is bring out the police to deal
 with any public dissent and unrest.
@@ -45,10 +45,10 @@ sellers, had sufficient capital to make good on their promises.  They knew.
 Everyone knew. Hell, even I knew.  Firms I could name had over $3billion insured
 with only $80million in capital (a ratio of 37.5/1).
 
-That wasn’t an accident. Many leading bankers lobbied Congress hard for the
+That wasn't an accident. Many leading bankers lobbied Congress hard for the
 relaxing of rules restricting leverage. The rules were relaxed, and that has
-been a major factor in this crisis. They didn’t break any law because they
-rewrote the laws so they didn’t have to. But they should be blamed.
+been a major factor in this crisis. They didn't break any law because they
+rewrote the laws so they didn't have to. But they should be blamed.
 
 So when the bubble burst they were the ones left holding all the worthless paper
 they had created.
@@ -131,7 +131,7 @@ Their so-called ‘free market’ has seized control and locked us in to a cours
 action in which democratise choice has been foreclosed.  The growing realization
 that this is what is happening will bring about increased anger. The smug
 reaction to anger is to label it ‘mindless’. The mindless anger of the ignorant
-who don’t understand the necessary steps taken by those who know better.  This
+who don't understand the necessary steps taken by those who know better.  This
 is the boiled down assumption of all our leaders, all the economic experts and
 most economic journalists. 
 
@@ -165,7 +165,7 @@ about the legitimacy of our governments.  The entire political class has been
 captured by the same old ideology.  They all…believe ‘the market’ is going to
 save us. No other solutions have even been allowed into the debate.
 
-We shouldn’t waste time arguing over which party is most to blame.  All the
+We shouldn't waste time arguing over which party is most to blame.  All the
 parties and the economists and the City boys all agreed, and they still do. In
 their minds the banks have to be bailed out and their losses made ours.  We were
 taken to war without discussion and on false pretences; the same has happened
@@ -173,11 +173,11 @@ with this financial crisis. So enough of who is to blame: they all were and are.
 
 Such a situation is entirely corrosive to the rule of law, and democracy itself,
 but it is the situation…we are already in. Democracy was hard to win, but it was
-very easy to take it away.  And it hasn’t been taken away by foreign powers or
+very easy to take it away.  And it hasn't been taken away by foreign powers or
 rabid terrorists; it was given away by political leaders too feeble to resist
 the influence and lure of the wealthy.
 
-What these simpletons don’t seem to realise is that they have given our money to
+What these simpletons don't seem to realise is that they have given our money to
 the wrong people.  In order for real growth and sustainable recovery to happen
 we need investment by investors. People who take money and invest it in some
 sort of wealth production. Investment creates jobs, which creates income, which
@@ -191,7 +191,7 @@ people takes time. If you invest in production, in machines and people, you need
 to wait to recoup that investment.  You need stability.
 
 Investment today, as far as the banks are concerned, is all about speculation. 
-To speculate you don’t need any real world stuff at all. It’s about betting on
+To speculate you don't need any real world stuff at all. It’s about betting on
 derivatives and credit default swaps and otherworldly stuff for rewards that are
 instantaneous. 
 
@@ -200,8 +200,8 @@ hoping for investment in jobs, in people and all the other trite political
 phrases. But…the people they gave our money to were speculators…whose addiction
 to risk and reward had let to the crisis in the fist place.
 
-These are the people our politicians have given all our money to…They don’t
-produce anything.  They don’t do anything of social use or value.  All they do
+These are the people our politicians have given all our money to…They don't
+produce anything.  They don't do anything of social use or value.  All they do
 is gamble with debt.  And these are the people our politicians look to for
 salvation?
 
@@ -210,7 +210,7 @@ overcrowded and rundown schools, suddenly the talk is of debt being
 unsustainable. Never a hint of less borrowing when any bank needs it. Only the
 cuts to compensate afterwards. That was always the plan. Save them at our cost.
 Now that the financial aristocracy have been protected is when we get to listen
-to our leaders telling us how ‘we’ can’t afford the help people who aren’t
+to our leaders telling us how ‘we’ can't afford the help people who aren't
 ‘systematically important’.  That’s us, ‘not systematically important’. 
 
 The most profitable game in town…is called Front-Run the Bailout and it has been
@@ -258,7 +258,7 @@ pensions, pen-pushing civil service bureaucrats, job-shy single mums, privileged
 middle-class students, obstructive trade unions, benefit scroungers, job
 stealing immigrants…We will set to fighting each other for the crumbs left on
 the floor?  Will the bankers and financial aristocracy fade from our minds? No
-thought that we shouldn’t have bailed out these parasites?  No thought that all
+thought that we shouldn't have bailed out these parasites?  No thought that all
 the political class, every man jack of them, has betrayed us?
 
 The only reason our borrowing is suddenly out of control and the only reason
@@ -278,7 +278,7 @@ have their pensions flayed in public. Bankers, on the other hand, are not even
 to have minimal over-sight of their bonuses…we are informed that if we want the
 bankers to work hard, we must not cut their lavish rewards.  We ordinary people,
 however, are told we must work harder for less money, less security and less
-hope for our children. People must lose their jobs.  Bankers, however, mustn’t
+hope for our children. People must lose their jobs.  Bankers, however, mustn't
 be upset by talk of regulations lest they all leave.
 
 What Marie-Antoinette would give to be alive now.
@@ -292,7 +292,7 @@ bother with such trifling niceties.
 (29 April 2010) It seems quite clear that we will not get sufficiently large or
 rapid enough growth to make any significant difference to our debt
 problems…That’s a bit problem for the politicians. The reality they will have to
-face…is that if growth doesn’t take place anything like the rate needed, then
+face…is that if growth doesn't take place anything like the rate needed, then
 the government of whatever party will have to cut spending and increase
 taxes…and unemployment will stay high…meaning any spending cuts will have to be
 even deeper.
@@ -311,7 +311,7 @@ regulation is the road to perdition.  In public they will attempt to dress
 themselves in the garb of national saviours. In private they will piss
 themselves laughing at us and our pathetic political leaders.
 
-And that won’t be all. If the government doesn’t follow their commands, they
+And that won't be all. If the government doesn't follow their commands, they
 will begin to act.  There will be pressure from the bond market about our debt.
 It will be pressure created on the bond market by investment banks and others
 speculating on the cost of insuring UK debt using credit default swaps. They
@@ -333,7 +333,7 @@ process that only we fully understand.’
 
 There can be no clearer statement of contempt for you as a thinking adult.
 
-There was no debate, and there still isn’t, because those in power would rather
+There was no debate, and there still isn't, because those in power would rather
 your children grew up without hope of a job, without hope of a career, without
 hope of a decent education or a national health service, as long as their
 financial system and their wealth remains.  They would rather all that than
@@ -372,7 +372,7 @@ service- is hacked down and the little left is subjected to the laws and logic
 of the market, where nothing is valued but profit.
 
 In my opinion democracy – when you have it – is about peaceful voting.  When you
-don’t have it, or when you are in danger of having it hollowed out so that what
+don't have it, or when you are in danger of having it hollowed out so that what
 remains severs only the rich and powerful, then it is time for standing up and
 confronting those who would deny you.  That time is now. Our political leaders,
 if we let them, will deliver us to the killing fields. A different leadership

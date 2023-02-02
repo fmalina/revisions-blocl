@@ -26,7 +26,7 @@ full truth about an individual’s life cannot be made public without crushing h
 or her autonomy.
 
 ‘If you’ve nothing to hide, you have nothing to fear,’ say authoritarians. But
-everyone has something to hide, and if there isn’t a dirty secret, there is
+everyone has something to hide, and if there isn't a dirty secret, there is
 always something that your enemies can twist to make you look dirty.
 
 When Catholic reactionaries accuse opponents of papal doctrine on contraception
@@ -81,7 +81,7 @@ an Islamist speaker after the English Defence League threatened to disrupt the
 meeting. Maybe I should not make too much of an isolated event, but the white
 extreme right could not have failed to have noticed that the habit of agreeing
 to the demands of menacing men had become ingrained in cultural bureaucrats.
-Religious radicals could dictate who spoke and wrote, so why shouldn’t they do
+Religious radicals could dictate who spoke and wrote, so why shouldn't they do
 the same?
 
 The first principle of liberalism, a principle that predates the Enlightenment,

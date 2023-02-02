@@ -39,7 +39,7 @@ the account involved in fraud... We found the banks protective of their
 fraudster customer and uncooperative, but at one instance managed to score 30+
 missed calls from the scammer and waisted a couple of days of their time. That’s
 good, while they waste their time providing ridiculous proofs of identity for
-us, they can’t harm anyone else, plus banks and owners of those stolen cards
+us, they can't harm anyone else, plus banks and owners of those stolen cards
 have more time to block them.
 
 Leave us feedback below and share your scam baiting trophies.

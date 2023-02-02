@@ -33,7 +33,7 @@ Janet Yellen, who followed Bernanke as Fed chair, maintained his radical
 policies with gusto. Yellen was even more married to the Keynesian model of
 economic growth than Bernanke.
 
-But real people haven’t responded the way academics anticipated in their
+But real people haven't responded the way academics anticipated in their
 wealth-effect models.
 
 By mid-2015, only 62.6 percent of adult workers were employed or actively
@@ -57,7 +57,7 @@ I wrote this book to tell from the inside the story of how the Fed went from
 being lender of last resort to savior - and then destroyer - of America’s
 economic system.
 
-I witnessed the tunnel vision and arrogance of Fed academics who can’t
+I witnessed the tunnel vision and arrogance of Fed academics who can't
 understand that their theoretical models bear little resemblance to real life.
 
 People are waking up. And it’s about time.
@@ -77,7 +77,7 @@ profits go straight to Treasury.
 All those bonds pay interest. In 2015, it posted record earnings of $97.7
 billion. But its expenses are borne by the taxpayer.
 
-Didn’t Bernanke see that the era of deregulation, with the fall of the last
+Didn't Bernanke see that the era of deregulation, with the fall of the last
 remnants of the Glass-Steagall Act of 1933, had let Pandora out of her box? Did
 he not know that Pandora was now a wild alcoholic thanks to Greenspan lowering
 interest rates from 6.5 percent to 1 percent?
@@ -175,13 +175,13 @@ and home builders who unwittingly would contribute to the coming disaster. Heck,
 all she had to do was read the newspapers.
 
 Though precious few inside the Fed saw the crisis coming, it is patently false
-to suggest insiders hadn’t been fairly warned.
+to suggest insiders hadn't been fairly warned.
 
 Transcripts from FOMC meetings in 2008 reveal that the Fed misjudged the depth
 and severity of the evolving crisis at almost every turn.
 
 Bear Stearns had gotten greedy, but the underlying conditions that allowed it to
-grow so spectacularly and fall so hard wouldn’t have existed if Greenspan had
+grow so spectacularly and fall so hard wouldn't have existed if Greenspan had
 the spine to stand up to Wall Street beginning in 1987.
 
 The Bear rescue also marked the beginning of the unraveling of the Fed’s
@@ -278,7 +278,7 @@ have been no Lehman failure.
 It is doubtful the average American household comprehends how manipulative the
 Fed is when it comes to communication.
 
-Though it was taboo to recognize it inside the Fed, and I didn’t dare put it in
+Though it was taboo to recognize it inside the Fed, and I didn't dare put it in
 my report, Greenspan’s legacy as the Maestro had been thoroughly tarnished.
 
 The general realization that Greenspan and the Fed had actually created the
@@ -372,7 +372,7 @@ wildest dreams.
 “Theory is when you understand everything, but nothing works. Practice is when
 everything works, but nobody understands why.”
 
-But that healthy and growing economy didn’t happen. So savers were getting
+But that healthy and growing economy didn't happen. So savers were getting
 hammered for no good reason for the benefit of rich people. By December 2012,
 the Fed was pumping $85 billion a month into the economy.
 
@@ -462,6 +462,6 @@ We’ve become a nation of haves and have-nots thanks to Fed policies that benef
 the wealthiest investors, punish the savers and the retired, and put the
 nation’s balance sheet at risk.
 
-No more excuses. The Fed’s mandate isn’t to have a perfect world. That only
+No more excuses. The Fed’s mandate isn't to have a perfect world. That only
 exists in fairy tales, dreams, and the Fed’s econometric models.
 

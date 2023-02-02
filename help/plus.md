@@ -31,12 +31,12 @@ want to become one.
 Address verification happens automatically upon payment via card or PayPal
 giving everyone piece of mind.
 
-Why can’t it all just be free?
+Why can't it all just be free?
 ------------------------------
 Sometimes we receive feedback from members asking to “make the website totally free”.
 
 While it would be nice to our basic members having us paying the running costs,
-it wouldn’t be possible to ensure safety of the service and we couldn’t
+it wouldn't be possible to ensure safety of the service and we couldn't
 afford to run the site:
 
 * keeping spam and scams at bay

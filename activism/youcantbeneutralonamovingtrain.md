@@ -1,4 +1,4 @@
-You Can’t Be Neutral On A Moving Train
+You Can't Be Neutral On A Moving Train
 ======================================
 
 By **Howard Zin**
@@ -42,7 +42,7 @@ those times and places – and there are many – where people have behaved
 magnificently, this gives us the energy to act, and at least the possibility of
 sending this spinning top of a world in a different direction.
 
-And if we do act, in however small way, we don’t have to wait for some grand
+And if we do act, in however small way, we don't have to wait for some grand
 utopian future. The future is an infinite succession of presents, and to live
 now as we think human beings should live, in defiance of all that is bad around
 us, is itself and marvellous victory.

@@ -29,7 +29,7 @@ within which change might be brought about. It has effectively conceded to the
 status quo of unsustainable policies.
 
 The logical, evidence-based argument that NCIA has presented for years is
-absolutely irrefutable - but it hasn’t changed anything. Why? It’s because the
+absolutely irrefutable - but it hasn't changed anything. Why? It’s because the
 corporate takeover of the voluntary sector is just one symptom of much wider
 phenomena - the dominance of an economic dogma that has limited the scope of
 political debate to such an extent that the formal political space has been

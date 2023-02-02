@@ -126,7 +126,7 @@ pan-Islamism as a bulwark against Western encroachments upon the Muslim world.
 Clearly, the lessons from Afghanistan and India were crystallizing in
 al-Afghani’s mind – mainly that Muslims could not return to the glorious
 imperial past. They had to look ahead and to catch up with the West; and it
-wasn’t enough to confine the necessary modernization to the army, as the
+wasn't enough to confine the necessary modernization to the army, as the
 Ottomans and the Egyptians were then doing.
 
 As al-Afghani saw it, a much greater transformation – primarily in the mind –
@@ -172,7 +172,7 @@ In the last quarter of the nineteenth century the tone was changing all across
 the Muslim world as it took stock of its own helplessness against an
 increasingly aggressive West.
 
-Modernization, it was clear, hadn’t secured the Ottomans against infidels; on
+Modernization, it was clear, hadn't secured the Ottomans against infidels; on
 the contrary, it had made them more dependent. Nor had it saved Egypt from
 buckling to British pressure – indeed, its globalized economy had made Egypt a
 subservient client state.

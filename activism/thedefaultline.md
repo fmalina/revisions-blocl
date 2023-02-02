@@ -13,7 +13,7 @@ Economics is about choices. [\*](#ASIN:B00AZ17W6Y;LOC:38) This story, which I
 have called The Default Line, is about those choices.
 
 Right from the beginning of his tenure as chancellor, George Osborne was asked
-why he was pursuing austerity while the US government was not. ‘I don’t have the
+why he was pursuing austerity while the US government was not. ‘I don't have the
 world’s reserve currency,’ was his answer to me in early 2011.
 [\*](#ASIN:B00AZ17W6Y;LOC:1031)
 
@@ -193,7 +193,7 @@ successive governments prefer to fund failure rather than invest in the future
 
 Without a fundamental shift in planning, young British workers face a daft
 dependence on their parents for access to ever smaller properties, in places
-they don’t want to live. The forces opposed to changes to current UK planning
+they don't want to live. The forces opposed to changes to current UK planning
 law are extremely powerful. This does not mean that they are right.
 
 In Britain, there were broadly two separate financial crises. A conventional

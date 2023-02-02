@@ -17,7 +17,7 @@ users, rather than cooperation.
 
 Money is also the hidden engine of the perpetual growth treadmill that has
 become the hallmark of industrial societies. Finally, the current system
-encourages individual accumulation, and ruthlessly punishes those who don’t
+encourages individual accumulation, and ruthlessly punishes those who don't
 follow that injunction.
 
 The United Nations forecasts that by 2050, the number of people aged 65 to 84
@@ -154,7 +154,7 @@ wealth by taxing the vast majority in favour of a small minority.
 
 When the bank creates money by providing you with your £100,000 mortgage loan,
 it creates only the principal when it credits your account. However, it expects
-you to bring back £200,000 over the next twenty years or so. If you don’t, you
+you to bring back £200,000 over the next twenty years or so. If you don't, you
 will lose your house. Your bank does not create the interest; it sends you out
 into the world to battle against everyone else to bring back the second
 £100,000.

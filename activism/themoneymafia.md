@@ -217,7 +217,7 @@ be repaid with interest. But when the IMF is involved the conditions result in
 more austerity and slower economic growth.
 
 Sovereign countries (outside the Eurozone) can print their own money which
-doesn’t have to be paid back. That is a better solution than letting private
+doesn't have to be paid back. That is a better solution than letting private
 banks print (computer entry) each country’s annual shortfall putting citizens in
 the hopeless situation of spending the rest of their lives trying to pay it off,
 with interest.
@@ -353,7 +353,7 @@ economic growth.
 
 The difference between bank-created money (BCM) and government-created money is
 profound. All BCM has to be repaid with interest whereas GCM can be put into
-circulation debt-free and remains in the money supply permanently. GCM doesn’t
+circulation debt-free and remains in the money supply permanently. GCM doesn't
 disappear in times of recession as much of the BCM does. Private banks create
 “virtual” money out of thin air when they make loans; the opposite occurs when
 loans are repaid either voluntarily or at the call of the banks.
@@ -484,7 +484,7 @@ It is my opinion, shared by many friends and colleagues, that allowing any of
 these projects that are designed to produce hydrocarbons for decades into the
 future is a crime against both present and future generations
 
-One can understand greedy corporations who don’t care about the environment
+One can understand greedy corporations who don't care about the environment
 making such plans; but it is incomprehensible that politicians, who have the
 final say, turn a blind eye at best, or actively aid and encourage new
 development at worst.
@@ -559,11 +559,11 @@ removed before the world can move forward.
 
 The 9/11 incident was the catalyst that the neo-cons needed to launch an illegal
 war on Iraq. The irony was that none of the alleged hijackers came from Iraq.
-But that didn’t seem to matter.The Pentagon’s Plan for a New American Century
+But that didn't seem to matter.The Pentagon’s Plan for a New American Century
 had targeted Iraq as its first priority on the list of Middle East wars, so
 that’s where the so-called war on terror began.
 
-If the major media aren’t willing to let their good investigative reporters go
+If the major media aren't willing to let their good investigative reporters go
 after the great stories of the century – the legitimacy of the official 9/11
 report, a banking and financial system that has [\*](#ASIN:B00NLKPKEM;LOC:4768)
 introduced near universal slavery through its system of creating all money as
@@ -588,7 +588,7 @@ camouflaged by the antics of the politicians comprising the provisional
 government.
 
 Remember the admission of President Clinton [\*](#ASIN:B00NLKPKEM;LOC:4856) that
-there is a government within the government that he didn’t control.
+there is a government within the government that he didn't control.
 
 The first and most urgent requirement for the president is to initiate the
 creation of enough money to stimulate the economy, end the cutbacks, and renew
@@ -643,7 +643,7 @@ science.
 
 Why not at least hope the old religions die off, making room for people to
 proceed individually, one at a time, in pursuit of their ‘spiritual’ needs?
-Because most human beings don’t seem to want that either.
+Because most human beings don't seem to want that either.
 
 Humans are gregarious. They want to bind themselves to others through a
 tradition that does no harm until it turns into a crusade to control

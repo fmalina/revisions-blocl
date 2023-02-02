@@ -45,7 +45,7 @@ and social trends.
 Overall, robots can be a boon, freeing up humans to do more productive
 things—but only so long as humans create the systems to adapt their workforces,
 economies, and societies to the inevitable disruption. The dangers to societies
-that don’t handle these transitions right are clear.
+that don't handle these transitions right are clear.
 
 The biggest wins from new technology will go to the societies and firms that can
 adapt and direct their citizens toward industries that are growing. Robotics is
@@ -55,7 +55,7 @@ That means taking some of the billions of dollars of wealth that will be
 produced from the field of robotics and reinvesting it in education and skills
 development for the displaced taxi drivers and waitresses.
 
-We aren’t as easy to upgrade as software.
+We aren't as easy to upgrade as software.
 
 The last trillion-dollar industry was built on a code of 1s and 0s. The next
 will be built on our own genetic code.
@@ -257,7 +257,7 @@ A bank is a giant ledger that records how much money belongs to people and how
 much money people owe them. At heart, that’s a data problem.
 
 Banks and hospitals are the only places in the world where you walk into them
-and you don’t know what they sell. There is no list of products. There is no
+and you don't know what they sell. There is no list of products. There is no
 list of prices.
 
 What banks do—storing value, moving value, and pricing risk—those are all the
@@ -274,7 +274,7 @@ privacy, and security years before they have the first conversation about sex
 and the birds and the bees because it will actually be relevant years before.
 [\*](#ASIN:B014DXPATK;LOC:2616)
 
-The dangers out there aren’t always obvious, which makes data permanence all the
+The dangers out there aren't always obvious, which makes data permanence all the
 more tricky to navigate.
 
 It is not just your past emails or love life that can come back to haunt you. It
@@ -365,7 +365,7 @@ It is not a coincidence that Google, Facebook, Microsoft, Oracle, and countless
 other information-age companies were started by people in their twenties—and
 started in the United States.
 
-Venture capitalists in Silicon Valley won’t hesitate to invest in
+Venture capitalists in Silicon Valley won't hesitate to invest in
 twentysomethings.
 
 China’s biggest social media company was started by a graduate student in his

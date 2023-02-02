@@ -91,7 +91,7 @@ permanent ally of the average citizen.
 
 The more politicians talk about change, the more things remain the same.  They
 talk about change because they know we are unhappy with how things are going,
-but they don’t want to commit themselves to anything substantive.  The term
+but they don't want to commit themselves to anything substantive.  The term
 change has done the trick because of its vagueness.  We will know that
 significant change is coming when citizens are too well organised to be tricked
 – and too powerful to be ignored – demand laws and institutions able to prevent

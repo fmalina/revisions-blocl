@@ -143,7 +143,7 @@ channeled through a pre-defined curriculum. At the end of the cycle, those that
 fit the mold are graduated; castoffs are discarded along the way. Learning
 happens best, this system seems to believe, when students sit quietly for hours
 in front of all-knowing teachers who fill their heads with information. Children
-can’t be trusted to define their own learning plans and set their own goals;
+can't be trusted to define their own learning plans and set their own goals;
 that must be done by the teachers. But, teachers cannot be trusted either; they
 must be tightly supervised by principals and superintendents and school
 districts and expert commissions and standardized tests and mandatory school
@@ -207,7 +207,7 @@ structures and the advice process build up over time a vast, collective
 reservoir of trust among colleagues.
 
 In hierarchical organizations, managers are responsible for delivering the
-numbers. Their area of responsibility is their turf. Just as they won’t mess
+numbers. Their area of responsibility is their turf. Just as they won't mess
 with somebody else’s business, other managers had better stay out of theirs.
 
 But in a self-managing organization, people have roles, not turfs, and no one
@@ -218,8 +218,8 @@ decisions they want, the urge to climb the ladder recedes.
 
 Research shows that when people pursue a meaningful purpose, and when they have
 the decision-making power and the resources to work toward that purpose, they
-don’t need pep talks or stretch targets. Unfortunately, in many traditional
-organizations, people work under the opposite circumstances; they don’t see much
+don't need pep talks or stretch targets. Unfortunately, in many traditional
+organizations, people work under the opposite circumstances; they don't see much
 purpose in their work, and they feel restricted in their potential for
 self-expression by rules and bosses.
 
@@ -232,7 +232,7 @@ self-management is not a startling new invention by any means. It is the way
 life has operated in the world for billions of years. Self-organization is the
 life force of the world.
 
-For a long time, we didn’t know better and thought we needed to interfere with
+For a long time, we didn't know better and thought we needed to interfere with
 the life’s self-organizing urge and try to control one another.
 [\*](#ASIN:B00ICS9VI4;LOC:3003)
 
@@ -252,8 +252,8 @@ aside, much of the political poison is drained out of organizations.
 In self-managing organizations as well as hierarchical ones, trust is the secret
 sauce of productive and joyful collaboration. But it’s hard for trust to
 flourish when everyone is hiding, to some degree, behind a professional mask. We
-don’t just lose productivity; at a deeper level, our humanity feels cheated by
-the shallow relationships we have when we don’t engage with each other at levels
+don't just lose productivity; at a deeper level, our humanity feels cheated by
+the shallow relationships we have when we don't engage with each other at levels
 that truly matter.
 
 When it feels unsafe to speak our truth, we shut down our inner voice, we lose
@@ -264,7 +264,7 @@ for.
 as the unintended side-effect of one’s personal dedication to a cause greater
 than oneself.”
 
-A few of the founders of organizations in this research didn’t set out to create
+A few of the founders of organizations in this research didn't set out to create
 a business at all, initially. Their pursuit of a purpose happened to take the
 shape, at some point, of a business; in a very literal sense, purpose came
 before profits.
@@ -309,7 +309,7 @@ success of an organization have been greatly underappreciated.
 Having a CEO and a board that “get it” are necessary, but not sufficient,
 conditions. There is a common belief in organizational development circles that
 if we could only get leaders to be more enlightened, all would be well. That
-notion is too simplistic; enlightened leaders don’t automatically make for
+notion is too simplistic; enlightened leaders don't automatically make for
 enlightened organizations, unless they also embrace structures, practices, and
 cultures that change how power is held, how people can show up, and how the
 organization’s purpose can express itself.
@@ -324,7 +324,7 @@ feudalism was limiting to economic success in the sixteenth and seventeenth
 centuries.
 
 Einstein famously said that we cannot solve a problem using the same
-consciousness that created it. If that is true, then we won’t be able to deal
+consciousness that created it. If that is true, then we won't be able to deal
 with the impending crises brought by modernity (global warming, overpopulation,
 depletion of natural resources, collapse of ecosystems) with organizations
 molded in modernity’s thinking.
@@ -408,7 +408,7 @@ about 50 percent of the oil.
 An increasing number of people believe that technology alone will not save us
 and that a change in consciousness is needed.
 
-Imagine a society and a monetary system where people don’t try to accumulate
+Imagine a society and a monetary system where people don't try to accumulate
 wealth, and where ownership gives way to stewardship.
 
 The best way to predict the future is to create it. Due to the work of

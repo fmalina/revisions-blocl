@@ -57,7 +57,7 @@ planet by using mechanisms that leave around three-quarters of the voting public
 feeling disenfranchised and lacking any meaningful say in who forms their
 government?
 
-If we don’t, those who carry the hope for a better society, created by a better
+If we don't, those who carry the hope for a better society, created by a better
 form of political governance, will have to be smart about the way they act over
 the next few years.
 
@@ -178,7 +178,7 @@ These problems, driven by a malfunctioning housing market, can also help to cast
 light on the wider failures of free markets and can help create the conditions
 in which these failures can be challenged.
 
-Hundreds of thousands of new homes are needed, but supply alone won’t solve the
+Hundreds of thousands of new homes are needed, but supply alone won't solve the
 problem unless we also change the nature of what is being built, where it is
 located, how it is serviced and how it is governed.
 
@@ -431,7 +431,7 @@ seeks to take Britain back to the dark ages of industrial relations.
 Even the government’s own independent regulatory watchdog has said this Act is
 not fit for purpose. [\*](#ASIN:B01ICE06WW;LOC:1840)
 
-If an employer believes workers can’t strike, they won’t bother to bargain. And
+If an employer believes workers can't strike, they won't bother to bargain. And
 it’s not just about money.
 
 An attack on our democracy would rightly be greeted with screams of a creeping
@@ -479,7 +479,7 @@ The creation of the Scottish Parliament in 1999 allowed us to say that the
 neoliberal rejection of the caring society that emerged after the Second World
 War was anathema to us.
 
-Why would you want to create policies that are harmful to society? Why don’t we
+Why would you want to create policies that are harmful to society? Why don't we
 create a more human system?
 
 If the progressives in England think the press is against them, consider this:
@@ -578,14 +578,14 @@ Council)
 
 What motivated us to compile this set of essays is not simply the fact that a
 glance at modern-day British political reality suggests that, if the
-progressives don’t work together, the next two decades are likely to be
+progressives don't work together, the next two decades are likely to be
 Conservative ones. It is also a sense that there has to be something better, and
 we have begun the process of articulating what it is. This could be the start of
 something big!
 
 With every Conservative government, the distance that has to be travelled by the
 progressives becomes greater: our public services become more run down, young
-people lose hope, and the environmental crisis deepens. It doesn’t have to be
+people lose hope, and the environmental crisis deepens. It doesn't have to be
 like this. The progressives have an unprecedented opportunity to review our
 politics. We need to seize it!
 

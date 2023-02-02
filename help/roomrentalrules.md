@@ -33,7 +33,7 @@ allow a pet.
 Drinking & parties
 ------------------
 Drink sensibly and ask if you’re thinking of having a few friends over. Being
-sick in your landlord’s work shoes won’t get you on the Christmas present list.
+sick in your landlord’s work shoes won't get you on the Christmas present list.
 
 Damage
 ------
@@ -50,7 +50,7 @@ Dispute
 -------
 If there is any problems, sort these out with the landlord sooner rather than
 later. This will make for a more enjoyable living experience. Because the
-landlord’s getting at you for being messy probably doesn’t entitle you to hide
+landlord’s getting at you for being messy probably doesn't entitle you to hide
 his DVD collection.
 
 Rent

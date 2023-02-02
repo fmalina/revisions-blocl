@@ -148,7 +148,7 @@ This sense of submerging ourselves in the group is also thought to be why we do
 such things as help the elderly, give money to charities, put on identical silly
 shirts to attend football matches, obediently wait in line, and why we
 positively ripple and snort with righteousness and indignation when we think
-others don’t do some of these things.
+others don't do some of these things.
 
 Despite what seems like daily reports of suicide bombings, the numbers of people
 who do this are negligible compared to those who could if our motivations really
@@ -245,7 +245,7 @@ promotes collections of genes and ideas that triumph in competition with other
 collections of genes and ideas.
 
 If religion has been an enhancer in our past—a bit of social technology—we
-shouldn’t look to understand its grip on us by expecting it to do good.
+shouldn't look to understand its grip on us by expecting it to do good.
 
 Their particular forms might have evolved because they have proven to be good at
 giving us courage and hope, at coordinating our actions, uniting us against
@@ -262,7 +262,7 @@ cooperative ventures arises, another might follow, and then these two might
 compete.
 
 There will always be a temptation to render your rivals impotent or even to
-destroy them, and the payoffs for doing so can be great. So, we don’t expect
+destroy them, and the payoffs for doing so can be great. So, we don't expect
 conflicts to disappear. But we can expect the constant force of conflict to
 create increasingly sophisticated acts of cooperation, not just because it is
 nice to be nice, but because this cooperation can serve everyone’s interests.
@@ -284,7 +284,7 @@ yourself, the worse your group might perform; but the more you do for your
 group, the worse off you and your family might be.
 
 This leaves people in a quandary. If you have to share your resources, and you
-really can’t get away with cheating, or at least not very often, there is very
+really can't get away with cheating, or at least not very often, there is very
 little incentive to get up off the ground and do much. In the modern world, we
 might recognize this problem in the controversy surrounding public benefits.
 
@@ -346,12 +346,12 @@ might be happening at a time when more innovation is needed than ever before
 just to maintain the levels of prosperity many of us already enjoy, and to raise
 it for those who have, up to now, been less fortunate.
 
-If individual inventiveness per se hasn’t played the role in shaping our
+If individual inventiveness per se hasn't played the role in shaping our
 intelligence that we might have thought, a capability that is difficult for
 others to copy by social learning might have. That capability might turn out to
 be our social intelligence.
 
-If you can’t simply copy social intelligence, then your only alternative is to
+If you can't simply copy social intelligence, then your only alternative is to
 become a social innovator, working out for yourself how to manipulate society,
 and this requires a big socially intelligent brain. This is just the opposite of
 what we concluded for inventiveness, where most of us can get by just fine
@@ -425,7 +425,7 @@ to be our genes. They are the truly eternal players that our minds will have had
 to answer to, having been engaged in a struggle for survival since long before
 the continents separated into what we know as our modern Earth.
 
-For one, the inner “I” that you think you know so well probably doesn’t exist.
+For one, the inner “I” that you think you know so well probably doesn't exist.
 It is an illusion, the construction of a mind that is in turn a construction of
 its genes, genes that have been selected to produce brains that further their
 ends.
@@ -504,7 +504,7 @@ societies by a small number of leaders who often wear absurd costumes, demand
 taxes and the performance of ridiculous rituals, and make questionable claims to
 be connected to the gods?
 
-Here we must remind ourselves that large societies don’t exist for the good of
+Here we must remind ourselves that large societies don't exist for the good of
 the masses, but because we as individuals get more out of them than we would
 from a smaller grouping or even no grouping at all. So, there is no expectation
 that the leaders that emerge in the new chiefdoms and nation-states will be

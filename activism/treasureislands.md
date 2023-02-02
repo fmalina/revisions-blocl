@@ -48,7 +48,7 @@ trillion – a sum equivalent to about a third of the world’s GDP. And that, i
 said, was probably an underestimate.
 
 Nobody agrees what a tax haven is. In truth, the term is a bit of a misnomer,
-for these places don’t just offer an escape from tax; they also provide secrecy,
+for these places don't just offer an escape from tax; they also provide secrecy,
 an escape from financial regulation, and a chance to shrug off laws and rules of
 other jurisdictions, the countries where most of the world lives.
 
@@ -354,8 +354,8 @@ latest financial crisis and the explosion of debt globally. Yet some things seem
 fairly clear. If you create an enormous arena for generating unregulated new
 credit, these markets will expand to displace better-controlled banking
 operations, and demand will rise to meet potential supply. Credit will start
-expanding into places where it wasn’t previously able to, and often to where it
-really shouldn’t be.
+expanding into places where it wasn't previously able to, and often to where it
+really shouldn't be.
 
 Euromarkets, in other words, made it possible for credit quality to deteriorate
 out of sight of the regulators.
@@ -417,9 +417,9 @@ Britain did nothing.
 Company law statutes in the Cayman Islands come from English law as far back as
 1862 – with certain democratic provisions removed – one of which means that
 frequently the directors of hedge funds or mutual funds are indemnified from
-litigation. ‘So you can’t be sued for negligence. Suppose I’m liquidating a fund
-and $200 million is gone. Why shouldn’t I be able to sue them? The directors are
-steering the ship, but when it sinks they can’t be sued.’
+litigation. ‘So you can't be sued for negligence. Suppose I’m liquidating a fund
+and $200 million is gone. Why shouldn't I be able to sue them? The directors are
+steering the ship, but when it sinks they can't be sued.’
 
 But these havens levy no tax on those profits. To this day, accounting standards
 effectively hide this kind of trickery, letting companies shovel results from
@@ -553,7 +553,7 @@ Today the top 1 per cent of households in developing countries own an estimated
 70–90 per cent of all private financial and real estate wealth. The Boston
 Consulting Group reckoned in 2003 that over half of all the wealth owned by
 Latin America’s wealthiest citizens lay offshore. ‘The problem is not that these
-countries don’t have any assets,’ a US Federal Reserve official said. ‘The
+countries don't have any assets,’ a US Federal Reserve official said. ‘The
 problem is, they’re all in Miami.’
 
 Economists have not ignored these issues entirely, but they almost always break
@@ -652,7 +652,7 @@ nought.
 This is the real story: when tax havenry exploded and finance became freer, tax
 evasion and capital flight followed.
 
-‘Don’t interfere with our rights as sovereign states!’ the havens cry while
+‘Don't interfere with our rights as sovereign states!’ the havens cry while
 interfering merrily in other nations’ sovereign laws and tax systems.
 
 Countries need, above all, sound institutions, good infrastructure and the
@@ -706,13 +706,13 @@ them.’ [\*](#ASIN:B004NBZG0G;LOC:4164)
 Most people working offshore only see fragments of the big picture so do not
 understand what is going on. For example, if there is a trust set up in the
 Caymans, and the securities portfolio is in Switzerland, you will get very
-little information in the Caymans. You won’t know the reason why things happen.
+little information in the Caymans. You won't know the reason why things happen.
 The ones who commit the crimes – those people who set up the trust or the
 special purpose vehicle – will often sit in New York or London.
 
-The ruling classes realise they don’t need to worry about the Democrats coming
+The ruling classes realise they don't need to worry about the Democrats coming
 to power in the US, or Social Democrats coming to power in Germany, or Labour
-coming to power in Britain. They realised they didn’t need to fight the fight at
+coming to power in Britain. They realised they didn't need to fight the fight at
 home. They already had this flotsam and jetsam of the empire strewn across the
 globe, with their red post boxes and British ways of life, and incredible
 subservience to the English ruling class.
@@ -875,7 +875,7 @@ to dominate society.’
 
 Between 1979 and 2011, as employment in UK manufacturing fell from 6 million to
 just under 2.5 million, its output stagnated while financial services output
-trebled.82 Meanwhile, British banks aren’t even lending to British industry: in
+trebled.82 Meanwhile, British banks aren't even lending to British industry: in
 the decade before the crash just 3 per cent of banks’ net cumulative lending in
 the UK went to manufacturing, while three- quarters went to home mortgages and
 commercial real estate.
@@ -903,7 +903,7 @@ of London, the values of offshore finance, present to us all. ‘We need to repe
 of it,’ he said. ‘We are in the grip of a programme for our collective happiness
 that is illusory. It is a phantom, and it will enslave us.’
 
-The latest financial crisis shows that state failure isn’t something that only
+The latest financial crisis shows that state failure isn't something that only
 happens to developing countries: it can affect the very richest. And every time,
 offshore has lain close to the heart of the malaise. To fix the problems, we
 must first understand the sickness. If there are just two ideas I’d want people

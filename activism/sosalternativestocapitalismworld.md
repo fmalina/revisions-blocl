@@ -33,7 +33,7 @@ ourselves. Species suicide.
 
 We think we are OK but the evidence is mounting that we are not.
 
-When our best natures aren’t suppressed, we can be loving, funny, carefree,
+When our best natures aren't suppressed, we can be loving, funny, carefree,
 courageous, thoughtful and capable of wondrous acts of generosity.
 
 So what we need to do is to organize the world in such a way as to encourage our
@@ -89,7 +89,7 @@ the rest of the one per cent. If you fail, the responsibility also lies entirely
 on your shoulders for having ‘mismanaged’ your own life by making bad choices.
 You pathetic creature.
 
-Government may help keep you alive if it doesn’t cost too much but don’t come
+Government may help keep you alive if it doesn't cost too much but don't come
 crying for more than the bare minimum. You’re lucky to get that.
 
 Thoughtful people simply have the stubborn belief that we can do better than
@@ -314,7 +314,7 @@ And, while the quality of utopian thinking varies widely, in most of it there is
 simply a refreshing desire for a more equal and inspiring way of life.
 
 If those proposing an alternative to our current capitalist civilization can
-only say what they don’t want, and cannot give us a sense of what they actually
+only say what they don't want, and cannot give us a sense of what they actually
 propose, success will likely remain elusive.
 
 This seems to be a fertile time to rethink our social and economic
@@ -331,7 +331,7 @@ According to this utopianism of the powerful, the dystopian difficulties of the
 present are simply evidence of the sacrifices we make on the altar of some
 eventual salvation.
 
-Yet somehow it is always those who don’t have to make sacrifices who demand them
+Yet somehow it is always those who don't have to make sacrifices who demand them
 of others.
 
 Meanwhile, inequality grows and hundreds of millions across the world barely
@@ -357,7 +357,7 @@ But things are changing. These days inequality in Latin America has dropped to
 its lowest level for 30 years – and this at a time when the rest of the world is
 seeing the gap between rich and poor grow dramatically. The business weekly The
 Economist will tell you that this has nothing to do with socialist governments –
-but they would say that, wouldn’t they?
+but they would say that, wouldn't they?
 
 The basic tension within this kind of leftist movement is between those who
 think that their goals are best achieved through a more efficient and practical
@@ -451,7 +451,7 @@ progress towards creating a more socially responsible capitalism.
 [\*](#ASIN:B00JNYEIAM;LOC:1778)
 
 While most Sixties activists held that the problem with democracy was that there
-wasn’t enough of it, these counter-insurgency intellectuals held that there was
+wasn't enough of it, these counter-insurgency intellectuals held that there was
 just too much.
 
 With a few exceptions, they also had a compliant corporate media that acted as

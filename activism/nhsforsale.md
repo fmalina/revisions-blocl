@@ -9,7 +9,7 @@ twelve, was too poor to provide medical care for his daughter on a working-class
 salary.
 
 I can even remember as a boy hearing the piercing cries from open windows on our
-street of people dying from cancer who didn’t have the dosh to buy morphine to
+street of people dying from cancer who didn't have the dosh to buy morphine to
 ease their passage from life.
 
 The society of my youth believed that only the well-to-do or well-connected
@@ -17,7 +17,7 @@ deserved medical care.
 
 I am one of the last remaining people that can remember the cruelty of life
 before the NHS, and I can assure you that it is essential for Britain’s
-prosperity and social well-being that my past doesn’t become your future. (Harry
+prosperity and social well-being that my past doesn't become your future. (Harry
 Smith)
 
 \*\*\*
@@ -163,7 +163,7 @@ For two decades politicians have introduced policies for the NHS that ran
 against the wishes of the vast majority of voters.
 
 The biggest myth has been that the NHS is expensive and inefficient leading to
-the useful and inevitable conclusion that ‘it can’t go on like this’.
+the useful and inevitable conclusion that ‘it can't go on like this’.
 
 This part of the book takes the myths one by one and exposes them for what they
 are – convenient lies to conceal the continued attempts by an alliance of
@@ -175,7 +175,7 @@ taken many forms.
 
 Increasingly they hide inconvenient facts behind ‘commercial confidentiality’ or
 they have just stopped gathering data all together so that they can claim with
-justification that they don’t have the facts.
+justification that they don't have the facts.
 
 When the Labour government left power in 2010 patient satisfaction levels were
 the highest since surveys began.
@@ -194,7 +194,7 @@ while NHS money was returned to the treasury, and that while able to bail out
 bankers to the tune of billions the government chose not to do the same for the
 NHS for relatively trivial sums.
 
-‘That’s the standard technique of privatisation: defund, make sure things don’t
+‘That’s the standard technique of privatisation: defund, make sure things don't
 work, people get angry, you hand it over to private capital.’
 
 Since Thatcher introduced an NHS market – the so-called purchaser/provider split
@@ -224,7 +224,7 @@ care.
 Repeated assertions that it is unsustainable and unaffordable have no
 foundation.
 
-If we can’t afford the most cost-effective health service in the world what can
+If we can't afford the most cost-effective health service in the world what can
 we afford?
 
 \*\*\*
@@ -591,9 +591,9 @@ Once again the private sector was being proposed as the solution to NHS woes
 resulting from government mismanagement.
 
 Those who can pay will either queue jump through buying access to the service or
-will get treatments that aren’t available to those who can’t pay, or both.
+will get treatments that aren't available to those who can't pay, or both.
 
-Patients who can’t afford to pay to bypass the system will find themselves in
+Patients who can't afford to pay to bypass the system will find themselves in
 the queue behind those who can.
 
 This shows there is no limit to the willingness of the government to replace NHS
@@ -605,7 +605,7 @@ NHS policy decisions to private companies.
 One the most alarming and insidious encroachments of the private sector into the
 NHS has been via the ‘privatisation of policy making’
 
-The public has never voted for privatisation of the NHS and certainly doesn’t
+The public has never voted for privatisation of the NHS and certainly doesn't
 want it.
 
 According to a 2013 YouGov poll, 84 per cent of the public would prefer to see
@@ -680,7 +680,7 @@ the public, it should have been abandoned years ago.
 * 
 * The NHS was doing very well and its current problems can largely be traced to misjudged political interference and inadequate funding.
 * 
-* Labour unfortunately built the bridge across which the Tories have stormed the NHS and there are still too many at the heart of the party who don’t think they did anything wrong.
+* Labour unfortunately built the bridge across which the Tories have stormed the NHS and there are still too many at the heart of the party who don't think they did anything wrong.
 * 
 * The billions wasted on marketising the NHS could and should have been spent on patient care.
 * 
@@ -688,6 +688,6 @@ the public, it should have been abandoned years ago.
 * 
 * It’s time to end the failed market experiment and return to an NHS which is publicly funded, publicly provided and publicly accountable.
 * 
-* That’s the standard technique of privatisation: defund, make sure things don’t work, people get angry, you hand it over to private capital.
+* That’s the standard technique of privatisation: defund, make sure things don't work, people get angry, you hand it over to private capital.
 * 
-* It’s our job to make sure they don’t get away with it.
+* It’s our job to make sure they don't get away with it.

@@ -147,7 +147,7 @@ assume social command over both the production and the distribution of
 surpluses.
 
 Designing a society without capital accumulation is no different in principle to
-designing a city without cars.  Why can’t we all just work alongside each other
+designing a city without cars.  Why can't we all just work alongside each other
 without class distinction?
 
 Universities continue to promote the same useless courses on neoclassical

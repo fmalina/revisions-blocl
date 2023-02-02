@@ -11,7 +11,7 @@ Maximise best advertising practice making this happen.
 Location
 --------
 This is vital to the success of your project. If you want to realise the best
-return on your investment, don’t buy the place up the road because it’s
+return on your investment, don't buy the place up the road because it’s
 convenient and cheap. Visit several locations and get a feel for the area. See
 if there are good transport links, schools nearby, shopping facilities etc.
 

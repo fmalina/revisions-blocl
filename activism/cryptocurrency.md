@@ -8,7 +8,7 @@ advent of the Internet. While no self-respecting bitcoiner would ever describe
 Google or Facebook as decentralized institutions, GoogleAds allowed small
 businesses to bypass big media organizations and to market more directly to
 prospective customers; Facebook allowed people to organically form groups,
-communities, and associations that weren’t tied down by geography or social and
+communities, and associations that weren't tied down by geography or social and
 national structures; Twitter meant people could design their own news feeds.
 
 Is a clash building between these two movements, the corporate world’s
@@ -16,7 +16,7 @@ concentration of wealth and power, and Silicon Valley’s reempowerment of the
 individual?
 
 Perhaps these trends can continue to coexist if the decentralizing movement
-remains limited to areas of the economy that don’t bleed into the larger sectors
+remains limited to areas of the economy that don't bleed into the larger sectors
 that Big Business dominates. But that’s not what the proponents of this
 technology foresee—especially those in the cryptocurrency sector. They believe
 that decentralization is just getting started and that the centralized economic

@@ -106,7 +106,7 @@ ratings to securitizations, it will be impossible to rehabilitate the
 alternative banking system.
 
 Just because the problem of creating a viable global credit rating system is
-difficult doesn’t mean it shouldn’t be done.  In fact, it is precisely because
+difficult doesn't mean it shouldn't be done.  In fact, it is precisely because
 it is difficult that there is a great need to thoroughly address the issue.
 
 While fraud wasn't the only issue, it was and is a significant contributor to

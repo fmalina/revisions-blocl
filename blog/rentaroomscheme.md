@@ -13,10 +13,10 @@ change to see the Inland Revenue giving something back. Many people have had to
 take lodgers in flat shares and house shares to help pay the bills and mortgages
 so being exempt from a lot of this income will be a nice relief.
 
-Anyone can opt into the **Rent a Room** scheme, even if you don’t own your own
+Anyone can opt into the **Rent a Room** scheme, even if you don't own your own
 home (although I would recommend getting your landlords' permission), as long as
 the accommodation you are letting is your main living area for most of the time.
-It can’t be a holiday home or a buy to let property, and your lodger must be
+It can't be a holiday home or a buy to let property, and your lodger must be
 paying you to live there.
 
 As usual though, there are some exclusions, the **Rent A Room** totals £7,500 a

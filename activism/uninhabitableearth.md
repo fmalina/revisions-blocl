@@ -32,7 +32,7 @@ an atmosphere that contains 500 parts per million of carbon—perhaps more. The
 last time that was the case, sixteen million years ago, the planet was not two
 degrees warmer; it was somewhere between five and eight.
 
-You might hope to simply reverse climate change; you can’t. It will outrun all
+You might hope to simply reverse climate change; you can't. It will outrun all
 of us.
 
 By 2100, the United Nations says, we are due for about 4.5 degrees of warming,
@@ -41,7 +41,7 @@ following the path we are on today.
 The climate system that raised us, and raised everything we now know as human
 culture and civilization, is now, like a parent, dead.
 
-Climate change isn’t something happening here or there but everywhere, and all
+Climate change isn't something happening here or there but everywhere, and all
 at once. And unless we choose to halt it, it will never stop.
 
 The burden of responsibility is too great to be shouldered by a few, however
@@ -121,7 +121,7 @@ As soon as 2030, global water demand is expected to outstrip supply by 40
 percent.
 
 2.1 billion people around the world do not have access to safe drinking water,
-and 4.5 billion don’t have safely managed water for sanitation.
+and 4.5 billion don't have safely managed water for sanitation.
 
 Half of the world’s population depends on seasonal melt from high-elevation snow
 and ice, deposits that are dramatically threatened by warming.
@@ -131,7 +131,7 @@ access to freshwater by 2050.
 
 We’re already racing, as a short-term fix for the world’s drought boom, to drain
 underground water deposits known as aquifers, but those deposits took millions
-of years to accumulate and aren’t coming back anytime soon.
+of years to accumulate and aren't coming back anytime soon.
 
 Four billion people, it is estimated, already live in regions facing water
 shortages at least one month each year—that’s about two-thirds of the planet’s
@@ -163,7 +163,7 @@ ever been affected by the meltdowns of nuclear reactors.
 In the developing world, 98 percent of cities are enveloped by air above the
 threshold of safety established by the WHO.
 
-Get out of urban areas and the problem doesn’t much improve: 95 percent of the
+Get out of urban areas and the problem doesn't much improve: 95 percent of the
 world’s population is breathing dangerously polluted air.
 
 Global plastic production is expected to triple by 2050, when there will be more

@@ -20,7 +20,7 @@ role of the state and the market.
 
 But while politics has been part of the cause of our current troubles, it will
 only be through politics that we will  find solutions: the market by itself
-won’t do it. Unfettered markets will lead to more monopoly power, more abuses
+won't do it. Unfettered markets will lead to more monopoly power, more abuses
 of the financial sector, more unbalanced trade relations. It will only be
 through reform of our democracy—making our  government more accountable to all
 of the people, more reflective of their interests—that we will be able to heal
@@ -49,7 +49,7 @@ to the bankers.
 
 Proponents of a strong financial sector were right about one thing: it is hard
 to have a well-performing economy  without a well-performing financial sector.
-But, as we have seen repeatedly, the financial sector doesn’t perform  well on
+But, as we have seen repeatedly, the financial sector doesn't perform  well on
 its own; it requires strong regulations, effectively enforced, both to prevent
 it from imposing harm on the  rest of the society and to make sure that it
 actually performs the functions it is supposed to perform.
@@ -134,7 +134,7 @@ weakening cooperation.
 
 What is required is in some ways simple to describe: it amounts to ceasing our
 current behavior and doing exactly the  opposite. It means not spending money
-that we don’t have, increasing taxes on the rich, reducing corporate welfare,
+that we don't have, increasing taxes on the rich, reducing corporate welfare,
 strengthening the safety net for the less well off, and making greater
 investment in education, technology, and  infrastructure.
 
@@ -143,7 +143,7 @@ that markets are self-adjusting and that  the role of government should be
 minimal. Looking back at that belief during hearings this fall on Capitol Hill,
 Alan Greenspan said out loud, “I have found a flaw.” Congressman Henry Waxman
 pushed him, responding, “In other  words, you found that your view of the world,
-your ideology, was not right; it wasn’t working.” “Absolutely,  precisely,”
+your ideology, was not right; it wasn't working.” “Absolutely,  precisely,”
 Greenspan said. The embrace by America—and much of the rest of the world—of this
 flawed economic  philosophy made it inevitable that we would eventually arrive
 at the place we are today.
@@ -152,7 +152,7 @@ There is one more important culprit, which, in fact, has played a key
 behind-the-scenes role in many various parts of  this story: America’s political
 system, and especially its dependence on campaign contributions. This allowed
 Wall  Street to exercise the enormous influence that it has had, to push for the
-stripping of regulations and to the  appointment of regulators who didn’t
+stripping of regulations and to the  appointment of regulators who didn't
 believe in regulations—with the predictable and predicted consequences that we
 have seen.
 
@@ -212,7 +212,7 @@ received a pittance compared with those responsible for the financial
 innovations that brought our global economy to the brink of ruin.
 
 The more divided a society becomes in terms of wealth, the more reluctant the
-wealthy become to spend money on common  needs. The rich don’t need to rely on
+wealthy become to spend money on common  needs. The rich don't need to rely on
 government for parks or education or medical care or personal security—they  can
 buy all these things for themselves. In the process, they become more distant
 from ordinary people, losing  whatever empathy they may once have had.
@@ -266,7 +266,7 @@ like the Cayman Islands.
 
 Two basic principles of taxation are that it is better to tax bad things than
 good; and it is better to tax factors  in what economists call “inelastic
-supply”—meaning that the amounts produced and sold won’t change when taxes are
+supply”—meaning that the amounts produced and sold won't change when taxes are
 imposed on them. Thus, if we taxed pollution in all of its forms—including
 carbon emissions— we could raise hundreds  of billions of dollars every year,
 and have a better environment.
@@ -297,7 +297,7 @@ advanced economies—also helps explain the soaring inequality.
 
 Inequality and poverty among children are a special moral disgrace. They flout
 right-wing suggestions that poverty is  a result of laziness and poor choices;
-children can’t choose their parents.
+children can't choose their parents.
 
 see us entering a world divided not just between the haves and have-nots, but
 also between those countries that do  nothing about it, and those that do.
@@ -311,14 +311,14 @@ can (and unfortunately do) exploit everyone else.
 The main question confronting us today is not really about capitalism in the
 21st century. It is about democracy in  the 21st century.
 
-This is less about economics than it is about politics. We don’t have to choose
+This is less about economics than it is about politics. We don't have to choose
 between capitalism and fairness. We  must choose both.
 
 Today, inequality is growing dramatically again, and the past three decades or
 so have proved conclusively that one  of the major culprits is trickle-down
 economics—the idea that the government can just step back and if the rich get
 richer and use their talents and resources to create jobs, everyone will
-benefit. It just doesn’t work; the  historical data now prove that.
+benefit. It just doesn't work; the  historical data now prove that.
 [\*](#ASIN:B00YG34A12;LOC:2255)
 
 If those who are in charge of making the critical decisions are so “cognitively
@@ -327,7 +327,7 @@ alternative is to give those who caused the crisis hundreds of billions of
 dollars while leaving workers and homeowners in the lurch, the system is unfair.
 
 None of this is the outcome of inexorable economic forces, either; it’s the
-result of policies and politics—what we  did and didn’t do.
+result of policies and politics—what we  did and didn't do.
 
 And if these policies continue, these conditions will grow even worse.
 
@@ -358,8 +358,8 @@ an effect on inequality.
 
 We need to break up the too-big-to-fail banks; there is no evidence that these
 behemoths deliver societal benefits  that are commensurate with the costs they
-have imposed on others. And, if we don’t break them up, then we have to
-severely limit what they do. They can’t be allowed to do what they did in the
+have imposed on others. And, if we don't break them up, then we have to
+severely limit what they do. They can't be allowed to do what they did in the
 past—gamble at others’ expenses.
 
 Their lobbying efforts worked well, first to deregulate, and then to have
@@ -555,7 +555,7 @@ pointing to market forces like  globalization, trade liberalization, the
 technological revolution, the “rise of the rest.” Others assert that doing
 anything about it would make us all worse off, by stifling our already
 sputtering economic engine. These are  self-serving, ignorant falsehoods. Market
-forces don’t exist in a vacuum—we shape them.
+forces don't exist in a vacuum—we shape them.
 
 Now we realize that we are paying a high price for our inequality and that
 alleviating it and promoting growth are  intertwined, complementary goals. It

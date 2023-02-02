@@ -3,8 +3,8 @@ Collapse: How Societies Choose to Fail or Survive
 
 By **Jared Diamond**
 
-If environmentalists aren’t willing to engage with big businesses, which are
-among the most powerful forces in the modern world, it won’t be possible to
+If environmentalists aren't willing to engage with big businesses, which are
+among the most powerful forces in the modern world, it won't be possible to
 solve the world’s environmental problems.
 
 This book employs the comparative method to understand societal collapses to
@@ -52,7 +52,7 @@ operandi of American capitalism.
 Early miners behaved as they did because the government required almost nothing
 of them, and because they were businessmen.
 
-When the mine owner can’t or won’t pay, taxpayers don’t want to step in and pay
+When the mine owner can't or won't pay, taxpayers don't want to step in and pay
 billions of dollars of cleanup costs either.
 
 Only when the public pressures its politicians into passing laws demanding
@@ -81,10 +81,10 @@ In parts of Montana, salt concentrations in soil water have reached levels
 double those of seawater.
 
 “Whenever you have a source of water and more than two people using it, there
-will be a problem. But why fight about water? Fighting won’t make more water!”
+will be a problem. But why fight about water? Fighting won't make more water!”
 
 “Whenever you have a source of water and more than two people using it, there
-will be a problem. But why fight about water? Fighting won’t make more water!”
+will be a problem. But why fight about water? Fighting won't make more water!”
 
 The most visible effect of global warming in Montana, and perhaps anywhere in
 the world, is in Glacier National Park. In the late 1800s, it contained over 150
@@ -470,7 +470,7 @@ Around 1300, though, the climate in the North Atlantic began to get cooler.
 Those cold conditions were tolerable or even beneficial for the Inuit, who could
 hunt ringed seals, but were bad news for the Norse, who depended on growing hay.
 
-Why didn’t the Norse learn to cope with the cold weather by watching how the
+Why didn't the Norse learn to cope with the cold weather by watching how the
 Inuit were meeting the same challenges?
 
 The Norse could cope with one bad summer or bad winter, provided that it was
@@ -489,7 +489,7 @@ All of those initial advantages gradually turned against the Norse, in ways for
 which they bore some responsibility.
 
 Greenland Vikings would have had a better chance of surviving if they had
-learned from or traded with the Inuit, but they didn’t.
+learned from or traded with the Inuit, but they didn't.
 
 Refusing or unable to learn from the Inuit, and lacking any military advantage
 over them, the Norse rather than the Inuit became the ones who eventually
@@ -595,7 +595,7 @@ But that’s only half of the story.
 
 Businesses have changed when the public came to expect and require different
 behavior, to reward businesses for behavior that the public wanted, and to make
-things difficult for businesses practicing behaviors that the public didn’t
+things difficult for businesses practicing behaviors that the public didn't
 want.
 
 \*\*\*
@@ -663,8 +663,8 @@ own choice, or in unpleasant ways not of our choice, such as warfare, genocide,
 starvation, disease epidemics, and collapses of societies.
 
 Our totally unsustainable consumption means that the First World could not
-continue for long on its present course, even if the Third World didn’t exist
-and weren’t trying to catch up to us.
+continue for long on its present course, even if the Third World didn't exist
+and weren't trying to catch up to us.
 
 There is no other island/other planet to which we can turn for help, or to which
 we can export our problems. Instead, we need to learn to live within our means.

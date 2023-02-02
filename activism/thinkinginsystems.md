@@ -72,23 +72,23 @@ The idea of making a complex system do just what you want it to do can be
 achieved only temporarily, at best. We can never fully understand our world, not
 in the way our reductionist science has led us to expect. Our science itself,
 from quantum theory to the mathematics of chaos, leads us into irreducible
-uncertainty. For any objective other than the most trivial, we can’t optimize;
-we don’t even know what to optimize. We can’t keep track of everything. We can’t
+uncertainty. For any objective other than the most trivial, we can't optimize;
+we don't even know what to optimize. We can't keep track of everything. We can't
 find a proper, sustainable relationship to nature, each other, or the
 institutions we create, if we try to do it from the role of omniscient
 conqueror.
 
 For those who stake their identity on the role of omniscient conqueror, the
-uncertainty exposed by systems thinking is hard to take. If you can’t
+uncertainty exposed by systems thinking is hard to take. If you can't
 understand, predict, and control, what is there to do?
 
 Systems thinking leads to another conclusion, however, waiting, shining,
 obvious, as soon as we stop being blinded by the illusion of control. It says
-that there is plenty to do, of a different sort of “doing.” The future can’t be
+that there is plenty to do, of a different sort of “doing.” The future can't be
 predicted, but it can be envisioned and brought lovingly into being. Systems
-can’t be controlled, but they can be designed and redesigned. We can’t surge
+can't be controlled, but they can be designed and redesigned. We can't surge
 forward with certainty into a world of no surprises, but we can expect surprises
-and learn from them and even profit from them. We can’t impose our will on a
+and learn from them and even profit from them. We can't impose our will on a
 system. We can listen to what the system tells us, and discover how its
 properties and our values can work together to bring forth something much better
 than could ever be produced by our will alone.
@@ -99,7 +99,7 @@ out truth from falsehood, our intuition, our compassion, our vision, and our
 morality.
 
 **Our culture, obsessed with numbers, has given us the idea that what we can
-measure is more important than what we can’t measure. Think about that for a
+measure is more important than what we can't measure. Think about that for a
 minute. It means that we make quantity more important than quality. If quantity
 forms the goals of our feedback loops, if quantity is the center of our
 attention and language and institutions, if we motivate ourselves, rate
@@ -110,17 +110,17 @@ which you live.**
 
 **If something is ugly, say so. If it is tacky, inappropriate, out of
 proportion, unsustainable, morally degrading, ecologically impoverishing, or
-humanly demeaning, don’t let it pass. Don’t be stopped by the “if you can’t
-define it and measure it, I don’t have to pay attention to it” ploy. No one can
+humanly demeaning, don't let it pass. Don't be stopped by the “if you can't
+define it and measure it, I don't have to pay attention to it” ploy. No one can
 define or measure justice, democracy, security, freedom, truth, or love. No one
 can define or measure any value. But if no one speaks up for them, if systems
-aren’t designed to produce them, if we don’t speak about them and point toward
+aren't designed to produce them, if we don't speak about them and point toward
 their presence or absence, they will cease to exist.**
 
 **One of the worst ideas humanity ever had was the interest rate, which led to
 the further ideas of payback periods and discount rates, all of which provide a
 rational, quantitative excuse for ignoring the long term. The official time
-horizon of industrial society doesn’t extend beyond what will happen after the
+horizon of industrial society doesn't extend beyond what will happen after the
 next election or beyond the payback period of current investments. The time
 horizon of most families still extends farther than that—through the lifetimes
 of children or grandchildren. Many Native American cultures actively spoke of

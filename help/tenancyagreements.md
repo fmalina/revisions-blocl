@@ -22,7 +22,7 @@ like:
 
 It lets the tenant know what’s expected of them, so they can enjoy their tenancy.
 If any future disputes happen landlord can refer the tenant back to the tenancy
-agreement and vice versa. Without one anyone may say they don’t remember
+agreement and vice versa. Without one anyone may say they don't remember
 agreeing to that.
 
 Always read tenancy agreements fully, so you understand what’s written in them

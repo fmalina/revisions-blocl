@@ -11,15 +11,15 @@ It is now 250 times what it was before the Industrial Revolution.
 By the year 2013, six billion of the globe’s seven billion inhabitants owned a
 cell phone.
 
-But the real crisis of our times, of my generation, is not that we don’t have it
+But the real crisis of our times, of my generation, is not that we don't have it
 good, or even that we might be worse off later on. No, the real crisis is that
-we can’t come up with anything better.
+we can't come up with anything better.
 
 Without utopia, we are lost. Not that the present is bad; on the contrary.
 However, it is bleak, if we have no hope of anything better.
 
 Had you asked the greatest economist of the 20th century what the biggest
-challenge of the 21st would be, he wouldn’t have had to think twice. Leisure.
+challenge of the 21st would be, he wouldn't have had to think twice. Leisure.
 
 By 2030, Keynes said, mankind would be confronted with the greatest challenge it
 had ever faced: what to do with a sea of spare time. Unless politicians make
@@ -44,10 +44,10 @@ translating not into more leisure, but more stuff.
 Why? It all has to do with the most important development of the last decades:
 the feminist revolution.
 
-It’s safe to say the predictions of the great minds didn’t exactly come true.
+It’s safe to say the predictions of the great minds didn't exactly come true.
 Not by a long shot, in fact.
 
-We aren’t bored to death; we’re working ourselves to death.
+We aren't bored to death; we’re working ourselves to death.
 
 Time is money. Economic growth can yield either more leisure or more
 consumption. From 1850 until 1980, we got both, but since then, it is mostly
@@ -55,12 +55,12 @@ consumption that has increased. Even where real incomes have stayed the same and
 inequality has exploded, the consumption craze has continued, but then on
 credit.
 
-“The big reason poor people are poor is because they don’t have enough money,”
-notes economist Charles Kenny, “and it shouldn’t come as a huge surprise that
+“The big reason poor people are poor is because they don't have enough money,”
+notes economist Charles Kenny, “and it shouldn't come as a huge surprise that
 giving them money is a great way to reduce that problem.”
 
 “Poverty is fundamentally about a lack of cash. It’s not about stupidity,”
-stresses the economist Joseph Hanlon. “You can’t pull yourself up by your
+stresses the economist Joseph Hanlon. “You can't pull yourself up by your
 bootstraps if you have no boots.”
 
 The great thing about money is that people can use it to buy things they need
@@ -109,7 +109,7 @@ British Prime Minister Margaret Thatcher once called poverty a “personality
 defect.”
 
 There’s a key distinction though between people with busy lives and those living
-in poverty: You can’t take a break from poverty.
+in poverty: You can't take a break from poverty.
 
 A British study discovered that the costs of poverty among children in England
 top £29 billion ($44 billion) a year. According to the researchers, a policy to
@@ -128,7 +128,7 @@ into a Big Society.
 The current tangle of red tape keeps people trapped in poverty. It actually
 produces dependence.
 
-This isn’t a war on poverty; it’s a war on the poor.
+This isn't a war on poverty; it’s a war on the poor.
 
 If there’s one thing that we capitalists have in common with the communists of
 old, it’s a pathological obsession with gainful employment.
@@ -138,12 +138,12 @@ have to work for, rather than a right we all deserve.
 
 Up until a few centuries ago, almost everybody worked in agriculture. That left
 an affluent upper class free to loaf around, live off their private assets, and
-wage war – all hobbies that don’t create wealth but at best shift it about, or
+wage war – all hobbies that don't create wealth but at best shift it about, or
 at worst destroy it. Any blue-blooded noble was proud of this lifestyle, which
 gave the happy few the hereditary right to line their pockets at the expense of
 others.
 
-The bottom line is that wealth can be concentrated somewhere, but that doesn’t
+The bottom line is that wealth can be concentrated somewhere, but that doesn't
 also mean that’s where it’s being created. This is just as true for your former
 feudal landowner as it is for the current CEO of Goldman Sachs.
 
@@ -177,11 +177,11 @@ The idea that the GDP still serves as an accurate gauge of social welfare is one
 of the most widespread myths of our times.
 
 Given our obsession with it, it’s hard to believe that just 80 years ago the GDP
-didn’t even exist.
+didn't even exist.
 
 If you had asked Hoover how “the economy” was doing, he would have given you a
 puzzled look because he would have had no notion of our modern understanding of
-the word “economy.” “Economy” isn’t really a thing, after all – it’s an idea,
+the word “economy.” “Economy” isn't really a thing, after all – it’s an idea,
 and that idea had yet to be invented.
 
 From the wreckage of depression and war, the GDP emerged as the ultimate
@@ -258,7 +258,7 @@ When we suddenly found ourselves facing the collapse of the entire banking
 sector, there were no real alternatives available; all we could do was keep
 plodding down the same path.
 
-Nowadays, “neoliberal” is a put-down leveled at anybody who doesn’t agree with
+Nowadays, “neoliberal” is a put-down leveled at anybody who doesn't agree with
 the left. Hayek and Friedman, however, were proud neoliberals who saw it as
 their duty to reinvent liberalism.
 

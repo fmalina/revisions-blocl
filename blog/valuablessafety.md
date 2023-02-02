@@ -14,7 +14,7 @@ wallet. Leaving these valuables downstairs overnight and having 6 other
 flatmates could make it hard to find the culprit, if something goes missing.
 
 So it’s best to keep valuables safe and locked away in your room when you’re not
-using them and if you don’t have a lock on your room door, I’m sure most
+using them and if you don't have a lock on your room door, I’m sure most
 landlords would deem it a reasonable request for you to have one for your own
 privacy.
 

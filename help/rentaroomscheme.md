@@ -10,10 +10,10 @@ month tax-free.
 
 Do I have to register?
 ----------------------
-* If you earn £7,500 or less, then the tax exemption is automatic, and you don’t have to do anything unless you normally fill in a tax return then declare the exemption.
+* If you earn £7,500 or less, then the tax exemption is automatic, and you don't have to do anything unless you normally fill in a tax return then declare the exemption.
 * If you earn over £7,500 you pay tax on any income over this amount, if this applies to you just contact your local tax office and complete a yearly tax return and claim your £7,500 allowance.
 
-What if I have rooms in other houses where I don’t live?
+What if I have rooms in other houses where I don't live?
 --------------------------------------------------------
 In this situation you would not join the rent a room scheme, and it would be
 considered as a business, and you would pay tax as normal by contacting your
@@ -37,14 +37,14 @@ will have to pay tax.
 What’s the disadvantage to the scheme?
 --------------------------------------
 The rent a room scheme will benefit most people with the only main disadvantage
-to the scheme being you can’t claim any expenses relating to the letting for
+to the scheme being you can't claim any expenses relating to the letting for
 example, wear and tear, insurance, repairs, heating and lighting.
 
-What if I don’t want to join the scheme?
+What if I don't want to join the scheme?
 ----------------------------------------
-If you don’t want to join the scheme you pay tax on your rental earnings as
+If you don't want to join the scheme you pay tax on your rental earnings as
 normal by contacting your local tax office and completing a tax return form, but
-by doing this you won’t benefit from the £7,500 tax-free benefit, but it does
+by doing this you won't benefit from the £7,500 tax-free benefit, but it does
 mean you will be able to claim for expenses like:
 
 * Wear and tear

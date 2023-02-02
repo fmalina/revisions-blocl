@@ -33,7 +33,7 @@ page White Paper on independence, Scotland’s Future, published in November 201
 read in many respects like a Labour manifesto from the 1970s or 80s –
 intentionally so.
 
-The White Paper didn’t explicitly call for higher taxation in Scotland, but it
+The White Paper didn't explicitly call for higher taxation in Scotland, but it
 certainly indicated a return to tax and spend. And to policies on open
 immigration, unilateral nuclear disarmament, and land reform that were
 unmistakably left-wing. Its attitude to debt, borrowing and currency – and the
@@ -57,7 +57,7 @@ Liberal Democrats, the Social Democratic and Labour Party, or even the Northern
 Irish Democratic Unionist Party, but not with the duly elected representatives
 of Scotland.
 
-This couldn’t have been more damaging to the Scottish Labour Party in a UK
+This couldn't have been more damaging to the Scottish Labour Party in a UK
 election marred by shocking anti-Scottish rhetoric from Tory MPs like Owen
 Paterson who said that ‘the Scots’ were using English tax payers as ‘a piggy
 bank’.
@@ -69,7 +69,7 @@ The nadir came at 4.00am on BBC Scotland’s Election 2015 programme when Ian
 Davidson – who had famously said during the referendum campaign that all that
 remained for the victorious unionists was to ‘bayonet the wounded’ – stuck the
 bayonet in Murphy’s back. ‘He should do the honourable thing and resign,’ he
-said. But Murphy, unlike Alex Salmond, didn’t do the decent thing.
+said. But Murphy, unlike Alex Salmond, didn't do the decent thing.
 
 Labour in Scotland is now in a very dark place. Labour clearly cannot continue
 in its present form.

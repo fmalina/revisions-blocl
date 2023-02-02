@@ -27,7 +27,7 @@ fear of a sudden fall in the value of their own currency. Stability is what all
 businesses and governments want when it comes to currencies.
 
 Many commentators suggest that the building of the Euro was slightly rushed and
-that countries that weren’t quite ready (especially in terms of controlling
+that countries that weren't quite ready (especially in terms of controlling
 government spending) were allowed to join too soon, weakening the Euro and
 prompting the crisis.
 
@@ -35,7 +35,7 @@ Eleven countries entered the Euro in 1999; these were: Austria, Belgium,
 Finland, France, Germany, Ireland, Italy, Luxembourg, Netherlands, Portugal and
 Spain. In addition and at the same time, Europe’s tiniest state currencies of
 Monaco, San Marino and the Vatican City were also replaced by the Euro (although
-these states don’t count as Euro members). Since 1999, six other countries have
+these states don't count as Euro members). Since 1999, six other countries have
 been allowed to join: Greece, Slovenia, Cyprus, Malta, Slovakia and Estonia.
 
 But it’s only since the global financial crash of 2007 and 2008 that the Euro
@@ -75,11 +75,11 @@ crisis or recession then it’s very likely that the UK will follow suit.
 
 Much of the Eurozone countries’ government debt is owned by banks. Now, Britain
 is at the heart of world banking; it makes up nearly 15 per cent of our economy.
-If Eurozone countries can’t pay back all their debts or if the Euro collapses,
+If Eurozone countries can't pay back all their debts or if the Euro collapses,
 the banks will struggle to get their money back and this could mean yet another
 government bailout for the banks (as happened in 2009).
 
-Britain may be in the front line of the Euro crisis but we aren’t the only
+Britain may be in the front line of the Euro crisis but we aren't the only
 country affected. The Eurozone is a massive market for businesses from the US,
 China, India, Japan, Russia and other major world economic powers.
 
@@ -159,5 +159,5 @@ estimated at $3 trillion. That’s a mind-boggling sum and much of it was funded
 by governments around the globe, borrowing in order to pump money into their
 banks, which were on the edge of collapse. At the same time economies around the
 world fell into recession and tax revenues collapsed. A big financial black hole
-was created and it still hasn’t been filled; if anything it’s getting larger.
+was created and it still hasn't been filled; if anything it’s getting larger.
 

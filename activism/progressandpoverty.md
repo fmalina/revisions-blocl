@@ -239,7 +239,7 @@ or to follow the most blatant demagogue. One class has become too rich to be
 stripped of its luxuries, no matter how public affairs are administrated.
 Another class is so poor that promises of a few dollars will outweigh abstract
 considerations on election day. A few roll in wealth while the many seethe with
-discontent at things they don’t know how to remedy. 
+discontent at things they don't know how to remedy. 
 
 Honest and patriotism are handicapped, while dishonesty brings success. The best
 sink to the bottom, the worse float to the top. The vile are ousted only by the

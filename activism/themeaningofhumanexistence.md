@@ -182,7 +182,7 @@ person.
 No scientific quest is more important to humanity than to nail the phantom of
 conscious thought.
 
-The physical basis of consciousness won’t be an easy phenomenon to grasp. The
+The physical basis of consciousness won't be an easy phenomenon to grasp. The
 human brain is the most complex system known in the Universe, either organic or
 inorganic.
 

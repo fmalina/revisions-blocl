@@ -30,7 +30,7 @@ This will work for you all the time, as people who have rooms will offer them to
 
 6. **Save your favourite adverts**  
 
- Remember to save your favourite adverts, so you don’t have to go trawling right down the list again.
+ Remember to save your favourite adverts, so you don't have to go trawling right down the list again.
 
 7. **Contacting landlords**  
 
@@ -56,5 +56,5 @@ This will work for you all the time, as people who have rooms will offer them to
 10. **Decision time**  
 
  When deciding on the right property, remember you’ll be living there for the foreseeable future.
- Don’t make a rash decision unless you feel entirely comfortable.
+ Don't make a rash decision unless you feel entirely comfortable.
  Once decided be prepared with the first month’s rent and [bond to secure the property](/help/deposit).

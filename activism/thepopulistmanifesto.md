@@ -11,7 +11,7 @@ alone politics.
 
 Government by definition should be popular. Government can concern itself less
 with reducing the structural deficit or hitting target inflation or boosting GDP
-– the things that ordinary folk couldn’t care less about. Popular government
+– the things that ordinary folk couldn't care less about. Popular government
 puts into perspective these false prophets of prosperity. It focuses instead on
 the expansion of the bare necessities of life and delivers fair access to them.
 These are the things that really mean something.
@@ -64,8 +64,8 @@ political beauty contest and are beginning to demand real change.
 Economics is dead. It is a discredited academic discipline. Economists have
 failed to bring prosperity into the realm of objective reason as it promised.
 Economics is a dismal science. Economists do not agree with each other.
-Economists did not predict the 2008 crisis. Economists don’t know why the 2008
-crisis happened, they don’t know what is happening and they don’t know what is
+Economists did not predict the 2008 crisis. Economists don't know why the 2008
+crisis happened, they don't know what is happening and they don't know what is
 going to happen next or what to do. Economists have nothing to offer beyond
 confusion. Economists, like politicians, are more of a hindrance than a help.
 
@@ -289,7 +289,7 @@ consequences of neglecting the problem of rising unemployment will lead to
 wasted human life.
 
 Perhaps it is time to condemn economists as false prophets of prosperity that
-don’t even understand their own doctrine. It is not beyond the wit of man that
+don't even understand their own doctrine. It is not beyond the wit of man that
 the whole economist thing is a capitalist conspiracy. It would make an
 interesting Bond movie script. Evil villain deep in thought gets idea. Instead
 of take over the world why not get 99% of the world’s population to enslave
@@ -328,7 +328,7 @@ The average retail price of higher value crops is currently about $3/kilo so the
 allotment can produce 40x1000x3 = $120,000 per hectare per year.
 
 The cause of the boom and bust capitalist economy is usually a housing boom. It
-doesn’t seem to matter how many times it has happened before it always happens
+doesn't seem to matter how many times it has happened before it always happens
 again.
 
 Britain has had several property booms and busts and the general economy has
@@ -359,8 +359,8 @@ promptly sell the reservoirs to become property developments is a disgrace that
 beggars belief
 
 People may eventually ask themselves why do we need representative government
-anyway. Why can’t we vote for policies instead of politicians? After all,
-everybody is connected to everybody all the time so why can’t we represent
+anyway. Why can't we vote for policies instead of politicians? After all,
+everybody is connected to everybody all the time so why can't we represent
 ourselves and ask each other what we think and want?
 
 The people of a nation can be trusted with their own power and as confidence

@@ -44,13 +44,13 @@ retail or commercial banking.
 The world of banking is so much bigger than the dealmakers and traders who
 dominate the public’s idea of us.
 
-There are three kinds of economists: those who can add up and those who can’t.
+There are three kinds of economists: those who can add up and those who can't.
 Economists correctly predicted seven out of the last three crises. Half of
 economics is actually very useful – too bad economists can never agree which
 half.
 
 I asked about the biggest taboo in his job, the worst possible misstep for
-someone like him. He didn’t hesitate: ‘Breaching confidentiality.
+someone like him. He didn't hesitate: ‘Breaching confidentiality.
 
 As an outsider in 2008, it had looked like a genuinely serious crisis, but not
 end-of-the-world serious - what could very well have been an unimaginable
@@ -103,7 +103,7 @@ I remember a sense of relief, almost, when I began to understand just how few
 people were directly involved in the crash. At least this had not been a
 comprehensive conspiracy on the part of the entire sector.
 
-Until you turn it on its head. If you think about it, isn’t it all the more
+Until you turn it on its head. If you think about it, isn't it all the more
 alarming if virtually nobody in the sector realised how dangerous these complex
 financial products could be?
 
@@ -121,7 +121,7 @@ The more investment bankers I met the more I learnt to see this type of bank as
 consisting of a complicated cluster of islands that operate under one flag.
 
 When asked about their responsibility for the crash they could join all those
-others in the City in saying: ‘It wasn’t me.’ That even applies to most of the
+others in the City in saying: ‘It wasn't me.’ That even applies to most of the
 ‘structurers’ who invent or build complex financial products.
 
 So huge have investment banks become that they can give rise to subcultures, and
@@ -244,7 +244,7 @@ the subject of heated discussion.
 
 In the spring of 2012, a trader at the London offices of JP Morgan by the name
 of Bruno Iksil managed with his small team to run up a $6.2 billion loss. Iksil
-didn’t break any laws and has never been prosecuted.
+didn't break any laws and has never been prosecuted.
 
 The fewer people who understand what is going on, the more room there is for
 misunderstanding, miscalculation and abuse.
@@ -279,7 +279,7 @@ products worked but rather why, before the crash, so few insiders took an
 interest.
 
 In his memoirs, Alistair Darling writes about the top bankers he had to
-negotiate bailouts with in the dark days of the crash: They didn’t understand
+negotiate bailouts with in the dark days of the crash: They didn't understand
 what they were doing, the risks they were taking on, or, often, the products
 they were selling. The top management in banks both here and in the US failed to
 understand – or even ask – what was apparently making them so much profit and
@@ -333,7 +333,7 @@ Ultimately, regulators rely on self-declaration: what is presented by a bank’s
 internal management.
 
 The trouble is, he said with a perfectly calm smile, a bank’s internal
-management often don’t know what’s going on themselves because banks today are
+management often don't know what’s going on themselves because banks today are
 so vast and hugely complex.
 
 ‘Recruiters get hold of your CV and make offers on behalf of banks.’‘That’s the
@@ -343,7 +343,7 @@ your current salary.’
 I suppose that until meeting that senior regulator I had a sliver of hope of
 hearing some good news, and a convincing reason that everything had been done to
 avoid a repeat of the last crash. ‘Has the sector been fixed after the crisis?’
-I asked him straight out. His answer: ‘I don’t think so.’
+I asked him straight out. His answer: ‘I don't think so.’
 
 \*\*\*
 
@@ -378,11 +378,11 @@ Masters of the Universe make out of it. For blinkered bankers their work has
 quite simply become their world.
 
 I have found that many outsiders are deeply reluctant to accept that to an
-important degree the financial world isn’t populated by people wilfully doing
+important degree the financial world isn't populated by people wilfully doing
 evil but by conformists who have simply stopped asking questions about right and
 wrong.
 
-‘When you make $100,000 a month, you basically don’t have common interests with
+‘When you make $100,000 a month, you basically don't have common interests with
 your friends any more.’
 
 To think that blinkered bankers will one day wake up and decide to change
@@ -394,7 +394,7 @@ bankers, I found in the City two more groups of people.
 The first group might be called the delusional bankers, as they have lost touch
 not only with the rest of society but also with reality.
 
-They are addicted to their work, they don’t acknowledge there is a problem and
+They are addicted to their work, they don't acknowledge there is a problem and
 there is no longer a coherent perspective underpinning their views.
 
 In the Libor and FX scandals, traders at big banks and brokerages manipulated
@@ -419,15 +419,15 @@ interview of all.
 
 For the financial sector to ever improve, he said, ‘you’d have to untangle the
 inherent tendency to amorality. And that tendency is embedded in the system.
-Regulation to keep the City in check? Don’t hold your breath. No matter what
+Regulation to keep the City in check? Don't hold your breath. No matter what
 rules you put in place, they’ll always find ways around it. It’s like the
 Prohibition.’
 
 ‘If you shaft people and get a very good deal, that’s considered the greatest
-thing there is. That’s what it’s all about, isn’t it?’
+thing there is. That’s what it’s all about, isn't it?’
 
 This was the interview that pushed me from anger directly into despair and as I
-was writing up my notes I caught myself thinking a few times: please, don’t let
+was writing up my notes I caught myself thinking a few times: please, don't let
 this be true.
 
 It might be possible to reform the incentive structure in banks so that bankers

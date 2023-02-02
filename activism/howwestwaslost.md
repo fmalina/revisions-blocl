@@ -62,11 +62,11 @@ regions have already been propping up failing Western financial institutions
 The uncomfortable truth is that the West is desperately strapped for cash. Like
 the rules of engagement that have governed the market economies of the
 industrialized West for more than 200 years, it all boils down to cash; who has
-it and who doesn’t.
+it and who doesn't.
 
 In the global bidding war – for property, for companies, for commodities, for
 anything of value – the West will rarely be seen: it’s fast running out of
-money. But it wasn’t always this way. It once had plenty, and even surplus. The
+money. But it wasn't always this way. It once had plenty, and even surplus. The
 reason the West finds itself in this predicament is because of what it did with
 the money when it had it – it misallocated it.
 
@@ -248,7 +248,7 @@ redirected to endeavours that have arguably little benefit to society as a
 whole.
 
 Superior know-how should have always given the West a leading edge. But it
-didn’t. Even when technology has not been stolen, it’s been given away. Western
+didn't. Even when technology has not been stolen, it’s been given away. Western
 companies fell for the allure of low costs of production, and set up shop across
 the emerging world in droves.
 
@@ -359,7 +359,7 @@ not just about competition, but about security, with the side effect of food
 inflation as food scarcity becomes a relative certainty.
 
 No one ever said it would be plain sailing, but the Rest have something the West
-hasn’t got – the political mettle to drive the decisions that they need to take
+hasn't got – the political mettle to drive the decisions that they need to take
 to keep their societies afloat.
 
 Herein lies the essential difference between the mindset of the Rest and the

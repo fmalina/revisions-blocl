@@ -27,7 +27,7 @@ digital age error and miscalculation will occur more often. Internationally, the
 result will be more cyber conflict and new types of physical wars, and, as we
 will now see, new revolutions.
 
-We all know the story of the Arab Spring, but what we don’t know is what comes
+We all know the story of the Arab Spring, but what we don't know is what comes
 next. There can be little doubt that the near future will be full of
 revolutionary movements, as communication technologies enable new connections
 and generate more room for expression. And it’s clear that certain tactical
@@ -107,7 +107,7 @@ state can still use brutal tactics in crackdowns on the street.
 Third, states will have to practice two foreign policies and two domestic
 policies—one for the virtual world and one for the physical world—and these
 policies may appear contradictory. States will launch cyber attacks against
-countries they wouldn’t dream of targeting militarily. They’ll allow for the
+countries they wouldn't dream of targeting militarily. They’ll allow for the
 venting of dissent online, but viciously patrol the town square looking for
 vocal dissidents to crack down on. States will support emergency
 telecommunications interventions without even considering putting boots (or
@@ -141,5 +141,5 @@ education or self-determination should consider how connectivity can help us
 reach these goals and even move beyond them. We cannot eliminate inequality or
 abuse of power, but through technological inclusion we can help transfer power
 into the hands of individual people and trust that they will take it from there.
-It won’t be easy, but it will be worth it.
+It won't be easy, but it will be worth it.
 

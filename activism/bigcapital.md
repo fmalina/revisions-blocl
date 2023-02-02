@@ -14,7 +14,7 @@ The rate of return on London property far exceeds growrh, let alone wages.
 I hope to expose the lie that the housing crisis is a market question of supply
 and demand.
 
-The UK housing market doesn’t function like a pure market: it is linked to
+The UK housing market doesn't function like a pure market: it is linked to
 global capital flows, not local circumstances.
 
 The UK housing is now, first and foremost, a financial asset, a safety deposit
@@ -154,7 +154,7 @@ less.
 
 While housing has long undergone a process of stealth privatization, this
 accelerated sharply in 2010 when the Conservative-led coalition came to power -
-many leading Tories simply don’t believe in social housing.
+many leading Tories simply don't believe in social housing.
 
 The contradictions of today’s planning system and the failure of the housing
 market to provide anything like the number of homes people need have preoccupied
@@ -268,7 +268,7 @@ number of entrants to teacher training has fallen 16 per cent since 2010.
 Philip Hammond banned lettings agents’ fees in his 2016 Autumn Statement, which
 is the biggest victory for private renters to date.
 
-A key reason for this political failure is that ‘people who don’t experience
+A key reason for this political failure is that ‘people who don't experience
 this issue are in charge’, a third of MPs are buy to let landlords.
 
 When individuals lose their homes, they can lose not just their physical shelter

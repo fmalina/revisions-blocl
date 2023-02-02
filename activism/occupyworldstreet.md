@@ -269,7 +269,7 @@ none of my shareholders care a rat’s ass what I do or how I do it, providing I
 keep them swimming in cash.
 
 I know too, by the way, that the dark forces I play with are playing with me.
-I’m under no illusion that will not someday have to pay a price. Don’t the
+I’m under no illusion that will not someday have to pay a price. Don't the
 French say ‘The devil has no friends’? I’m willing to pay that price in return
 for being able to afford this restaurant, in return for being able to ring up
 the president of the United States in front of my houseguests to impress them.

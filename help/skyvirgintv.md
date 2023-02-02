@@ -8,7 +8,7 @@ giving everyone in the house something to enjoy.
 These providers also offer multiroom this will allow tenants to watch Sky or
 Virgin TV in there room. This way everyone is happy and gets to watch what they
 want. If there’s a football fan in the house, but you are watching Corrie, they
-don’t have to miss out.
+don't have to miss out.
 
 Packages normally start from around £17 a month, better packages from around £30
 and adding multiroom to your package normally costs around £5-10 per month per

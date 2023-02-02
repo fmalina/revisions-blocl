@@ -6,7 +6,7 @@ By **Douglas Carswell**
 ‘Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round
 pegs in the square holes. The ones who see things differently. They’re not fond
 of rules. And they have no respect for the status quo. You can quote them,
-disagree with them, glorify or vilify them. About the only thing you can’t do is
+disagree with them, glorify or vilify them. About the only thing you can't do is
 ignore them. Because they change things. They push the human race forward. And
 while some may see them as the crazy ones, we see genius. Because the people who
 are crazy enough to think they can change the world are the ones who do.’- STEVE
@@ -75,7 +75,7 @@ Donald Trump’s bid for the Republican nomination was propelled by blanket TV
 coverage. Nigel Farage has had airtime on all the main TV outlets out of all
 proportion to his own electoral performance.
 
-Thirty years ago, there were no blog sites. Before 2004, there wasn’t even any
+Thirty years ago, there were no blog sites. Before 2004, there wasn't even any
 Twitter or Facebook
 
 Italy’s Beppe Grillo has over two million followers on Twitter. Donald Trump has
@@ -177,7 +177,7 @@ the same vested interests.
 I did not just lose faith in Cameron. I was also questioning what it was to be a
 conservative at all.
 
-The New Radicals have a point, don’t they? There is something wrong with
+The New Radicals have a point, don't they? There is something wrong with
 mainstream politics.
 
 Democracy on either side of the Atlantic has retained its outward form. But it
@@ -503,7 +503,7 @@ capital was invested in new industrial technology.
 Consequently, Dutch productivity increased and production rapidly expanded.
 
 Because Holland’s gains were made possible by an absence of parasitism,
-prosperity wasn’t concentrated but shared, Dutch living standards soared.
+prosperity wasn't concentrated but shared, Dutch living standards soared.
 
 The English, too, had those three magic ingredients – independence, dispersed
 power and interconnectedness – necessary to induce intensive economic take-off.
@@ -562,7 +562,7 @@ parasitic oligarchy retakes control.
 Productive civilization is a more fragile thing than we perhaps care to
 understand.
 
-Nazi despotism didn’t stop at abolishing democracy and dissent; it relied on an
+Nazi despotism didn't stop at abolishing democracy and dissent; it relied on an
 assault on private property and economic freedom, too.
 
 In Japan, which came to be Nazi Germany’s most powerful ally, the productive
@@ -688,7 +688,7 @@ When it comes to public policy provision, we subject young people to the whim of
 It fosters a sense among the governing that there is nothing they cannot
 organize. It’s a pretty disastrous way to try to run a country.
 
-Small, self-serving elites don’t just mislead the masses. They deceive
+Small, self-serving elites don't just mislead the masses. They deceive
 themselves.
 
 Those who today preside over public administration like to see the world as a
@@ -906,7 +906,7 @@ All public spending needs to be made public.
 Let us see a list of those, like the heads of the BBC or those who run the local
 NHS, with their six-figure salaries.
 
-It’s the public’s money they are getting, so why shouldn’t the public know about
+It’s the public’s money they are getting, so why shouldn't the public know about
 it?
 
 \*\*\*

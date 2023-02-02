@@ -31,7 +31,7 @@ related to inadequate resources and refusal to look ahead, and all of them are
 bound up with a philosophy that despises planning, activism and the mobilisation
 of collective resources.
 
-The way forward isn’t ‘reform’ as preached by those who want to further weaken
+The way forward isn't ‘reform’ as preached by those who want to further weaken
 government by bringing in yet more consultants and private firms.
 
 After 40 years of ideological assault, the state is in trouble.
@@ -48,7 +48,7 @@ Europe.
 Powerful theories have been propagated and imposed by ideas merchants and
 thinktankers in the pay of American business interests.
 
-Why can’t government services be like Marks and Spencer, asked Margaret
+Why can't government services be like Marks and Spencer, asked Margaret
 Thatcher.
 
 The answer then and now is that the state is not selling knickers or sandwiches.
@@ -92,7 +92,7 @@ Long before the Cameron coalition began the disastrous dissection of the NHS.
 
 What constitutes ‘the state’? The list of components is loose.
 
-Perhaps that’s why ‘the state’ won’t mean much to many people. For the Treasury
+Perhaps that’s why ‘the state’ won't mean much to many people. For the Treasury
 it’s a set of allocations to departments – defence, intelligence, the Home
 Office, Scotland, justice, HMRC, arm’s-length bodies and so on.
 
@@ -249,7 +249,7 @@ and 2019.
 
 Manchester had to cut its workforce by a huge 40 per cent.
 
-Contrary to claims about ‘Big Society’, volunteers won’t pick up those pieces.
+Contrary to claims about ‘Big Society’, volunteers won't pick up those pieces.
 Grants to voluntary bodies have also been cut by two thirds.
 
 The Asphalt Industry Alliance valued outstanding road repairs in England at
@@ -443,17 +443,17 @@ Osborne once promised a ‘march of the makers’, he soon created a march of
 destruction, ideologically anti-green.
 
 The government allocated some £530m to rural broadband, in what became a vast
-welfare programme for BT, which took the money but hasn’t yet supplied the
+welfare programme for BT, which took the money but hasn't yet supplied the
 goods.
 
 The Tory model has become one where the state does the digging and building,
 with the aim of privatising later, at a discount.
 
-It’s not that market capitalism doesn’t work, but it can’t be relied upon
+It’s not that market capitalism doesn't work, but it can't be relied upon
 without supervision, planning and direct state involvement – above all in
 transport and energy.
 
-Most ministers are inept managers and haven’t a clue what departments and
+Most ministers are inept managers and haven't a clue what departments and
 arm’s-length bodies actually do. Yet we persist with the assumption that civil
 servants only ever act in the politicians’ names.
 
@@ -588,7 +588,7 @@ Poor quality housing is already adding to the costs of the NHS by £2.5bn a year
 
 Home ownership fell drastically, to just 51 per cent of tenures in December 2016
 
-Most ministers are inept managers and haven’t a clue what departments and
+Most ministers are inept managers and haven't a clue what departments and
 arm’s-length bodies actually do. Yet we persist with the assumption that civil
 servants only ever act in the politicians’ names.
 
@@ -875,8 +875,8 @@ beat – all these come at an opportunity cost to others.
 In this book we have tracked the decline, the cracks and the breakages in the
 state under a decades-long ideological barrage, now cast as pragmatic austerity.
 
-But the evidence from this brutal experiment says plainly that markets don’t and
-won’t fill the void.
+But the evidence from this brutal experiment says plainly that markets don't and
+won't fill the void.
 
 What’s needed is a spirit of investment and national self-belief on a grand
 scale.

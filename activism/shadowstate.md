@@ -69,7 +69,7 @@ The use of PFI grew at a tremendous rate under New Labour.
 New Labour picked up the Conservatives’ ball and ran with it. Public services
 were handed to the private sector on an ever-increasing scale.
 
-Tony Blair’s autobiography doesn’t make any explicit mention of outsourcing as
+Tony Blair’s autobiography doesn't make any explicit mention of outsourcing as
 an ideology. There’s some mention of not ending up in hock to public sector
 unions, and some left-wing analysts have seen this as the fundamental goal for
 Blair’s administration.
@@ -101,7 +101,7 @@ defence, welfare, health and justice, while maintaining the public’s best
 interests?
 
 The work we ask outsourcing firms to do is often concerned with the dignity of
-vulnerable people. In a civilized country, there shouldn’t be any muddiness over
+vulnerable people. In a civilized country, there shouldn't be any muddiness over
 the question of accountability when this work is carried out.
 
 I was left with a lot of questions about the outsourcing industry but the
@@ -150,10 +150,10 @@ The Work Programme’s PbR [payment by results] model sees ‘primes’ – A4e,
 the like – subcontract out work to smaller businesses and charities.
 
 In 2015 the National Audit Office issued a report that stated PbR was not only a
-challenging form of contracting, but clearly couldn’t work for every service –
+challenging form of contracting, but clearly couldn't work for every service –
 undermining quality and value for money if badly implemented.
 
-Ministers’ optimistic rhetoric on PbR simply doesn’t match the evidence.
+Ministers’ optimistic rhetoric on PbR simply doesn't match the evidence.
 
 The problem with administering these projects badly is that standards can fall
 by the wayside in the drive for profit. Hardly a suitable model upon which to
@@ -185,7 +185,7 @@ Outsourcers will tell you how they can save money. But few can promise to make
 things better. Qualitative improvements are impossible to claim because they’re
 dealing with people, who are hugely complex.
 
-There also isn’t robust data on how the state is doing to begin with.
+There also isn't robust data on how the state is doing to begin with.
 
 Whether it’s in the courts, prisons or probation, the Ministry of Justice has
 outsourced at a breakneck speed in recent years.
@@ -197,7 +197,7 @@ have generated a slew of scandals.
 
 The Health and Social Care Act 2012 is a huge, complex Act of Parliament. It
 will be years – perhaps decades – before we know for sure which elements of it
-have merit and which don’t.
+have merit and which don't.
 
 A 2012 Guardian data investigation found overwhelming lack of support among the
 royal colleges and organizations representing the medical profession.
@@ -207,7 +207,7 @@ already questions about the unhealthy influence of the profit incentive on the
 NHS.
 
 In June 2014 the Bureau for Investigative Journalism (BIJ) discovered that
-thousands of NHS patients – some seriously ill – hadn’t received vital medicines
+thousands of NHS patients – some seriously ill – hadn't received vital medicines
 on time because Healthcare at Home, a company which had been contracted to
 deliver them to their homes, had failed to do so.
 
@@ -289,7 +289,7 @@ related.
 
 The fundamental thing is about management – it’s about managing these companies,
 rigorously and effectively, not enough money is spent by the government on
-oversight. It simply doesn’t employ enough people to oversee the firms it’s
+oversight. It simply doesn't employ enough people to oversee the firms it’s
 contracted.
 
 So who is managing this risk? Who’s managing our learning process? Well, no
@@ -300,7 +300,7 @@ one...
 The truth is most services, most days of the week, most weeks of the year are
 delivered in a way most people most of the time find useful.
 
-While outsourcing itself isn’t an ideology, the decision to outsource most
+While outsourcing itself isn't an ideology, the decision to outsource most
 assuredly can be born of one.
 
 The political ideology among our main parties when it comes to outsourcing is
@@ -324,7 +324,7 @@ the process from media criticism.
 The primary deliverer – in your case the state – has a huge responsibility to
 procure effectively and to manage robustly.
 
-Most right-wing think tanks don’t reveal their funders but the fact they receive
+Most right-wing think tanks don't reveal their funders but the fact they receive
 large sums from outsourcing companies is hardly a well-kept secret.
 
 This issue of transparency is the biggest failing in the outsourcing industry’s
@@ -395,7 +395,7 @@ who?
 Tom Gash from the Institute for Government told me that however the saga
 eventually plays out, the end result has been disastrous.
 
-It doesn’t matter who’s running prisons or building roads. You don’t outsource
+It doesn't matter who’s running prisons or building roads. You don't outsource
 responsibility. The government’s ability to negotiate and manage outsourcing
 contracts is highly questionable.
 
@@ -414,7 +414,7 @@ government contracts with huge price tags attached and delivered relatively poor
 value for money.
 
 It would be nice to know there’s someone in government working out which bits
-worked and which didn’t, and the reality is absolutely nobody is.
+worked and which didn't, and the reality is absolutely nobody is.
 
 Some sort of change needs to happen in terms of the relationship between the
 state and private sectors.
@@ -430,7 +430,7 @@ impetus to outsource.
 There’s evidence to suggest that they are responsible for wages falling across
 the country, thus ultimately harming the British economy.
 
-The truth is that Britain has been hijacked by a group of companies that don’t
+The truth is that Britain has been hijacked by a group of companies that don't
 offer the value they say they do. They operate in a broken market, squeezing out
 or sitting on smaller providers who could bring more expertise to the arenas in
 which they operate. They are given an easy ride, because government offers no

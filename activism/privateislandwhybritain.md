@@ -19,7 +19,7 @@ Thatcher’s programme in Britain was an inspiration for the IMF and the World
 Bank as they experimented with the conditions they attached to bail-out loans to
 developing countries.
 
-I don’t want to absolve the Russians or Ukrainians of responsibility for their
+I don't want to absolve the Russians or Ukrainians of responsibility for their
 handling of the aftermath of communism, but the template they were handed by the
 fraternity of the Washington Consensus was based on fake history. If this is
 what the triumphalists of Wall Street and the City of London told the Russians
@@ -55,7 +55,7 @@ threatened.
 Thatcher and her allies have promoted the notion that greed on the part of a
 private executive elite is the chief and sufficient engine of prosperity for
 all. The result has been thirty-five years of denigration of the concept of duty
-and public service and a squalid ideal of all work as something that shouldn’t
+and public service and a squalid ideal of all work as something that shouldn't
 be cared about for its own sake, but only for the money it brings.
 
 Not only are the privatised utilities big, remote corporations; most of them are
@@ -136,7 +136,7 @@ days – on the basis that the floods were an exceptional event, outside the
 company’s control.
 
 Yet, like all England’s private water companies, Severn Trent would have more
-money to invest in rebuilding and improving the water system if it didn’t pay
+money to invest in rebuilding and improving the water system if it didn't pay
 out such hefty sums in dividends each year to the shareholders who own it. In
 2007, the year Severn Trent failed its customers catastrophically for the lack
 of a £25 million pipeline, then declined to compensate them, it handed over the
@@ -157,9 +157,9 @@ the water companies; and the company staff, like a property management agency,
 collecting the rent and maintaining the property. Every so often a government
 inspector – Ofwat – comes round, sets a limit on how much rent the property
 managers can charge, and tells them they should get a move on with the
-renovation. But if we don’t like the property, the management agency or the
-landlords, or if we think the rent is too high, we don’t have any choice. We
-can’t move to a cheaper property, or a better-run one; we’re stuck.
+renovation. But if we don't like the property, the management agency or the
+landlords, or if we think the rent is too high, we don't have any choice. We
+can't move to a cheaper property, or a better-run one; we’re stuck.
 
 Water privatisation has thrust international generosity on the English public.
 Popular discontent with the supposed impositions of the European Union is
@@ -242,7 +242,7 @@ showcase for unproven French nuclear technology. And because the unacknowledged
 taxes in electricity bills take no account of people’s earnings, the poorer you
 are,the higher your tax.
 
-Electricity privatisation hasn’t been a success in bringing down prices.
+Electricity privatisation hasn't been a success in bringing down prices.
 
 It has been a failure in terms of British industry and management; the best
 measure of the scale of folly and betrayal by politicians of both parties is the
@@ -254,7 +254,7 @@ predominantly foreign-owned electricity companies to collect flat-rate taxes
 that hit the poor disproportionately.
 
 Martyn Porter, a senior surgeon and the hospital’s clinical chairman. ‘The
-problem with politicians is they can’t be honest,’ he declared. ‘If they said,
+problem with politicians is they can't be honest,’ he declared. ‘If they said,
 “We’re going to privatise the NHS,” they’d be kicked out the next day.’
 
 In 2012, the Coalition responded to the clamour against Lansley’s reorganisation
@@ -280,7 +280,7 @@ the more clearly you can see a consistent programme for commercialising the NHS
 that is independent of party political platforms.
 
 The post-political careers of the Labour cabinet ministers responsible for
-marketising the NHS don’t make for comfortable reading.
+marketising the NHS don't make for comfortable reading.
 
 A Harvard-led study found that 62 per cent of all bankruptcies in the United
 States in 2007 were due to medical bills, an increase of 50 per cent in six
@@ -305,9 +305,9 @@ explicit intention, it is a let-the-poor-be-poor crusade, a Campaign for Real
 Poverty. The government has stopped short of openly declaring war on the poor.
 But how different would the situation be if it had?
 
-Right to Buy was a massive handout to people who weren’t supposed to need
+Right to Buy was a massive handout to people who weren't supposed to need
 handouts. In fact, that was why they got the handout – because they were the
-kind of people who didn’t need handouts.
+kind of people who didn't need handouts.
 
 It was Britain’s biggest privatisation by far, worth some £40 billion in its
 first twenty-five years. But the money earned from selling Britain’s vast
@@ -320,7 +320,7 @@ bricks and mortar, only to be forced to rent it back, at inflated prices, from
 the people they sold it to.
 
 As everywhere in the South-East, there is a huge, growing, unsatisfied need for
-housing that doesn’t require you to earn an above average income to afford. With
+housing that doesn't require you to earn an above average income to afford. With
 the original council housing stock still dwindling and not being replaced, how
 is that need going to be met? One possibility is that slums will come back.
 
@@ -349,7 +349,7 @@ slums. We undoubtedly face the re-creation of slums, the enrichment of bad
 landlords, the risk of people being destitute. Beveridge had soup kitchens. We
 have food banks.
 
-The advent of the age of gentrification doesn’t preclude the advent of
+The advent of the age of gentrification doesn't preclude the advent of
 slumification, and nostalgia becomes prophecy.
 
  [\*](#ASIN:B00N77GTL2;LOC:1813)

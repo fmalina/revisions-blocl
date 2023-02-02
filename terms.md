@@ -68,7 +68,7 @@ code.
 
 Due to the nature of software and the internet, we do not warrant that
 your access to, or the running of, this site will be uninterrupted or error
-free. We shall not be liable if we can’t process your details due to
+free. We shall not be liable if we can't process your details due to
 circumstances beyond our reasonable control. 
 
 We try to keep information on the site is accurate, complete and up-to-date,
@@ -118,7 +118,7 @@ acknowledge all customer feedback.
 
 30 days premium package guarantee
 ---------------------------------
-Applicable if you don’t find a place / tenant within a month despite proactively
+Applicable if you don't find a place / tenant within a month despite proactively
 contacting other members on the site looking for a tenant or accommodation.
 Applicable once, if requested within 10 days after expiration of your 30 days
 premium membership.     No cash alternative.
@@ -163,7 +163,7 @@ may appear in their search results.
 Advert description contact details
 ----------------------------------
 Members have a specific area when signing up to enter their email address,
-surnames and phone number. We don’t allow phone numbers, web addresses, email
+surnames and phone number. We don't allow phone numbers, web addresses, email
 addresses, surnames, terms like "view me on Facebook" or terms that guide people
 away from our site in advert descriptions. This keeps the website profitable so
 users can enjoy a great service. Members that do put details like the above in
@@ -198,7 +198,7 @@ truthfulness of what they write, include or don't include.
 
 Advertising authority
 ---------------------
-If we have been made aware you don’t have the authority to advertise your room
+If we have been made aware you don't have the authority to advertise your room
 or property we reserve the right to turn off your advert.
 
 General

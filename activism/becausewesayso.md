@@ -84,7 +84,7 @@ America vastly exceeded those in the Soviet Union and its East European
 satellites.”
 
 “dissidents are heroic,” but they can be “irritants to American diplomats who
-have important business to transact with countries that don’t share our values.”
+have important business to transact with countries that don't share our values.”
 
 It’s unnecessary to dwell on the extreme dangers posed by one central element of
 the destruction of the commons: the reliance on fossil fuels, which courts
@@ -124,7 +124,7 @@ human dignity of the people in Gaza in particular and all Palestinians
 generally. It is systematic degradation, humiliation, isolation and
 fragmentation of the Palestinian people.”
 
-A visitor to Gaza can’t help feeing disgust at the obscenity of the occupation,
+A visitor to Gaza can't help feeing disgust at the obscenity of the occupation,
 compounded with guilt, because it is within our power to bring the suffering to
 an end and allow the Samidin to enjoy the lives of peace and dignity they
 deserve.
@@ -233,7 +233,7 @@ Adam Smith acknowledges the power of what he calls the “vile maxim of the
 masters of mankind”: “All for ourselves, and nothing for other people.”
 
 Classical liberalism shipwrecked on the shoals of capitalism, but its humanistic
-commitments and aspirations didn’t die.
+commitments and aspirations didn't die.
 
 This broad tendency in human development seeks to identify structures of
 hierarchy, authority and domination that constrain human development, and then
@@ -328,7 +328,7 @@ security of powerful domestic sectors. One persistent example is the mislabeled
 principles and are substantially not about trade at all, but rather about
 investor rights. These instruments are regularly negotiated in secret.
 
-They aren’t secret from the hundreds of corporate lobbyists and lawyers who are
+They aren't secret from the hundreds of corporate lobbyists and lawyers who are
 writing the detailed provisions, with an impact revealed by the few parts that
 have reached the public [\*](#ASIN:B00R3C1SQ8;LOC:1963) with the U.S. Trade
 Representative’s office “representing corporate interests,” not those of the

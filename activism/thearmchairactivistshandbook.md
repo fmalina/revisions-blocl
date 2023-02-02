@@ -82,7 +82,7 @@ sound particularly radical.
 
 For a long time I've found it far too easy to forget that the world's access to
 many natural resources is controlled by a handful of corporations. On the
-surface, at least, it wasn’t something that played a really obvious part of my
+surface, at least, it wasn't something that played a really obvious part of my
 life. As long as my supplies were coming through OK, I figured, why stress? But
 then I looked a little closer and I got a wake-up call.
 
@@ -104,7 +104,7 @@ was a tool that would allow me to do that.
 We all use high streets and most of us notice the run-down areas around some of
 them, but the way those areas are managed isn't generally seen as something
 anyone can change. By and large, we trust in the powers that be to see that
-they're well looked after. But what happens when those areas aren’t maintained
+they're well looked after. But what happens when those areas aren't maintained
 properly?
 
 I knew I only had the capacity for actions that were quite small and what I
@@ -193,7 +193,7 @@ worth embracing. I, for one, was confident I was doing the right thing, however
 small my contribution might be.
 
 There's a hell of a lot of injustice in the world these days but the most
-effective tools for tackling it aren’t necessarily the get most obvious. That's
+effective tools for tackling it aren't necessarily the get most obvious. That's
 one of the things I was learning on my activism journey - it was about thinking
 outside the normal assumptions.
 

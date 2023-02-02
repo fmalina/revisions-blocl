@@ -6,7 +6,7 @@ By **Pascal Bruckner**
 ![](/bookimg/thetyrannyofguilt.jpg)
 
 There are mosques in Rome, but are there Christian churches in Mecca, Jeddah, or
-Riyadh? Isn’t it better to be a Muslim in Düsseldorf or Paris than a Christian
+Riyadh? Isn't it better to be a Muslim in Düsseldorf or Paris than a Christian
 in Cairo or Karachi?
 
 But it is always from Christianity and from it alone that repentance is
@@ -15,7 +15,7 @@ the Catholic Church has simultaneously betrayThe Tyranny of Guilt: An Essay on
 Western Masochism by Pascal Bruckner
 
 There are mosques in Rome, but are there Christian churches in Mecca, Jeddah, or
-Riyadh? Isn’t it better to be a Muslim in Düsseldorf or Paris than a Christian
+Riyadh? Isn't it better to be a Muslim in Düsseldorf or Paris than a Christian
 in Cairo or Karachi?
 
 But it is always from Christianity and from it alone that repentance is
@@ -49,7 +49,7 @@ Our hearts ache when we contemplate an abandoned church, whereas two hundred
 years earlier, we would have burned it down or pillaged it, perhaps out of
 hatred for the clergy.
 
-These Baroque or Romanesque splendors don’t say to us: Dare! Instead, they
+These Baroque or Romanesque splendors don't say to us: Dare! Instead, they
 command us: Respect, repeat.
 
 Making a tacit oath: never again history and its mass destructions, never again
@@ -110,7 +110,7 @@ lip service because we no longer believe in them.
 Europe has a history but America is history.
 
 America generally begins by making mistakes, sometimes criminal ones, but then
-it corrects them. Europe makes no mistakes because it doesn’t try anything.
+it corrects them. Europe makes no mistakes because it doesn't try anything.
 
 The perpetual peace to which Europe aspires has its source not in Europe but in
 the United States.
@@ -162,7 +162,7 @@ Our hearts ache when we contemplate an abandoned church, whereas two hundred
 years earlier, we would have burned it down or pillaged it, perhaps out of
 hatred for the clergy.
 
-These Baroque or Romanesque splendors don’t say to us: Dare! Instead, they
+These Baroque or Romanesque splendors don't say to us: Dare! Instead, they
 command us: Respect, repeat.
 
 Making a tacit oath: never again history and its mass destructions, never again
@@ -223,7 +223,7 @@ lip service because we no longer believe in them.
 Europe has a history but America is history.
 
 America generally begins by making mistakes, sometimes criminal ones, but then
-it corrects them. Europe makes no mistakes because it doesn’t try anything.
+it corrects them. Europe makes no mistakes because it doesn't try anything.
 
 The perpetual peace to which Europe aspires has its source not in Europe but in
 the United States.

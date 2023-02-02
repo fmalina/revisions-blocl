@@ -5,7 +5,7 @@ By **Dee Hock**
 
 The essence of community, its very heart and soul, is the nonmonetary exchange
 of value; things we do and share because we care for others, and for the good of
-the place. Community is composed of that we don’t attempt to measure, for which
+the place. Community is composed of that we don't attempt to measure, for which
 we keep no record and ask no recompense. Most are things we cannot measure no
 matter how hard we try – such things as respect, tolerance, love, trust, beauty
 – the supply of which is unlimited. The nonmonetary exchange of valuedoes not
@@ -43,14 +43,14 @@ from the organisations of which they are apart?*
 
 *Why are society and the biosphere increasingly in disarray?*
 
-Today, it doesn’t take much thought to realise we’re in an accelerating, global
+Today, it doesn't take much thought to realise we’re in an accelerating, global
 epidemic of institutional failure. Not just failure in the sense of collapse,
 such as the Soviet Union, but more the common and pernicious form: organisations
 increasingly unable to achieve the purpose for which they were created, yet
 continuing to expand as they devour scarce resources, demean the human spirit,
 and destroy the environment.
 
-Schools that can’t teach
+Schools that can't teach
 
 Universities far from universal
 
@@ -64,13 +64,13 @@ Farming systems that destroy the soil and poison food
 
 Families far from familial
 
-Police that can’t enforce the law
+Police that can't enforce the law
 
 Judicial systems without justice
 
-Governments that can’t govern
+Governments that can't govern
 
-Economies that can’t economise
+Economies that can't economise
 
 Such universal, ever accelerating institutional failure suggests there is some
 deep, pervasive question we have not asked, some fundamental flaw in the

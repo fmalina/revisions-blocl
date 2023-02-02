@@ -308,7 +308,7 @@ are fractional reserve banks.
 Debt contracts and banks make financial instability inevitable. Left to itself,
 a free financial system will produce too much private credit.
 
-But shouldn’t we fix the problem by structural reforms rather than expecting
+But shouldn't we fix the problem by structural reforms rather than expecting
 central banks and regulators to manage an inherently unstable system?
 
 Credit markets raise issues of vital general public interest: free market
@@ -357,7 +357,7 @@ or public debts.
 
 Excessive private credit creation produces crisis, debt overhang, and
 post-crisis deflation, and as a result, rising public debt burdens: leverage
-doesn’t go away, it simply shifts from the private to the public sector. But
+doesn't go away, it simply shifts from the private to the public sector. But
 once it has shifted to public debt, it may be easier to negotiate restructuring
 and write-down without harmful shocks to confidence.
 

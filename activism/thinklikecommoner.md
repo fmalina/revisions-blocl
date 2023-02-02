@@ -260,7 +260,7 @@ elements of nature as if they are inert objects that can be isolated from their
 natural context and owned as chattel.
 
 Western imperialists have taken comfort in the legal fiction that the land
-doesn’t belong to anyone — so we can march right in and take it!
+doesn't belong to anyone — so we can march right in and take it!
 
 In this tradition, private property laws today continue to ignore or criminalize
 commoners who use resources in a collective fashion.
@@ -313,7 +313,7 @@ It is clear that the existing nation-state and international treaty
 organizations are not going to set enforceable limits on global carbon
 emissions, for example, or prevent the destruction of fisheries, coral reefs and
 biodiversity loss, all problems that span political jurisdictions. These issues
-have been festering for decades; the Market/State just can’t bring itself to set
+have been festering for decades; the Market/State just can't bring itself to set
 meaningful limits on the commercial activity that’s exacerbating them.
 
 Market culture has insidiously narrowed our imaginations. By privileging the

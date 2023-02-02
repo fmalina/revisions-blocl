@@ -39,7 +39,7 @@ wrote and spoke about food and health, justice, women’s rights, literature, an
 theology as easily and with as much passion and conviction as they wrote about
 geology, physics, and mathematics.
 
-Somewhere along the line - and I don’t claim to be a historian, so I’ll leave
+Somewhere along the line - and I don't claim to be a historian, so I’ll leave
 the details to them - science and theology diverged, to the impoverishment of
 both. Church officials attached rigid dogmas to certain understandings of the
 universe, with the result that any questioning of those understandings
@@ -129,7 +129,7 @@ broken.
 The thing about systems is that they’re resilient.
 
 You can tweak all the details - you can correct the science all you want - but
-if the goal isn’t changed, the system will continue to produce the same outcomes
+if the goal isn't changed, the system will continue to produce the same outcomes
 it always has.
 
 To discover that goal, as with any other system, we have to observe what it
@@ -138,7 +138,7 @@ does, not what it claims to do.
 The goal of our health system is not health; it’s profit for a few industries at
 the expense of the public good.
 
-What all this means is that, in the current system, we don’t have free choices;
+What all this means is that, in the current system, we don't have free choices;
 we have constrained choices. [\*](#ASIN:B00APDFVLU;LOC:3100)
 
 I need to emphasize that these negative outcomes are not the goal of the current
@@ -146,7 +146,7 @@ system. They’re simply an unavoidable side effect of the primary goal:
 ever-increasing profits for the several industries whose activities constitute
 and maintain the system.
 
-As I said, this isn’t a story of nefarious individuals’ intentions; to the
+As I said, this isn't a story of nefarious individuals’ intentions; to the
 contrary, most of the people contributing to the current mess truly believe
 they’re doing good.
 
@@ -217,7 +217,7 @@ and a willingness to be proved wrong. Technology is defined by market potential;
 only those questions that can be answered with dollar signs are deemed worthy of
 investigation.
 
-This isn’t a new phenomenon. The subjugation of science to industrial profits
+This isn't a new phenomenon. The subjugation of science to industrial profits
 has been going on for at least the past century, since capitalism devised the
 intellectual property protections that could fully reward those whose
 discoveries and inventions could be converted to products, sales, and capital.
@@ -254,7 +254,7 @@ Sadly, the public has become convinced that these research priorities are the
 best way of achieving our health goals, when they are just the best way of
 achieving greater profit.
 
-But the profit motive doesn’t just limit researchers’ ability to do rigorous
+But the profit motive doesn't just limit researchers’ ability to do rigorous
 science through industry’s funding priorities; it also leads to serious negative
 consequences, such as industry’s push to translate questionable research
 findings into profit as quickly as possible.
@@ -273,9 +273,9 @@ between food and health to believe otherwise.
 If someone asked you to create public health policy for which the goal was to
 mislead the maximum number of people in ways that would compromise their health
 while profiting the pharmaceutical, medical, and junk food industries, you
-couldn’t do much better than what’s currently in place.
+couldn't do much better than what’s currently in place.
 
-Corporate interests don’t just fund elections; they are willing and able to end
+Corporate interests don't just fund elections; they are willing and able to end
 political careers and derail progressive legislation as soon as they get a whiff
 of any move that might threaten their bottom line. And that means laws are
 enacted that further the interests of the wealthiest rather than the public

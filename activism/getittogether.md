@@ -11,7 +11,7 @@ in 1942 and built from 1948, became the template for the provision of universal
 healthcare across the world.
 
 The arguments from the Conservatives, in 1946, were exactly as you’d hear them
-today; one, we can’t afford this magnificent thing. Two, greedy people will
+today; one, we can't afford this magnificent thing. Two, greedy people will
 misuse it.
 
 Almost nobody visits the doctor unless they have to. It is only in economic
@@ -32,7 +32,7 @@ what they’re doing. But underneath it is a shambles. They have the highest cos
 per capita in the world; life expectancy is, believe it or not, worse than it
 was in the 1970s.
 
-In the US, they spend 34% of their healthcare budgets on management. This isn’t
+In the US, they spend 34% of their healthcare budgets on management. This isn't
 fraud or mismanagement or error; it’s just what it costs.
 
 The annual health spend in America is $2.7 trillion, or 17% of GDP. No one even
@@ -67,11 +67,11 @@ the benefits, so desperately sought by the people who believe they must be
 there, are pretty contested and vanishing small when set against the
 disadvantages.
 
-There’s no reason why we shouldn’t look at health the way we do at primary
+There’s no reason why we shouldn't look at health the way we do at primary
 schools – what’s to stop you getting involved? We can make our healthcare a
 co-production.
 
-Knowing it to be the best doesn’t mean preserving it in aspic. If we trust one
+Knowing it to be the best doesn't mean preserving it in aspic. If we trust one
 another to protect its foundations, we can build something grander still. Can we
 still afford it? It’s the best money we’ve ever spent, and will remain so.
 

@@ -125,7 +125,7 @@ preferences are not only a marker of our personal preferences, but also highly
 social.
 
 When we dress, we want to impress other people. Our passion for certain kinds of
-music goes hand-in-hand with disparagement of the music that we don’t like. This
+music goes hand-in-hand with disparagement of the music that we don't like. This
 invariably slides into a dislike of the people whom we assume do like such
 music.
 
@@ -242,7 +242,7 @@ and the north of the United Kingdom are of devastation.
 The rent demanded by the private sector in London has now gone beyond the income
 range of anyone earning a low or average wage
 
-How can we explain the fact that two-thirds of the UK population don’t feel like
+How can we explain the fact that two-thirds of the UK population don't feel like
 they belong to a social class? Why are people ambivalent and doubtful about
 which class they belong to?
 
@@ -254,7 +254,7 @@ class, the extent of inequality, and the way that it shapes people’s life
 chances unequally, means that class is still deeply felt in people’s identities.
 
 Our sense of class is often recognized, not through understandings of who we
-are, but rather who we aren’t. [\*](#ASIN:B00ZE9704Q;LOC:3855)
+are, but rather who we aren't. [\*](#ASIN:B00ZE9704Q;LOC:3855)
 
 Class snobbery in twenty-first-century Britain is far from dead; it has simply
 gone underground.

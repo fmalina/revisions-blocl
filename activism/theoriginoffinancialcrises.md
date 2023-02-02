@@ -91,7 +91,7 @@ Individual asset price movements are unpredictable. However, the distributions
 of asset price movements are predictable.
 
 The only fly in the ointment of this grand story is, as noted, that the data
-just doesn’t fit the theory. We don’t find normally-distributed markets; we do
+just doesn't fit the theory. We don't find normally-distributed markets; we do
 find huge market discontinuities and, let’s be honest, a static stable
 equilibrium has never once been observed anywhere in financial markets.
 
@@ -130,7 +130,7 @@ Friedman and the Keynes schools are logical they cannot both be correct; to one,
 central banks cause financial instability, to the other they cure it.
 
 We have one philosophy of economics and finance that tells us these crises
-shouldn’t happen and can be avoided, provided we stop tinkering with the economy
+shouldn't happen and can be avoided, provided we stop tinkering with the economy
 and shut down our central banks. We have another philosophy that says these
 crises are inherent in the system and we need central banks to help manage them.
 Then there is a third school, which also happens to be today’s conventional
@@ -351,7 +351,7 @@ control the wrong variable, with the wrong control signal, we have little to no
 chance of arriving at a strategy for delivering the correct control impulse.
 
 Benoit Mandelbrot, the mathematician who invented fractal geometry, has been
-arguing that the behaviour of real financial markets just doesn’t fit with the
+arguing that the behaviour of real financial markets just doesn't fit with the
 theories of efficient markets.
 
 Mandelbrot’s work on financial markets should be praised for its honesty. In the

@@ -30,7 +30,7 @@ to go with it. So here it goes.
 * **Richmond university in London**: Independent Housing Options
 * **Bedford University**: Private rented accommodation
 * **Cambridge University**: Alternative Accommodation in Cambridge
-* **Oxford**: What if I can’t get College accommodation?
+* **Oxford**: What if I can't get College accommodation?
 * **Buckinghamshire New University**: Accommodation - Useful websites
 * **Sanger institute**: Housing
 * **Abertay University**: Private Accommodation - Useful websites

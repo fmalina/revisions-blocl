@@ -88,7 +88,7 @@ the UK’s Financial Services Authority, Lord (Adair) Turner, who stated that:
 “The financial crisis of 2007/08 occurred because we failed to constrain the
 private financial system’s creation of private credit and money” (2012).
 
-Yet if this instability in the money supply weren’t enough of a problem, newly
+Yet if this instability in the money supply weren't enough of a problem, newly
 created money is accompanied by an equivalent amount of debt. It is therefore
 extremely difficult to reduce the overall burden of personal and household debt
 when any attempt to pay it down leads to a reduction in the money supply, which

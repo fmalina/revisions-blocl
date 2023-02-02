@@ -131,7 +131,7 @@ Typical scam email continued
 >      1) Then, we will meet for viewing.
 >   
 >      2) If you decide to take the flat, we will go to any local Western Union outlet
->      close to the flat for you to pick up the money and pay me. (You don’t need to
+>      close to the flat for you to pick up the money and pay me. (You don't need to
 >      come with cash to view, after viewing we will go together, you will cancel the
 >      transfer and withdraw the money to pay me).
 >   

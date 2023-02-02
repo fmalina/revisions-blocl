@@ -10,7 +10,7 @@ propositions.
 
 Politics has never been central to the Christian religious experience… But
 politics was no secondary issue for Muslims. We have seen that it had been the
-theatre of their religious quest. Salvation didn’t mean redemption from sin, but
+theatre of their religious quest. Salvation didn't mean redemption from sin, but
 the creation of a just society in which the individual could more easily make
 that existential surrender of his or her whole being that would bring them
 fulfilment. The policy was therefore a matter of supreme importance, and

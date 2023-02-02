@@ -13,7 +13,7 @@ ideology is enforcing an increasingly narrow political correctness centred on
 “free” markets and the right of the rich to do and say whatever they like.
 
 We need to speak in plain English, to everyone, and get straight to the point.
-Economists don’t know what they’re talking about. We should remove economists
+Economists don't know what they’re talking about. We should remove economists
 from positions of power and influence. Get them out of treasuries, central
 banks, media, universities, wherever they spread their baleful ignorance.
 
@@ -111,7 +111,7 @@ re-invests it. In the real modern world the capitalist borrows most of the
 money. So perhaps we should re-name the present regime debtism instead of
 capitalism.
 
-You won’t hear this said very often. Changing the way money is supplied seems to
+You won't hear this said very often. Changing the way money is supplied seems to
 be a deeply disreputable topic among economists.
 
 Of course the present system has allowed bankers and financiers to become
@@ -144,7 +144,7 @@ investment.**
 On the one hand, economists say one person’s debt is another person’s asset. On
 the other hand the economics texts explain the fractional reserve system, which
 involves the creation of new money in the loans process, which contradicts the
-first claim. I don’t know why the contradiction is not noticed, but it is not
+first claim. I don't know why the contradiction is not noticed, but it is not
 the only fundamental inconsistency in mainstream economics.
 
 Debt and money are excluded from the computer models used by economists to
@@ -308,7 +308,7 @@ understanding and managing them still sounds daunting. Again, there is a path
 forward, and it will not be too unfamiliar to the more pragmatically minded
 economic managers.
 
-So, do we have to give up on markets and all become socialists? I don’t think
+So, do we have to give up on markets and all become socialists? I don't think
 so. The problem is not markets per se, the problem is unfettered markets. The
 lesson is that markets should not be left to themselves.
 
@@ -340,7 +340,7 @@ centuries.
 We also need to abandon the implicit and insane goal of increasing material
 production without limit, and to manage instead for improved quality of life.
 
-I haven’t heard a sustained campaign by the economics profession to get the GDP
+I haven't heard a sustained campaign by the economics profession to get the GDP
 replaced by a proper balance sheet, one that shows incomes and costs and
 calculates the net benefit of our activities. Using the GDP to measure our
 “standard of living” or national income violates the most elementary requirement
@@ -385,7 +385,7 @@ resulted in cuts to community and social services, along with infrastructure, so
 people receive less “in-kind” income and have less social support as stress
 levels rise.
 
-You can put a dollar value on the timber in a forest, but you can’t put a dollar
+You can put a dollar value on the timber in a forest, but you can't put a dollar
 value on the healthful and aesthetic experience of being in a mature forest, nor
 on its biodiversity, without which the Earth would be a less effective life
 support system.
@@ -787,7 +787,7 @@ the rich at the expense of the poor. Often they harm the environment as well,
 thus harming everyone.
 
 Tax havens could be closed down overnight by concerted action of a few rich
-nations, but those nations’ governments are owned by the rich, so it doesn’t
+nations, but those nations’ governments are owned by the rich, so it doesn't
 happen. The proportion of taxes collected from corporations has dropped by about
 half over the past half century.
 
@@ -890,9 +890,9 @@ If the socialist goals of social and economic justice begin to be achieved by
 means other than pervasive government ownership and management then perhaps
 socialists will begin to see the benefit of sensibly managing markets.
 
-If we don’t take the trouble to imagine better ways, we will certainly be
-trapped in our current predicament. If we all agree it can’t be done, we will
-certainly be correct. If we don’t change our ways, and soon, the Earth will
+If we don't take the trouble to imagine better ways, we will certainly be
+trapped in our current predicament. If we all agree it can't be done, we will
+certainly be correct. If we don't change our ways, and soon, the Earth will
 change them for us.
 
 Most of us, already, do not want things to continue as they are. Most of us

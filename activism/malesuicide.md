@@ -9,13 +9,13 @@ grandfather, a university professor and a recognised inventor, had a broken
 heart loosing his 2nd wife while my mother, an artist, carried out her
 self-euthanasia quite recently, and with her extremely poor health having spoken
 to a doctor we found out she did this with dignity and even professionalism.
-These things are normal and they happen. What isn’t normal is the ratio. There
-aren’t 3 times as many men in the UK\*, they are under three times the pressure.
+These things are normal and they happen. What isn't normal is the ratio. There
+aren't 3 times as many men in the UK\*, they are under three times the pressure.
 This is one area where women also need to take the lead and catch up, take that
-pressure off, equality won’t be achieved without this. **What can we do to
+pressure off, equality won't be achieved without this. **What can we do to
 increase support for men?** Big white heterosexual men as all men need as much
 help and support as any other group, not just pressure because they are
-perceived to be strong. They aren’t stronger than this negative discrimination.
+perceived to be strong. They aren't stronger than this negative discrimination.
 
 
 > **What practical steps can we take personally and as a group to deal with issues

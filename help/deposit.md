@@ -31,7 +31,7 @@ Who looks after the deposit?
 If your landlord lives in the same property as you the landlord will store the
 deposit until you leave.
 
-If you don’t have a live-in landlord your deposit should be protected by a
+If you don't have a live-in landlord your deposit should be protected by a
 tenancy deposit scheme please read below.
 
 Deposit legislation

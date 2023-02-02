@@ -76,7 +76,7 @@ emerged more powerful out of this process.
 For the working classes, however, greater competition meant something quite
 different. Global ‘competitiveness’ has been the greatest disciplinary force
 confronting workers (directly in the private sector, indirectly in the public
-sector): ‘compete or lose your job and livelihood: compete or our country won’t
+sector): ‘compete or lose your job and livelihood: compete or our country won't
 be able to afford social programs.’ As the competition between companies was
 translated into competition between workers, workers were pushed to identify
 with their own employer, whilst undermining each other in the desperation to
@@ -95,7 +95,7 @@ would have had confronted much deeper uncertainties – and a more ambitious and
 far-reaching set of alternatives might have reached the public agenda.
 
 If we are to more than hope for the crisis to be over so we can return to a
-capitalism that didn’t address our needs earlier, and more than passively watch
+capitalism that didn't address our needs earlier, and more than passively watch
 as capitalism narrows our lives even further, then a new historic project must
 be placed on the agenda. And if this is to happen, organised labour will have to
 be one of the central agents in advancing it.
@@ -104,7 +104,7 @@ It is only through a great deal of ideological obfuscation and re-writing of
 history that market freedoms can be equated with the development of political
 freedoms.
 
-But militancy by itself won’t be enough. Public sector unions and services have
+But militancy by itself won't be enough. Public sector unions and services have
 been under attack for thirty years now and no effective response has developed
 during that time. That failure is most evident at this moment: given the
 financial crisis has exposed the spectacular failure of the market and
@@ -123,9 +123,9 @@ times like the present. Workers are now suffering from this lack of preparation.
 While corporations have become more radical an aggressive, the labour movement
 has become more cautious and defensive.  The most important question for the
 labour movement is to come to grips with those past failures and the need to
-become as radical as the other side.  If we don’t develop a vision that
+become as radical as the other side.  If we don't develop a vision that
 fundamentally questions the anti-social logic of capitalism, and build
-collective capacities that can challenge corporate power, things won’t just stay
+collective capacities that can challenge corporate power, things won't just stay
 the same.  They are likely to get worse.
 
 This is why it is so important to raise not merely the regulation of finance but
