@@ -1,5 +1,6 @@
 Lets with Pets
 ==============
+![Landlord allowing a pet](https://i.ibb.co/qRVWdng/letswithpets.jpg)
 
 Lets With Pets statistics show that **Landlords who exclude pet owners from
 their properties are missing out** on a large chunk of the rental market as
